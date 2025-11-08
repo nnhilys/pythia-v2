@@ -1,6 +1,6 @@
 import type { Quantitative } from '@/control/type'
 
-export type ChartData = { qualitative: string, quantitative: number }[]
+export type ChartData = (Record<string, string>)[]
 
 type AgeGroup = 'Child' | 'Young Adult' | 'Adult' | 'Middle Age' | 'Elder'
 
@@ -24,8 +24,6 @@ export function getChartLabel(key: Quantitative): string {
       return 'Transactions'
     case 'avenue':
       return 'Avenue'
-    case 'customers':
-      return 'Customers'
     default:
       return ''
   }

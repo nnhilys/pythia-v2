@@ -32,7 +32,7 @@ function randomDobDate(startYear = 1960, endYear = 2000) {
   const day = String(date.getDate()).padStart(2, '0')
   const month = String(date.getMonth() + 1).padStart(2, '0')
   const year = date.getFullYear()
-  return `${day}/${month}/${year}`
+  return `${year}-${month}-${day}`
 }
 
 let demographic_csv = 'id,dob,gender,country,city,job_title,job_industry,wealth_segment\n'
@@ -66,7 +66,7 @@ function randomTransactionDate(startYear = 2020, endYear = 2024) {
   const day = String(date.getDate()).padStart(2, '0')
   const month = String(date.getMonth() + 1).padStart(2, '0')
   const year = date.getFullYear()
-  return `${day}/${month}/${year}`
+  return `${year}-${month}-${day}`
 }
 
 function randomAmount(min = 10, max = 1000) {

@@ -28,9 +28,6 @@ export function ControlQuantitative(props: {
         <SelectItem value="avenue">
           Total avenue (K)
         </SelectItem>
-        <SelectItem value="customers">
-          Number of customers
-        </SelectItem>
       </SelectContent>
     </Select>
   )
