@@ -8,7 +8,7 @@ import {
   ChartTooltip,
   ChartTooltipContent,
 } from '@/components/ui/chart'
-import { getChartLabel } from './type'
+import { CHART_COLORS, getChartLabel } from './type'
 
 export function ChartBar(props: {
   data: ChartData
@@ -39,7 +39,7 @@ export function ChartBar(props: {
         <ChartTooltip content={<ChartTooltipContent hideIndicator />} />
         <Bar
           dataKey="quantitative"
-          fill="var(--chart-1)"
+          fill={CHART_COLORS[0]}
           radius={4}
         />
       </BarChart>

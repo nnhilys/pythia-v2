@@ -11,18 +11,20 @@ export function ControlMain(props: {
   const { control, onChange } = props
   return (
     <>
-      <ControlDateRange
-        value={control.dateRange}
-        onValueChange={dateRange => onChange({ ...control, dateRange })}
+      <ControlQualitative
+        value={control.qualitative}
+        onValueChange={qualitative => onChange({ ...control, qualitative })}
       />
       <ControlQuantitative
         value={control.quantitative}
         onValueChange={quantitative => onChange({ ...control, quantitative })}
       />
-      <ControlQualitative
-        value={control.qualitative}
-        onValueChange={qualitative => onChange({ ...control, qualitative })}
-      />
+      {control.quantitative !== 'customers' && (
+        <ControlDateRange
+          value={control.dateRange}
+          onValueChange={dateRange => onChange({ ...control, dateRange })}
+        />
+      )}
     </>
   )
 }

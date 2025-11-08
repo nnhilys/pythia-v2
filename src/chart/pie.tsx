@@ -6,28 +6,18 @@ import type {
 import { Pie, PieChart } from 'recharts'
 import {
   ChartContainer,
+  ChartLegend,
+  ChartLegendContent,
   ChartTooltip,
   ChartTooltipContent,
 } from '@/components/ui/chart'
-
-const colors = [
-  '#4E79A7',
-  '#F28E2B',
-  '#E15759',
-  '#76B7B2',
-  '#59A14F',
-  '#EDC948',
-  '#B07AA1',
-  '#FF9DA7',
-  '#9C755F',
-  '#BAB0AC',
-]
+import { CHART_COLORS } from './type'
 
 export function ChartPie(props: { data: ChartData }): ReactElement {
   const { data } = props
 
   const chartData = data.map((cur, index) => {
-    return { ...cur, fill: colors[index % 10] }
+    return { ...cur, fill: CHART_COLORS[index % CHART_COLORS.length] }
   })
 
   const chartConfig: ChartConfig = data.reduce((acc, cur) => {
@@ -50,6 +40,10 @@ export function ChartPie(props: { data: ChartData }): ReactElement {
           content={<ChartTooltipContent hideLabel />}
         />
         <Pie data={chartData} dataKey="quantitative" nameKey="qualitative" />
+        <ChartLegend
+          content={<ChartLegendContent nameKey="qualitative" />}
+          className="-translate-y-2 flex-wrap gap-4"
+        />
       </PieChart>
     </ChartContainer>
   )
