@@ -1,0 +1,1816 @@
+id,dob,gender,country,city,job_title,job_industry,wealth_segment
+ID0001,03/09/2000,Female,Canada,Vancouver,Consultant,Education,High Net Worth
+ID0002,03/05/1999,Male,Vietnam,Ho Chi Minh,Software Engineer,Construction,Mass Affluent
+ID0003,01/04/1977,Female,Vietnam,Ho Chi Minh,Marketing Manager,Marketing,High Net Worth
+ID0004,27/10/1979,Male,Vietnam,Ho Chi Minh,General Manager,Education,Mass Affluent
+ID0005,24/01/1979,Male,Canada,Toronto,Data Scientist,Hospitality,High Net Worth
+ID0006,08/07/1971,Male,Vietnam,Hanoi,General Manager,Marketing,Mass Affluent
+ID0007,12/08/1969,Male,UK,London,General Manager,Hospitality,High Net Worth
+ID0008,04/08/1994,Female,Australia,Sydney,Consultant,Finance,High Net Worth
+ID0009,07/09/1985,Male,Australia,Sydney,Software Engineer,Hospitality,High Net Worth
+ID0010,12/04/1993,Male,Vietnam,Ho Chi Minh,General Manager,Finance,High Net Worth
+ID0011,03/03/1988,Male,Australia,Melbourne,Data Scientist,IT,Affluent
+ID0012,04/09/1987,Female,UK,Manchester,Accountant,IT,Affluent
+ID0013,11/09/1987,Male,France,Paris,Project Manager,Hospitality,Mass Affluent
+ID0014,13/07/1979,Female,USA,New York,Software Engineer,Education,Affluent
+ID0015,25/05/1998,Male,Australia,Sydney,Accountant,Marketing,Mass Affluent
+ID0016,01/08/1974,Male,UK,London,Financial Analyst,Healthcare,High Net Worth
+ID0017,18/02/1995,Male,Canada,Vancouver,HR Specialist,IT,High Net Worth
+ID0018,31/12/1985,Female,Australia,Sydney,Data Scientist,Retail,High Net Worth
+ID0019,24/08/1991,Male,Canada,Toronto,Marketing Manager,Hospitality,Mass Affluent
+ID0020,03/06/1971,Male,Australia,Sydney,Project Manager,Retail,Affluent
+ID0021,24/11/1995,Male,Canada,Toronto,General Manager,Finance,Mass Affluent
+ID0022,15/07/1994,Female,UK,London,HR Specialist,Healthcare,Mass Affluent
+ID0023,21/11/1972,Male,USA,New York,Accountant,Retail,Affluent
+ID0024,10/02/1994,Male,Australia,Sydney,HR Specialist,Construction,High Net Worth
+ID0025,19/06/1979,Female,France,Paris,HR Specialist,IT,High Net Worth
+ID0026,22/10/1965,Female,Australia,Melbourne,Project Manager,Marketing,Mass Affluent
+ID0027,17/06/1962,Female,USA,Los Angeles,Sales Executive,Construction,High Net Worth
+ID0028,16/10/2000,Male,Germany,Berlin,Consultant,IT,Affluent
+ID0029,18/11/1998,Male,USA,New York,Project Manager,Retail,High Net Worth
+ID0030,19/02/1971,Female,UK,Manchester,Accountant,Finance,Mass Affluent
+ID0031,05/09/1963,Male,UK,London,Project Manager,Finance,High Net Worth
+ID0032,28/06/1968,Female,UK,Manchester,General Manager,Finance,High Net Worth
+ID0033,10/01/1993,Female,UK,London,Software Engineer,Retail,High Net Worth
+ID0034,14/04/1985,Female,Vietnam,Hanoi,Accountant,IT,High Net Worth
+ID0035,01/02/1960,Male,Vietnam,Ho Chi Minh,Data Scientist,IT,Mass Affluent
+ID0036,16/11/1983,Female,Canada,Vancouver,Accountant,Retail,Mass Affluent
+ID0037,10/08/1989,Male,France,Paris,Data Scientist,Finance,High Net Worth
+ID0038,13/11/1963,Female,Germany,Berlin,Financial Analyst,Finance,Affluent
+ID0039,18/04/1963,Female,Vietnam,Ho Chi Minh,Marketing Manager,Education,High Net Worth
+ID0040,28/01/1967,Male,USA,New York,Data Scientist,Education,High Net Worth
+ID0041,20/10/1967,Female,Vietnam,Hanoi,Consultant,IT,Mass Affluent
+ID0042,18/06/1970,Female,Canada,Toronto,Consultant,Retail,High Net Worth
+ID0043,14/03/1983,Female,France,Paris,General Manager,Marketing,Mass Affluent
+ID0044,16/08/1964,Male,Vietnam,Hanoi,Project Manager,Hospitality,High Net Worth
+ID0045,30/12/1997,Male,Germany,Berlin,General Manager,Healthcare,Mass Affluent
+ID0046,21/06/1980,Female,Vietnam,Ho Chi Minh,Marketing Manager,Finance,High Net Worth
+ID0047,22/11/1996,Female,Australia,Sydney,Software Engineer,Construction,High Net Worth
+ID0048,24/04/1985,Female,Australia,Melbourne,General Manager,Healthcare,High Net Worth
+ID0049,22/11/1971,Male,Germany,Berlin,Financial Analyst,Hospitality,Mass Affluent
+ID0050,15/01/1995,Female,USA,Los Angeles,Consultant,Marketing,Mass Affluent
+ID0051,25/12/1998,Male,UK,London,HR Specialist,Hospitality,High Net Worth
+ID0052,22/08/1994,Female,USA,Los Angeles,Consultant,Marketing,Affluent
+ID0053,15/01/1982,Female,USA,New York,Sales Executive,IT,High Net Worth
+ID0054,17/04/1971,Male,Germany,Berlin,Consultant,Retail,Mass Affluent
+ID0055,16/05/1997,Female,Vietnam,Hanoi,Software Engineer,Retail,Mass Affluent
+ID0056,15/09/1965,Male,Australia,Melbourne,Marketing Manager,Construction,High Net Worth
+ID0057,27/10/1981,Male,Vietnam,Hanoi,Accountant,IT,Affluent
+ID0058,19/03/1983,Male,Canada,Toronto,Consultant,Finance,Mass Affluent
+ID0059,24/10/1990,Female,USA,New York,Data Scientist,Finance,Mass Affluent
+ID0060,05/07/1999,Male,Canada,Toronto,Project Manager,Hospitality,High Net Worth
+ID0061,15/05/1980,Female,Vietnam,Ho Chi Minh,Accountant,Education,Affluent
+ID0062,18/09/1981,Male,Vietnam,Ho Chi Minh,Sales Executive,Marketing,Affluent
+ID0063,29/11/1963,Male,USA,New York,Sales Executive,IT,Affluent
+ID0064,28/10/1999,Female,Australia,Melbourne,Financial Analyst,Retail,High Net Worth
+ID0065,23/06/2000,Male,Canada,Vancouver,Sales Executive,Retail,Mass Affluent
+ID0066,31/12/1961,Male,USA,New York,Accountant,Retail,Affluent
+ID0067,17/10/2000,Female,USA,New York,General Manager,Education,Affluent
+ID0068,28/07/1995,Male,USA,Los Angeles,Software Engineer,Healthcare,Mass Affluent
+ID0069,22/02/1983,Female,Vietnam,Ho Chi Minh,Project Manager,Education,Affluent
+ID0070,10/05/1972,Male,Germany,Berlin,Accountant,Retail,Mass Affluent
+ID0071,09/10/1973,Female,USA,Los Angeles,HR Specialist,Education,High Net Worth
+ID0072,21/07/1961,Male,Australia,Sydney,HR Specialist,Construction,Mass Affluent
+ID0073,04/09/1969,Male,France,Paris,Software Engineer,Education,High Net Worth
+ID0074,16/11/1963,Male,UK,Manchester,General Manager,Construction,Mass Affluent
+ID0075,10/07/2000,Female,Germany,Berlin,Data Scientist,Healthcare,Affluent
+ID0076,15/05/1972,Male,Canada,Vancouver,Project Manager,IT,Mass Affluent
+ID0077,31/08/1984,Male,Australia,Sydney,Financial Analyst,Finance,Mass Affluent
+ID0078,11/12/1963,Male,Canada,Vancouver,Data Scientist,IT,High Net Worth
+ID0079,16/03/1993,Male,Australia,Sydney,Consultant,Retail,Mass Affluent
+ID0080,25/11/1961,Female,UK,London,Sales Executive,Healthcare,Affluent
+ID0081,30/08/1976,Female,Vietnam,Ho Chi Minh,Consultant,Marketing,Affluent
+ID0082,31/05/1996,Male,UK,London,Accountant,Construction,High Net Worth
+ID0083,20/03/1987,Male,UK,Manchester,Software Engineer,Finance,High Net Worth
+ID0084,22/11/1986,Male,Germany,Berlin,Project Manager,Construction,Affluent
+ID0085,27/03/1985,Female,USA,Los Angeles,HR Specialist,Retail,Affluent
+ID0086,05/01/1975,Female,Australia,Sydney,Data Scientist,Education,High Net Worth
+ID0087,05/01/1986,Female,France,Paris,Sales Executive,IT,High Net Worth
+ID0088,21/07/1999,Male,Australia,Sydney,General Manager,IT,Affluent
+ID0089,21/11/1977,Female,Canada,Toronto,Sales Executive,Construction,High Net Worth
+ID0090,13/10/1971,Male,Australia,Sydney,General Manager,Retail,Mass Affluent
+ID0091,30/12/1983,Male,UK,Manchester,Consultant,Healthcare,Mass Affluent
+ID0092,04/12/1980,Female,Canada,Toronto,Project Manager,Marketing,Mass Affluent
+ID0093,07/01/1965,Male,Canada,Vancouver,HR Specialist,Finance,Mass Affluent
+ID0094,14/10/1978,Male,UK,London,HR Specialist,Hospitality,High Net Worth
+ID0095,28/11/1991,Male,USA,Los Angeles,Project Manager,Retail,High Net Worth
+ID0096,24/02/1967,Male,Vietnam,Ho Chi Minh,Accountant,Marketing,High Net Worth
+ID0097,06/10/1989,Male,Australia,Melbourne,Data Scientist,Retail,High Net Worth
+ID0098,04/10/1975,Female,USA,Los Angeles,HR Specialist,Education,Mass Affluent
+ID0099,23/11/2000,Female,Canada,Vancouver,Software Engineer,Hospitality,High Net Worth
+ID0100,23/05/1962,Female,Australia,Sydney,Accountant,Construction,High Net Worth
+ID0101,28/03/1984,Female,USA,New York,Consultant,Retail,High Net Worth
+ID0102,01/07/1979,Female,France,Paris,General Manager,Finance,High Net Worth
+ID0103,01/02/1988,Female,Canada,Toronto,Data Scientist,Education,Mass Affluent
+ID0104,31/07/1970,Female,Canada,Toronto,Project Manager,Construction,Mass Affluent
+ID0105,09/02/1986,Male,USA,New York,HR Specialist,IT,Affluent
+ID0106,21/08/1976,Female,Vietnam,Hanoi,Software Engineer,IT,Mass Affluent
+ID0107,02/01/1996,Female,UK,Manchester,Accountant,Retail,High Net Worth
+ID0108,21/12/1988,Male,Canada,Toronto,Sales Executive,Marketing,Affluent
+ID0109,03/12/1982,Female,France,Paris,Consultant,Healthcare,Affluent
+ID0110,18/06/1969,Male,Canada,Vancouver,Sales Executive,Hospitality,Affluent
+ID0111,29/03/1991,Male,France,Paris,General Manager,Marketing,Affluent
+ID0112,25/11/1995,Male,Canada,Toronto,Marketing Manager,Education,High Net Worth
+ID0113,12/12/1960,Female,Canada,Toronto,Consultant,Healthcare,High Net Worth
+ID0114,16/12/1973,Male,Vietnam,Ho Chi Minh,Data Scientist,Education,Mass Affluent
+ID0115,09/05/1997,Female,USA,New York,Sales Executive,Finance,High Net Worth
+ID0116,02/06/1976,Female,Vietnam,Ho Chi Minh,HR Specialist,Finance,Mass Affluent
+ID0117,08/04/1993,Male,Germany,Berlin,General Manager,Hospitality,Mass Affluent
+ID0118,06/07/1974,Female,Vietnam,Hanoi,General Manager,Marketing,Affluent
+ID0119,29/01/1996,Male,Australia,Sydney,Project Manager,Construction,Affluent
+ID0120,21/06/1998,Female,Australia,Melbourne,Data Scientist,Retail,Affluent
+ID0121,07/07/1972,Female,Canada,Toronto,Accountant,Hospitality,High Net Worth
+ID0122,13/10/1998,Male,Vietnam,Ho Chi Minh,HR Specialist,Finance,Affluent
+ID0123,04/09/1974,Female,UK,London,HR Specialist,Finance,Affluent
+ID0124,21/02/1995,Female,France,Paris,Sales Executive,Marketing,High Net Worth
+ID0125,09/12/1976,Female,UK,Manchester,Consultant,Finance,High Net Worth
+ID0126,06/06/2000,Male,Vietnam,Hanoi,Accountant,Healthcare,High Net Worth
+ID0127,02/08/1997,Male,Vietnam,Ho Chi Minh,Project Manager,Hospitality,Mass Affluent
+ID0128,20/07/1982,Female,Canada,Vancouver,Software Engineer,Healthcare,High Net Worth
+ID0129,07/10/1983,Male,Australia,Sydney,Financial Analyst,IT,Affluent
+ID0130,26/09/1974,Male,UK,Manchester,Project Manager,Hospitality,High Net Worth
+ID0131,05/05/1992,Female,Australia,Melbourne,Financial Analyst,Healthcare,High Net Worth
+ID0132,16/12/1992,Female,UK,London,Sales Executive,Finance,Mass Affluent
+ID0133,12/07/1978,Female,USA,New York,Marketing Manager,Healthcare,Mass Affluent
+ID0134,21/03/1966,Male,USA,New York,Financial Analyst,IT,Mass Affluent
+ID0135,06/06/1981,Male,UK,London,Marketing Manager,IT,Affluent
+ID0136,10/01/1979,Male,Australia,Sydney,Software Engineer,IT,Affluent
+ID0137,13/02/1972,Female,Germany,Berlin,HR Specialist,IT,High Net Worth
+ID0138,17/11/1982,Female,Canada,Toronto,Financial Analyst,Finance,Mass Affluent
+ID0139,16/04/1981,Female,Australia,Sydney,Project Manager,Marketing,Mass Affluent
+ID0140,08/10/1961,Female,Vietnam,Hanoi,Consultant,Retail,Affluent
+ID0141,12/12/1976,Female,France,Paris,HR Specialist,Construction,Affluent
+ID0142,11/05/1998,Male,Australia,Melbourne,Consultant,Healthcare,Mass Affluent
+ID0143,09/08/1978,Female,Canada,Vancouver,Data Scientist,Retail,Affluent
+ID0144,10/03/1997,Female,Australia,Melbourne,Financial Analyst,IT,High Net Worth
+ID0145,01/10/1983,Male,Australia,Melbourne,HR Specialist,Marketing,Mass Affluent
+ID0146,03/12/1997,Female,USA,New York,Project Manager,Education,High Net Worth
+ID0147,11/01/1992,Male,Australia,Sydney,Financial Analyst,IT,High Net Worth
+ID0148,16/12/1989,Female,USA,New York,Project Manager,IT,Affluent
+ID0149,06/12/1970,Female,UK,London,Software Engineer,Hospitality,Affluent
+ID0150,21/05/1995,Female,Australia,Sydney,Marketing Manager,Hospitality,High Net Worth
+ID0151,20/09/1983,Male,UK,Manchester,Consultant,Finance,Affluent
+ID0152,11/02/1971,Male,France,Paris,HR Specialist,Education,High Net Worth
+ID0153,16/05/1961,Male,USA,Los Angeles,General Manager,Education,Mass Affluent
+ID0154,02/01/1960,Male,Vietnam,Hanoi,Consultant,Marketing,Mass Affluent
+ID0155,22/12/1981,Female,USA,Los Angeles,Sales Executive,IT,Affluent
+ID0156,10/05/1973,Male,Australia,Melbourne,HR Specialist,Construction,Affluent
+ID0157,31/07/1989,Female,Germany,Berlin,Sales Executive,Hospitality,Affluent
+ID0158,30/01/1968,Male,France,Paris,Data Scientist,Healthcare,Mass Affluent
+ID0159,05/08/2000,Male,Vietnam,Ho Chi Minh,Consultant,Marketing,Mass Affluent
+ID0160,21/11/1974,Male,Germany,Berlin,Consultant,Healthcare,Affluent
+ID0161,05/05/1970,Male,Vietnam,Hanoi,Project Manager,Finance,High Net Worth
+ID0162,22/08/1980,Female,Canada,Vancouver,HR Specialist,Education,Affluent
+ID0163,12/10/1968,Female,Vietnam,Hanoi,Project Manager,IT,Mass Affluent
+ID0164,13/11/1993,Female,Canada,Toronto,Consultant,Hospitality,High Net Worth
+ID0165,03/06/1988,Male,USA,Los Angeles,Project Manager,Education,Mass Affluent
+ID0166,06/09/1985,Female,UK,London,Project Manager,Healthcare,High Net Worth
+ID0167,04/10/1966,Male,Australia,Melbourne,General Manager,IT,High Net Worth
+ID0168,07/11/1989,Female,Germany,Berlin,Data Scientist,IT,Affluent
+ID0169,26/07/1979,Female,Germany,Berlin,Data Scientist,Construction,Affluent
+ID0170,04/12/1984,Male,USA,Los Angeles,Marketing Manager,Healthcare,Affluent
+ID0171,30/10/2000,Male,Canada,Vancouver,Consultant,Hospitality,High Net Worth
+ID0172,27/04/1990,Male,UK,London,Marketing Manager,Hospitality,High Net Worth
+ID0173,31/12/1987,Female,Vietnam,Hanoi,General Manager,Finance,Mass Affluent
+ID0174,11/04/1973,Female,France,Paris,Financial Analyst,IT,High Net Worth
+ID0175,26/06/1985,Female,USA,Los Angeles,Sales Executive,Construction,Affluent
+ID0176,28/03/1967,Female,France,Paris,Financial Analyst,Healthcare,Affluent
+ID0177,31/12/1965,Male,Canada,Vancouver,Marketing Manager,Education,High Net Worth
+ID0178,21/10/1970,Male,Vietnam,Ho Chi Minh,Consultant,IT,Mass Affluent
+ID0179,01/05/1968,Male,USA,Los Angeles,Data Scientist,Marketing,Mass Affluent
+ID0180,01/05/1977,Male,Germany,Berlin,HR Specialist,Retail,Mass Affluent
+ID0181,21/01/1984,Female,Germany,Berlin,HR Specialist,Retail,Mass Affluent
+ID0182,06/11/1985,Male,Germany,Berlin,Project Manager,IT,Mass Affluent
+ID0183,18/06/1977,Female,USA,Los Angeles,General Manager,Construction,Mass Affluent
+ID0184,22/12/1983,Male,Vietnam,Ho Chi Minh,Marketing Manager,Construction,Mass Affluent
+ID0185,14/01/1981,Female,USA,New York,General Manager,Marketing,Affluent
+ID0186,10/12/1972,Female,Australia,Melbourne,Sales Executive,Healthcare,Mass Affluent
+ID0187,11/03/2000,Female,Vietnam,Ho Chi Minh,General Manager,Healthcare,High Net Worth
+ID0188,18/07/1981,Female,USA,New York,Financial Analyst,Retail,Mass Affluent
+ID0189,05/12/1977,Female,Vietnam,Hanoi,Consultant,Marketing,Mass Affluent
+ID0190,20/05/1993,Male,Australia,Melbourne,Consultant,Finance,Mass Affluent
+ID0191,16/07/1977,Male,Australia,Melbourne,HR Specialist,Healthcare,High Net Worth
+ID0192,13/08/1978,Female,USA,Los Angeles,Data Scientist,Hospitality,High Net Worth
+ID0193,03/12/1984,Female,Canada,Vancouver,Consultant,Construction,High Net Worth
+ID0194,29/10/1989,Male,UK,London,Accountant,Education,Affluent
+ID0195,24/02/1990,Male,France,Paris,General Manager,Retail,Affluent
+ID0196,15/05/1988,Female,Australia,Sydney,Consultant,Healthcare,Affluent
+ID0197,15/03/1992,Female,Canada,Vancouver,General Manager,Retail,Mass Affluent
+ID0198,02/08/1977,Female,Canada,Vancouver,Marketing Manager,Hospitality,Mass Affluent
+ID0199,20/11/1964,Male,Canada,Toronto,HR Specialist,Finance,Mass Affluent
+ID0200,05/08/1987,Male,Vietnam,Ho Chi Minh,HR Specialist,Finance,Mass Affluent
+ID0201,14/01/1963,Female,France,Paris,Software Engineer,Hospitality,High Net Worth
+ID0202,13/12/1973,Male,Vietnam,Ho Chi Minh,Marketing Manager,Healthcare,High Net Worth
+ID0203,18/12/1995,Male,USA,New York,Marketing Manager,Finance,High Net Worth
+ID0204,11/03/1986,Male,Vietnam,Hanoi,Data Scientist,Construction,Affluent
+ID0205,09/12/1962,Male,Canada,Vancouver,General Manager,Retail,High Net Worth
+ID0206,29/09/1973,Male,Vietnam,Hanoi,Marketing Manager,Construction,Affluent
+ID0207,09/05/1964,Female,Canada,Vancouver,Financial Analyst,Healthcare,Affluent
+ID0208,19/03/1994,Female,Germany,Berlin,Data Scientist,Hospitality,Affluent
+ID0209,11/04/1963,Male,Australia,Sydney,Data Scientist,IT,High Net Worth
+ID0210,25/05/1978,Female,Canada,Toronto,HR Specialist,Construction,Affluent
+ID0211,18/01/1986,Female,Australia,Melbourne,General Manager,Construction,High Net Worth
+ID0212,28/09/1963,Female,Vietnam,Hanoi,Software Engineer,Hospitality,Affluent
+ID0213,01/06/1980,Female,USA,Los Angeles,Project Manager,Finance,Mass Affluent
+ID0214,29/10/1975,Female,Vietnam,Hanoi,General Manager,Education,High Net Worth
+ID0215,05/06/1988,Male,Canada,Toronto,Consultant,Healthcare,Mass Affluent
+ID0216,08/12/1999,Male,Australia,Sydney,Sales Executive,Healthcare,High Net Worth
+ID0217,28/09/1960,Male,Canada,Vancouver,Consultant,Healthcare,High Net Worth
+ID0218,07/04/1989,Female,UK,London,Accountant,Healthcare,Mass Affluent
+ID0219,25/12/2000,Male,USA,Los Angeles,Data Scientist,Retail,Mass Affluent
+ID0220,29/12/1998,Male,UK,London,Project Manager,Healthcare,Affluent
+ID0221,02/11/1960,Male,Vietnam,Ho Chi Minh,Software Engineer,Education,Affluent
+ID0222,27/05/1972,Female,Vietnam,Hanoi,Accountant,IT,Affluent
+ID0223,18/12/1979,Female,Vietnam,Ho Chi Minh,Marketing Manager,Healthcare,Affluent
+ID0224,24/03/1999,Female,France,Paris,General Manager,Healthcare,Affluent
+ID0225,16/05/1963,Female,Australia,Sydney,Marketing Manager,Finance,High Net Worth
+ID0226,28/06/1974,Female,Canada,Toronto,Financial Analyst,Hospitality,Mass Affluent
+ID0227,22/08/1978,Female,Vietnam,Ho Chi Minh,Consultant,Marketing,High Net Worth
+ID0228,12/08/1962,Female,USA,New York,Data Scientist,Finance,High Net Worth
+ID0229,07/09/1964,Female,UK,London,Software Engineer,Hospitality,High Net Worth
+ID0230,11/07/1968,Female,France,Paris,Software Engineer,Construction,Affluent
+ID0231,13/05/1981,Female,Canada,Toronto,Marketing Manager,Finance,Mass Affluent
+ID0232,04/05/1973,Male,Vietnam,Ho Chi Minh,Marketing Manager,Construction,Mass Affluent
+ID0233,20/07/1992,Male,UK,London,Data Scientist,Healthcare,High Net Worth
+ID0234,17/08/1980,Female,USA,Los Angeles,Sales Executive,Education,Affluent
+ID0235,28/12/1989,Male,Australia,Melbourne,Sales Executive,Finance,Affluent
+ID0236,13/10/1974,Female,Canada,Toronto,Sales Executive,Healthcare,Mass Affluent
+ID0237,02/07/1982,Male,Canada,Toronto,Accountant,Healthcare,High Net Worth
+ID0238,27/10/1975,Female,Canada,Toronto,Project Manager,Hospitality,Mass Affluent
+ID0239,28/03/1986,Female,Australia,Sydney,General Manager,Healthcare,Mass Affluent
+ID0240,22/03/1995,Female,Canada,Toronto,Data Scientist,Education,High Net Worth
+ID0241,13/03/1968,Male,Canada,Vancouver,Accountant,Hospitality,Mass Affluent
+ID0242,31/07/1997,Female,Vietnam,Hanoi,HR Specialist,Healthcare,Affluent
+ID0243,21/06/1973,Female,USA,New York,Consultant,Marketing,Affluent
+ID0244,09/05/1978,Female,Vietnam,Hanoi,Accountant,Finance,Affluent
+ID0245,24/12/1981,Female,France,Paris,Software Engineer,Construction,Affluent
+ID0246,26/01/1975,Female,Canada,Vancouver,Accountant,Education,Mass Affluent
+ID0247,07/08/1979,Female,Australia,Sydney,Sales Executive,IT,Affluent
+ID0248,04/01/1991,Male,Australia,Melbourne,Software Engineer,Retail,Affluent
+ID0249,14/03/1989,Female,USA,Los Angeles,Marketing Manager,Construction,Mass Affluent
+ID0250,03/08/1983,Male,USA,Los Angeles,Project Manager,Healthcare,Affluent
+ID0251,20/03/1964,Male,UK,Manchester,Project Manager,Marketing,High Net Worth
+ID0252,10/02/1977,Male,Australia,Sydney,Accountant,Retail,High Net Worth
+ID0253,04/10/1970,Female,Germany,Berlin,Software Engineer,Marketing,Mass Affluent
+ID0254,23/05/2000,Male,Canada,Vancouver,Financial Analyst,Education,Mass Affluent
+ID0255,08/04/1974,Female,Australia,Melbourne,Sales Executive,Healthcare,Affluent
+ID0256,06/11/1971,Male,Vietnam,Ho Chi Minh,Consultant,Finance,Mass Affluent
+ID0257,03/04/1967,Male,USA,New York,Data Scientist,Finance,Mass Affluent
+ID0258,28/11/1987,Male,Australia,Melbourne,Sales Executive,Healthcare,Affluent
+ID0259,07/09/2000,Male,Vietnam,Hanoi,Data Scientist,Marketing,Mass Affluent
+ID0260,03/06/1981,Male,France,Paris,Accountant,Healthcare,Mass Affluent
+ID0261,18/11/1975,Female,Canada,Toronto,Sales Executive,IT,Affluent
+ID0262,28/07/1995,Female,Vietnam,Hanoi,Consultant,Hospitality,Mass Affluent
+ID0263,29/05/1963,Female,USA,Los Angeles,Data Scientist,Education,Mass Affluent
+ID0264,20/10/1985,Male,UK,Manchester,Consultant,IT,High Net Worth
+ID0265,02/09/2000,Female,Vietnam,Hanoi,General Manager,Finance,Affluent
+ID0266,07/11/1981,Female,UK,London,HR Specialist,Retail,High Net Worth
+ID0267,15/08/1982,Female,Vietnam,Hanoi,Software Engineer,Education,Affluent
+ID0268,12/09/1965,Female,Vietnam,Ho Chi Minh,Financial Analyst,Finance,Mass Affluent
+ID0269,20/11/1960,Female,Australia,Melbourne,Marketing Manager,IT,High Net Worth
+ID0270,15/04/1962,Male,Canada,Vancouver,Project Manager,Retail,Affluent
+ID0271,05/11/1983,Female,USA,Los Angeles,Software Engineer,Education,Affluent
+ID0272,14/10/1967,Male,Germany,Berlin,Accountant,Construction,Mass Affluent
+ID0273,30/10/1968,Male,France,Paris,Marketing Manager,Hospitality,High Net Worth
+ID0274,28/04/1988,Male,Australia,Melbourne,HR Specialist,Construction,Affluent
+ID0275,12/06/1960,Male,Germany,Berlin,Software Engineer,Finance,High Net Worth
+ID0276,23/01/1999,Female,Canada,Toronto,Software Engineer,Healthcare,Affluent
+ID0277,20/02/1971,Male,Canada,Toronto,Marketing Manager,Education,Mass Affluent
+ID0278,22/06/1965,Male,Australia,Melbourne,Data Scientist,Marketing,High Net Worth
+ID0279,01/09/1992,Male,Germany,Berlin,Financial Analyst,Healthcare,High Net Worth
+ID0280,16/07/1977,Female,UK,Manchester,Project Manager,Retail,Affluent
+ID0281,01/10/1997,Female,France,Paris,Data Scientist,Marketing,Mass Affluent
+ID0282,19/06/1992,Male,UK,Manchester,Marketing Manager,Construction,Affluent
+ID0283,21/09/1988,Female,USA,Los Angeles,Sales Executive,Hospitality,Affluent
+ID0284,27/07/1961,Male,USA,Los Angeles,Project Manager,Marketing,Mass Affluent
+ID0285,27/04/1968,Female,USA,Los Angeles,Project Manager,Healthcare,High Net Worth
+ID0286,22/02/1981,Male,UK,Manchester,Accountant,Marketing,High Net Worth
+ID0287,08/04/1979,Male,UK,London,Financial Analyst,Education,High Net Worth
+ID0288,27/11/1988,Female,USA,New York,Data Scientist,IT,High Net Worth
+ID0289,17/12/1994,Male,Canada,Toronto,Software Engineer,Education,Affluent
+ID0290,22/10/1973,Female,Canada,Toronto,Financial Analyst,Education,Mass Affluent
+ID0291,25/07/2000,Male,UK,Manchester,Sales Executive,Retail,Affluent
+ID0292,06/10/1985,Female,Vietnam,Hanoi,Software Engineer,Finance,Mass Affluent
+ID0293,04/08/1987,Female,Germany,Berlin,HR Specialist,IT,Mass Affluent
+ID0294,19/05/1969,Male,UK,Manchester,Marketing Manager,Hospitality,Mass Affluent
+ID0295,10/01/1975,Female,Canada,Toronto,Software Engineer,Finance,Affluent
+ID0296,28/08/1986,Male,Canada,Vancouver,Sales Executive,Finance,High Net Worth
+ID0297,28/09/1967,Female,USA,New York,General Manager,Finance,High Net Worth
+ID0298,28/08/1988,Female,Australia,Sydney,Project Manager,Retail,Affluent
+ID0299,23/09/1963,Male,Germany,Berlin,Software Engineer,Retail,Mass Affluent
+ID0300,11/03/1990,Male,Vietnam,Ho Chi Minh,Sales Executive,Finance,Affluent
+ID0301,02/10/1980,Female,USA,Los Angeles,Accountant,IT,High Net Worth
+ID0302,18/03/1967,Male,Canada,Vancouver,Project Manager,Hospitality,Mass Affluent
+ID0303,21/03/1983,Female,Vietnam,Ho Chi Minh,Marketing Manager,Marketing,High Net Worth
+ID0304,15/11/1972,Male,Germany,Berlin,Financial Analyst,Hospitality,High Net Worth
+ID0305,29/03/1994,Female,UK,Manchester,Marketing Manager,Marketing,Mass Affluent
+ID0306,23/01/1981,Female,Vietnam,Ho Chi Minh,Marketing Manager,Education,Mass Affluent
+ID0307,23/12/1990,Female,Canada,Vancouver,Accountant,Finance,High Net Worth
+ID0308,06/05/1960,Female,Australia,Sydney,Marketing Manager,Hospitality,High Net Worth
+ID0309,13/11/1962,Male,Canada,Vancouver,General Manager,Finance,Affluent
+ID0310,30/04/1966,Male,Australia,Sydney,General Manager,IT,Affluent
+ID0311,16/08/1984,Male,Canada,Vancouver,General Manager,Healthcare,Mass Affluent
+ID0312,26/09/1961,Male,USA,New York,Data Scientist,Healthcare,Affluent
+ID0313,06/01/1995,Female,Vietnam,Ho Chi Minh,Software Engineer,Healthcare,Affluent
+ID0314,29/09/1986,Female,Germany,Berlin,General Manager,Marketing,High Net Worth
+ID0315,11/02/1962,Female,USA,Los Angeles,Software Engineer,Marketing,High Net Worth
+ID0316,26/05/1961,Female,France,Paris,Software Engineer,Healthcare,Mass Affluent
+ID0317,21/09/1983,Male,Canada,Vancouver,Consultant,Hospitality,Mass Affluent
+ID0318,09/12/1971,Female,Canada,Toronto,HR Specialist,Construction,High Net Worth
+ID0319,10/01/1999,Female,USA,New York,Sales Executive,IT,Affluent
+ID0320,23/08/1963,Female,UK,London,Project Manager,Marketing,Mass Affluent
+ID0321,21/01/1988,Female,Vietnam,Hanoi,Accountant,Healthcare,High Net Worth
+ID0322,28/02/1988,Female,UK,London,Software Engineer,Hospitality,Mass Affluent
+ID0323,28/01/1998,Female,Canada,Vancouver,Data Scientist,Education,Mass Affluent
+ID0324,03/12/1976,Male,Australia,Sydney,Marketing Manager,Finance,Affluent
+ID0325,19/07/1979,Male,UK,London,Sales Executive,Retail,Mass Affluent
+ID0326,12/01/1998,Male,France,Paris,Marketing Manager,Hospitality,Mass Affluent
+ID0327,09/02/1990,Female,Germany,Berlin,HR Specialist,Marketing,Mass Affluent
+ID0328,21/09/1996,Male,UK,London,Data Scientist,Hospitality,Mass Affluent
+ID0329,01/01/1986,Male,USA,Los Angeles,Marketing Manager,Finance,High Net Worth
+ID0330,27/10/1997,Female,UK,London,Marketing Manager,Finance,High Net Worth
+ID0331,24/06/1968,Male,USA,New York,General Manager,Hospitality,Affluent
+ID0332,23/03/1986,Male,UK,Manchester,Consultant,Marketing,Affluent
+ID0333,20/05/1982,Female,Vietnam,Hanoi,Sales Executive,Healthcare,Affluent
+ID0334,09/01/1972,Female,Australia,Sydney,Marketing Manager,Education,Affluent
+ID0335,02/06/1994,Female,Germany,Berlin,Sales Executive,Marketing,Mass Affluent
+ID0336,09/11/1998,Female,Germany,Berlin,Project Manager,IT,Affluent
+ID0337,27/12/1962,Male,Germany,Berlin,Marketing Manager,Construction,Affluent
+ID0338,18/12/1970,Female,UK,Manchester,General Manager,Construction,Mass Affluent
+ID0339,03/08/1980,Female,UK,Manchester,Project Manager,Marketing,High Net Worth
+ID0340,26/06/1974,Female,Vietnam,Hanoi,Project Manager,Finance,Mass Affluent
+ID0341,02/04/1979,Female,Australia,Sydney,Sales Executive,IT,High Net Worth
+ID0342,27/09/1979,Male,Australia,Sydney,Sales Executive,Hospitality,High Net Worth
+ID0343,25/03/1963,Female,Canada,Vancouver,General Manager,Retail,Affluent
+ID0344,12/03/1961,Female,UK,Manchester,Accountant,Finance,Mass Affluent
+ID0345,21/09/1989,Male,UK,London,HR Specialist,IT,Affluent
+ID0346,23/12/1979,Female,France,Paris,Software Engineer,Finance,Mass Affluent
+ID0347,09/05/1990,Male,Germany,Berlin,Consultant,Construction,Mass Affluent
+ID0348,23/07/1976,Female,Vietnam,Ho Chi Minh,General Manager,Retail,Mass Affluent
+ID0349,11/10/1980,Male,UK,London,Financial Analyst,Hospitality,Affluent
+ID0350,24/12/1989,Male,USA,Los Angeles,Sales Executive,Education,Mass Affluent
+ID0351,17/09/1997,Female,Australia,Sydney,Accountant,Hospitality,High Net Worth
+ID0352,26/01/1989,Female,Vietnam,Ho Chi Minh,General Manager,Hospitality,Affluent
+ID0353,02/12/1967,Male,UK,London,Sales Executive,Hospitality,Mass Affluent
+ID0354,28/05/1995,Female,Canada,Toronto,Consultant,Hospitality,Mass Affluent
+ID0355,11/09/1973,Male,Canada,Toronto,Project Manager,Hospitality,High Net Worth
+ID0356,28/01/1965,Male,UK,Manchester,Software Engineer,Education,High Net Worth
+ID0357,20/01/1974,Male,Australia,Melbourne,General Manager,IT,Affluent
+ID0358,27/03/1994,Male,UK,London,Financial Analyst,Construction,Affluent
+ID0359,01/08/1973,Male,UK,London,Consultant,Construction,Mass Affluent
+ID0360,05/07/1990,Female,Australia,Sydney,Financial Analyst,Education,Affluent
+ID0361,20/09/1974,Female,UK,Manchester,Sales Executive,Marketing,Affluent
+ID0362,16/08/1975,Female,Australia,Melbourne,Marketing Manager,Healthcare,Affluent
+ID0363,21/04/1988,Female,Canada,Vancouver,Marketing Manager,Construction,Affluent
+ID0364,03/02/1991,Male,Vietnam,Hanoi,General Manager,IT,High Net Worth
+ID0365,27/04/1991,Male,UK,London,Project Manager,Hospitality,Mass Affluent
+ID0366,08/11/1971,Male,France,Paris,Consultant,Retail,Mass Affluent
+ID0367,21/03/1993,Female,Vietnam,Ho Chi Minh,HR Specialist,Marketing,High Net Worth
+ID0368,04/09/1972,Female,Vietnam,Ho Chi Minh,Accountant,IT,Mass Affluent
+ID0369,20/10/1979,Male,USA,New York,Data Scientist,Healthcare,High Net Worth
+ID0370,29/06/1996,Female,Canada,Vancouver,Sales Executive,Finance,Affluent
+ID0371,22/05/1975,Male,USA,New York,General Manager,Healthcare,Affluent
+ID0372,12/05/1987,Female,France,Paris,Consultant,Marketing,High Net Worth
+ID0373,17/05/2000,Female,USA,New York,Project Manager,Retail,High Net Worth
+ID0374,11/02/1963,Male,Germany,Berlin,Project Manager,Retail,Mass Affluent
+ID0375,30/11/1998,Female,USA,Los Angeles,Project Manager,IT,Affluent
+ID0376,21/06/1967,Female,Australia,Melbourne,Data Scientist,Marketing,Affluent
+ID0377,28/04/1992,Female,USA,New York,Accountant,Finance,Affluent
+ID0378,15/05/1961,Female,UK,London,Accountant,Finance,High Net Worth
+ID0379,14/11/1966,Female,USA,New York,HR Specialist,Healthcare,Affluent
+ID0380,02/09/1960,Female,Australia,Sydney,HR Specialist,Marketing,Mass Affluent
+ID0381,11/07/1962,Female,Germany,Berlin,HR Specialist,Education,Mass Affluent
+ID0382,14/04/1984,Male,Australia,Sydney,Data Scientist,Marketing,Mass Affluent
+ID0383,27/02/1980,Male,Germany,Berlin,Marketing Manager,IT,Mass Affluent
+ID0384,16/03/1969,Female,USA,Los Angeles,Accountant,Construction,Mass Affluent
+ID0385,16/07/1995,Female,Germany,Berlin,Accountant,Construction,Mass Affluent
+ID0386,18/12/1976,Male,Australia,Melbourne,Accountant,IT,High Net Worth
+ID0387,04/05/1991,Male,USA,Los Angeles,Data Scientist,Marketing,High Net Worth
+ID0388,11/02/1972,Male,UK,London,HR Specialist,Finance,High Net Worth
+ID0389,27/02/1968,Male,Vietnam,Hanoi,Software Engineer,Retail,Affluent
+ID0390,23/02/1976,Male,Vietnam,Hanoi,Project Manager,IT,Mass Affluent
+ID0391,25/12/1965,Male,Canada,Vancouver,Marketing Manager,Construction,High Net Worth
+ID0392,23/09/1995,Female,USA,New York,Consultant,Construction,Mass Affluent
+ID0393,26/09/1996,Male,UK,London,Consultant,Hospitality,High Net Worth
+ID0394,01/12/1980,Male,UK,London,Sales Executive,Education,Affluent
+ID0395,02/10/1999,Male,Germany,Berlin,Project Manager,Hospitality,High Net Worth
+ID0396,09/06/1986,Male,Germany,Berlin,Sales Executive,Construction,Affluent
+ID0397,14/01/1997,Female,USA,New York,Financial Analyst,Healthcare,Affluent
+ID0398,28/10/1979,Male,UK,Manchester,Marketing Manager,Finance,Mass Affluent
+ID0399,24/01/1983,Male,UK,London,General Manager,Education,High Net Worth
+ID0400,27/07/1966,Female,USA,New York,General Manager,Healthcare,High Net Worth
+ID0401,08/03/1974,Female,Australia,Melbourne,Accountant,Hospitality,Mass Affluent
+ID0402,15/05/1994,Male,USA,Los Angeles,Project Manager,Finance,Mass Affluent
+ID0403,01/10/1970,Female,Vietnam,Hanoi,General Manager,Construction,Mass Affluent
+ID0404,05/07/1973,Female,UK,Manchester,Financial Analyst,Marketing,Mass Affluent
+ID0405,26/03/1971,Female,Vietnam,Ho Chi Minh,Software Engineer,Education,Mass Affluent
+ID0406,04/12/1992,Male,USA,Los Angeles,Marketing Manager,Finance,High Net Worth
+ID0407,15/09/1969,Female,Canada,Toronto,Financial Analyst,IT,Mass Affluent
+ID0408,06/04/1962,Male,USA,New York,Consultant,Marketing,Affluent
+ID0409,08/02/1981,Female,Australia,Sydney,Consultant,Education,Mass Affluent
+ID0410,23/03/1995,Female,UK,London,Software Engineer,IT,High Net Worth
+ID0411,22/02/1995,Female,Australia,Sydney,General Manager,Healthcare,High Net Worth
+ID0412,17/11/2000,Female,Canada,Vancouver,Data Scientist,Finance,High Net Worth
+ID0413,04/04/1991,Male,USA,New York,HR Specialist,Education,High Net Worth
+ID0414,03/12/1989,Female,USA,New York,Financial Analyst,Healthcare,Mass Affluent
+ID0415,08/05/1972,Male,Australia,Sydney,General Manager,Marketing,High Net Worth
+ID0416,25/12/1974,Male,France,Paris,Software Engineer,IT,High Net Worth
+ID0417,21/01/1977,Male,Vietnam,Ho Chi Minh,Accountant,Hospitality,High Net Worth
+ID0418,10/05/1969,Male,Canada,Vancouver,Software Engineer,Retail,Mass Affluent
+ID0419,10/10/1979,Female,Australia,Melbourne,Consultant,Retail,Mass Affluent
+ID0420,13/04/1966,Male,UK,Manchester,Sales Executive,Healthcare,Mass Affluent
+ID0421,02/03/1995,Male,Australia,Melbourne,General Manager,Education,Affluent
+ID0422,11/03/1974,Male,Australia,Melbourne,Consultant,Marketing,Affluent
+ID0423,08/01/1973,Male,Australia,Sydney,HR Specialist,Finance,High Net Worth
+ID0424,09/01/1969,Female,Canada,Vancouver,Sales Executive,IT,High Net Worth
+ID0425,29/12/1984,Male,UK,London,HR Specialist,Education,High Net Worth
+ID0426,28/06/1974,Male,UK,Manchester,Data Scientist,Hospitality,Affluent
+ID0427,18/01/1961,Male,Vietnam,Hanoi,General Manager,Hospitality,Mass Affluent
+ID0428,03/10/1990,Male,USA,Los Angeles,HR Specialist,Education,High Net Worth
+ID0429,17/01/1995,Male,Canada,Toronto,General Manager,Construction,High Net Worth
+ID0430,22/06/1988,Female,UK,London,General Manager,Retail,High Net Worth
+ID0431,26/10/1973,Male,Australia,Melbourne,Accountant,Construction,Mass Affluent
+ID0432,01/11/1965,Male,Australia,Melbourne,Consultant,Marketing,Mass Affluent
+ID0433,31/10/1980,Male,USA,Los Angeles,HR Specialist,Construction,Mass Affluent
+ID0434,05/03/1999,Male,Canada,Toronto,Software Engineer,Hospitality,Affluent
+ID0435,16/11/1967,Male,Vietnam,Hanoi,Accountant,Retail,High Net Worth
+ID0436,08/03/1992,Male,UK,London,General Manager,Retail,Affluent
+ID0437,04/10/1960,Female,USA,New York,HR Specialist,Finance,Mass Affluent
+ID0438,30/11/1984,Male,Vietnam,Hanoi,General Manager,Marketing,Mass Affluent
+ID0439,02/01/1980,Male,Vietnam,Ho Chi Minh,Accountant,Healthcare,Mass Affluent
+ID0440,12/06/1990,Female,Canada,Vancouver,General Manager,Finance,Mass Affluent
+ID0441,22/01/1974,Male,USA,New York,Accountant,Construction,Affluent
+ID0442,27/04/1978,Male,UK,London,Consultant,Retail,Affluent
+ID0443,21/07/1981,Female,France,Paris,Software Engineer,Marketing,Mass Affluent
+ID0444,25/02/1961,Female,USA,Los Angeles,Consultant,IT,Affluent
+ID0445,16/01/1998,Male,UK,Manchester,Software Engineer,Construction,High Net Worth
+ID0446,24/11/2000,Male,USA,Los Angeles,Marketing Manager,Construction,High Net Worth
+ID0447,17/09/1986,Female,USA,New York,Accountant,IT,Mass Affluent
+ID0448,07/08/1998,Female,Canada,Toronto,Data Scientist,Finance,High Net Worth
+ID0449,02/11/1981,Female,USA,New York,Project Manager,Finance,Affluent
+ID0450,17/01/1992,Male,France,Paris,HR Specialist,Construction,Mass Affluent
+ID0451,02/05/1982,Male,USA,Los Angeles,HR Specialist,Healthcare,High Net Worth
+ID0452,03/06/2000,Female,France,Paris,Project Manager,Marketing,Affluent
+ID0453,06/01/2000,Male,Vietnam,Ho Chi Minh,Financial Analyst,Finance,Mass Affluent
+ID0454,20/05/1984,Male,UK,Manchester,General Manager,Hospitality,High Net Worth
+ID0455,21/05/1991,Male,UK,Manchester,Data Scientist,Finance,Affluent
+ID0456,09/02/1999,Male,Australia,Sydney,Marketing Manager,Retail,Mass Affluent
+ID0457,27/11/1979,Male,Vietnam,Ho Chi Minh,Data Scientist,Retail,Mass Affluent
+ID0458,14/01/1987,Male,Germany,Berlin,Consultant,Hospitality,Affluent
+ID0459,24/05/1990,Female,UK,London,HR Specialist,Construction,Mass Affluent
+ID0460,23/12/1980,Female,Vietnam,Ho Chi Minh,General Manager,Healthcare,Mass Affluent
+ID0461,27/05/1991,Female,USA,New York,Consultant,Retail,Affluent
+ID0462,28/06/1976,Male,Vietnam,Hanoi,Consultant,Education,High Net Worth
+ID0463,20/08/1987,Female,France,Paris,Project Manager,Finance,Affluent
+ID0464,15/01/1963,Male,Australia,Sydney,Financial Analyst,Hospitality,Mass Affluent
+ID0465,08/10/1981,Female,France,Paris,Sales Executive,Healthcare,Affluent
+ID0466,07/03/1962,Male,Australia,Sydney,Financial Analyst,Construction,Mass Affluent
+ID0467,07/02/1985,Female,France,Paris,Software Engineer,Marketing,Mass Affluent
+ID0468,02/08/1977,Female,USA,New York,Financial Analyst,Retail,Mass Affluent
+ID0469,03/01/1968,Female,UK,Manchester,Data Scientist,Finance,Mass Affluent
+ID0470,10/05/1963,Male,Vietnam,Ho Chi Minh,Sales Executive,IT,Mass Affluent
+ID0471,26/08/1980,Male,Canada,Toronto,Financial Analyst,Healthcare,Affluent
+ID0472,17/09/1991,Male,Australia,Melbourne,General Manager,Construction,Mass Affluent
+ID0473,05/05/1982,Male,Canada,Toronto,Project Manager,Retail,Mass Affluent
+ID0474,23/06/1973,Female,Vietnam,Hanoi,Sales Executive,Education,Mass Affluent
+ID0475,23/08/1965,Female,Canada,Toronto,HR Specialist,Finance,Mass Affluent
+ID0476,10/04/1963,Female,USA,Los Angeles,General Manager,IT,Mass Affluent
+ID0477,26/08/1978,Male,Vietnam,Hanoi,Sales Executive,Marketing,High Net Worth
+ID0478,12/11/1964,Female,Vietnam,Ho Chi Minh,General Manager,Marketing,Mass Affluent
+ID0479,24/05/1997,Female,Australia,Sydney,Accountant,Retail,Mass Affluent
+ID0480,19/01/1979,Female,Canada,Vancouver,General Manager,Retail,Mass Affluent
+ID0481,30/11/1962,Male,Australia,Melbourne,Accountant,Hospitality,High Net Worth
+ID0482,31/07/1983,Female,Germany,Berlin,Software Engineer,Education,Affluent
+ID0483,14/01/1965,Female,UK,Manchester,Sales Executive,Hospitality,Affluent
+ID0484,27/07/1963,Male,Vietnam,Hanoi,HR Specialist,Marketing,High Net Worth
+ID0485,23/01/1972,Male,USA,New York,Financial Analyst,Retail,Mass Affluent
+ID0486,25/09/1971,Female,USA,Los Angeles,Marketing Manager,Marketing,Affluent
+ID0487,21/05/1963,Male,USA,New York,HR Specialist,Retail,Affluent
+ID0488,25/02/1969,Male,Australia,Sydney,Software Engineer,Finance,Affluent
+ID0489,19/09/1971,Male,Vietnam,Ho Chi Minh,Software Engineer,Healthcare,High Net Worth
+ID0490,14/05/1980,Female,France,Paris,Sales Executive,Marketing,Affluent
+ID0491,20/12/1998,Male,UK,London,Software Engineer,Construction,Mass Affluent
+ID0492,27/03/1993,Male,France,Paris,Data Scientist,Education,Mass Affluent
+ID0493,16/09/1968,Male,Vietnam,Hanoi,Sales Executive,Healthcare,High Net Worth
+ID0494,22/02/1968,Male,UK,Manchester,General Manager,Construction,High Net Worth
+ID0495,08/12/1973,Male,USA,New York,Sales Executive,Healthcare,High Net Worth
+ID0496,20/10/1965,Female,Australia,Sydney,Sales Executive,Healthcare,Affluent
+ID0497,25/10/1985,Female,Vietnam,Hanoi,Data Scientist,Healthcare,Mass Affluent
+ID0498,26/04/1973,Female,France,Paris,Accountant,Healthcare,High Net Worth
+ID0499,25/11/1995,Female,Canada,Vancouver,Marketing Manager,IT,Affluent
+ID0500,01/10/1985,Female,Australia,Melbourne,Consultant,Marketing,Affluent
+ID0501,15/12/1985,Male,Australia,Sydney,Marketing Manager,Construction,High Net Worth
+ID0502,12/01/1979,Male,UK,Manchester,Consultant,Education,High Net Worth
+ID0503,03/10/1969,Male,UK,London,Software Engineer,Healthcare,High Net Worth
+ID0504,05/03/2000,Male,USA,Los Angeles,Financial Analyst,Healthcare,Affluent
+ID0505,22/09/1994,Female,UK,London,Marketing Manager,Retail,High Net Worth
+ID0506,26/04/1977,Male,Vietnam,Hanoi,Accountant,Marketing,High Net Worth
+ID0507,23/11/1982,Female,Canada,Vancouver,Project Manager,Construction,Mass Affluent
+ID0508,28/06/1974,Female,USA,New York,Software Engineer,IT,High Net Worth
+ID0509,24/02/1976,Male,UK,Manchester,Financial Analyst,IT,High Net Worth
+ID0510,11/04/1961,Male,Australia,Melbourne,Consultant,Construction,Mass Affluent
+ID0511,25/11/1967,Male,UK,Manchester,Consultant,Marketing,Affluent
+ID0512,15/03/1984,Female,France,Paris,HR Specialist,Retail,Mass Affluent
+ID0513,18/07/1979,Female,Australia,Sydney,Software Engineer,Marketing,Affluent
+ID0514,14/09/1978,Female,France,Paris,Software Engineer,Construction,High Net Worth
+ID0515,29/06/1976,Male,Australia,Sydney,Accountant,Construction,Affluent
+ID0516,19/07/1981,Female,USA,New York,HR Specialist,Education,High Net Worth
+ID0517,30/12/1989,Female,Germany,Berlin,Sales Executive,Retail,High Net Worth
+ID0518,18/05/1982,Male,France,Paris,HR Specialist,Hospitality,High Net Worth
+ID0519,26/11/1995,Female,Australia,Melbourne,Financial Analyst,Marketing,High Net Worth
+ID0520,08/03/1964,Male,Vietnam,Ho Chi Minh,Marketing Manager,IT,Affluent
+ID0521,20/04/1976,Female,Germany,Berlin,Accountant,IT,Affluent
+ID0522,17/03/1985,Male,UK,Manchester,Project Manager,Marketing,Affluent
+ID0523,26/02/1968,Male,UK,Manchester,Financial Analyst,Retail,Mass Affluent
+ID0524,24/03/1968,Female,Canada,Vancouver,Marketing Manager,Construction,Affluent
+ID0525,09/10/1988,Male,Vietnam,Ho Chi Minh,Marketing Manager,Education,High Net Worth
+ID0526,07/06/1973,Male,USA,New York,Accountant,Hospitality,Affluent
+ID0527,08/07/1975,Female,UK,London,Sales Executive,Marketing,Mass Affluent
+ID0528,16/01/1982,Female,Australia,Sydney,Software Engineer,Education,High Net Worth
+ID0529,18/06/1980,Male,Germany,Berlin,Consultant,Construction,High Net Worth
+ID0530,09/06/1974,Male,UK,Manchester,Sales Executive,IT,Affluent
+ID0531,11/10/1970,Male,Canada,Vancouver,Accountant,IT,Affluent
+ID0532,04/09/1980,Male,Australia,Melbourne,Accountant,Construction,High Net Worth
+ID0533,05/04/1971,Female,UK,Manchester,Consultant,Marketing,High Net Worth
+ID0534,29/06/2000,Male,Vietnam,Hanoi,Accountant,Education,Affluent
+ID0535,22/05/1983,Female,Australia,Sydney,HR Specialist,Construction,High Net Worth
+ID0536,28/11/1970,Female,Germany,Berlin,General Manager,Healthcare,Affluent
+ID0537,06/01/1974,Male,USA,Los Angeles,Marketing Manager,Healthcare,Affluent
+ID0538,21/03/1987,Female,Vietnam,Ho Chi Minh,General Manager,Marketing,Affluent
+ID0539,10/07/1983,Female,Australia,Sydney,Financial Analyst,Retail,High Net Worth
+ID0540,01/08/1995,Female,France,Paris,Project Manager,Construction,Affluent
+ID0541,12/12/1968,Male,Canada,Vancouver,Sales Executive,Hospitality,Mass Affluent
+ID0542,20/01/1963,Male,Canada,Toronto,Marketing Manager,Marketing,High Net Worth
+ID0543,27/06/1976,Female,Vietnam,Ho Chi Minh,Data Scientist,Education,Affluent
+ID0544,27/09/1995,Male,UK,London,Data Scientist,IT,Mass Affluent
+ID0545,20/12/1999,Female,Canada,Vancouver,General Manager,Finance,High Net Worth
+ID0546,17/12/1970,Male,Canada,Vancouver,Project Manager,Hospitality,Affluent
+ID0547,08/08/1983,Female,USA,Los Angeles,Accountant,IT,Mass Affluent
+ID0548,31/01/1973,Female,Australia,Sydney,Consultant,Healthcare,Affluent
+ID0549,28/03/1978,Female,Canada,Vancouver,Project Manager,Hospitality,Mass Affluent
+ID0550,13/01/1989,Male,UK,London,Software Engineer,Finance,Affluent
+ID0551,07/10/1970,Male,France,Paris,Accountant,IT,Affluent
+ID0552,20/03/1995,Female,Germany,Berlin,Accountant,Marketing,High Net Worth
+ID0553,23/08/1970,Male,Australia,Melbourne,HR Specialist,IT,High Net Worth
+ID0554,17/04/1993,Female,USA,Los Angeles,HR Specialist,Finance,Mass Affluent
+ID0555,08/04/1961,Female,Vietnam,Ho Chi Minh,Financial Analyst,Marketing,Mass Affluent
+ID0556,16/08/1976,Female,USA,New York,Data Scientist,Marketing,Affluent
+ID0557,22/10/1980,Male,Vietnam,Ho Chi Minh,Sales Executive,Retail,Affluent
+ID0558,03/09/1972,Male,Australia,Melbourne,Software Engineer,Hospitality,Affluent
+ID0559,26/07/1980,Female,Vietnam,Ho Chi Minh,Project Manager,Hospitality,Affluent
+ID0560,17/12/1990,Female,USA,New York,Financial Analyst,Marketing,Mass Affluent
+ID0561,17/02/1963,Female,USA,Los Angeles,General Manager,Hospitality,Mass Affluent
+ID0562,22/01/2000,Male,Canada,Toronto,Accountant,Finance,Mass Affluent
+ID0563,24/05/1960,Male,Canada,Toronto,HR Specialist,Education,High Net Worth
+ID0564,08/09/1970,Male,USA,New York,Consultant,Hospitality,Mass Affluent
+ID0565,18/02/1963,Male,Australia,Sydney,General Manager,Healthcare,Mass Affluent
+ID0566,28/11/1977,Female,UK,Manchester,Software Engineer,Finance,Mass Affluent
+ID0567,11/05/1988,Male,Vietnam,Hanoi,HR Specialist,Education,Affluent
+ID0568,15/10/1983,Female,UK,Manchester,Software Engineer,Hospitality,Affluent
+ID0569,01/02/1973,Female,USA,New York,Consultant,Marketing,Affluent
+ID0570,25/04/1977,Male,Vietnam,Ho Chi Minh,Sales Executive,Finance,High Net Worth
+ID0571,11/01/1968,Female,UK,London,Financial Analyst,Education,Mass Affluent
+ID0572,23/12/1985,Male,Australia,Melbourne,Marketing Manager,Marketing,Affluent
+ID0573,25/12/1997,Female,USA,New York,Financial Analyst,IT,Affluent
+ID0574,26/04/1960,Female,Vietnam,Ho Chi Minh,General Manager,Healthcare,Affluent
+ID0575,11/12/1977,Male,USA,Los Angeles,General Manager,Education,Mass Affluent
+ID0576,09/05/1999,Female,UK,London,Project Manager,IT,High Net Worth
+ID0577,23/06/1996,Female,Canada,Vancouver,Consultant,Retail,Mass Affluent
+ID0578,19/05/1963,Female,USA,Los Angeles,General Manager,Retail,High Net Worth
+ID0579,23/08/1997,Female,France,Paris,Financial Analyst,Marketing,Affluent
+ID0580,10/05/1979,Male,Vietnam,Hanoi,Consultant,IT,Mass Affluent
+ID0581,12/03/1964,Female,UK,London,Project Manager,Marketing,High Net Worth
+ID0582,27/05/2000,Male,Germany,Berlin,Financial Analyst,Hospitality,Mass Affluent
+ID0583,09/04/1982,Female,USA,Los Angeles,Software Engineer,Finance,Mass Affluent
+ID0584,08/09/1990,Male,Vietnam,Ho Chi Minh,Financial Analyst,Retail,Mass Affluent
+ID0585,07/05/1961,Male,Germany,Berlin,Accountant,Healthcare,High Net Worth
+ID0586,04/11/1964,Female,UK,London,Data Scientist,Healthcare,Affluent
+ID0587,14/11/1983,Female,Vietnam,Ho Chi Minh,Accountant,Healthcare,Affluent
+ID0588,12/08/1987,Male,Canada,Vancouver,HR Specialist,Construction,Affluent
+ID0589,15/04/1964,Female,Canada,Vancouver,Accountant,Finance,Mass Affluent
+ID0590,20/03/1992,Male,Canada,Toronto,Marketing Manager,Finance,High Net Worth
+ID0591,28/02/1973,Male,Canada,Vancouver,Consultant,Construction,High Net Worth
+ID0592,03/07/1988,Male,USA,Los Angeles,Project Manager,Retail,High Net Worth
+ID0593,27/08/1963,Male,France,Paris,General Manager,Hospitality,Mass Affluent
+ID0594,09/01/1995,Female,UK,London,Accountant,Finance,Affluent
+ID0595,11/04/1994,Female,Australia,Melbourne,General Manager,IT,Mass Affluent
+ID0596,23/09/1975,Female,UK,London,HR Specialist,IT,Mass Affluent
+ID0597,20/02/1974,Male,Australia,Sydney,HR Specialist,Marketing,High Net Worth
+ID0598,14/11/1999,Male,UK,London,General Manager,Finance,Mass Affluent
+ID0599,15/01/1963,Male,USA,Los Angeles,HR Specialist,Marketing,High Net Worth
+ID0600,22/01/1980,Female,UK,Manchester,Sales Executive,Healthcare,High Net Worth
+ID0601,13/01/1963,Male,USA,New York,Financial Analyst,IT,High Net Worth
+ID0602,06/03/1979,Female,Canada,Toronto,Marketing Manager,Retail,Mass Affluent
+ID0603,25/12/1995,Female,Australia,Sydney,Software Engineer,Education,Affluent
+ID0604,12/06/1981,Male,France,Paris,Consultant,Finance,High Net Worth
+ID0605,17/04/1972,Male,Australia,Sydney,Consultant,Education,Mass Affluent
+ID0606,30/04/1988,Male,USA,New York,Sales Executive,Education,High Net Worth
+ID0607,25/05/1964,Female,Australia,Melbourne,HR Specialist,Healthcare,High Net Worth
+ID0608,08/10/1980,Male,UK,London,Software Engineer,Finance,High Net Worth
+ID0609,06/12/1983,Male,Australia,Melbourne,General Manager,Healthcare,High Net Worth
+ID0610,03/10/1968,Male,USA,Los Angeles,Financial Analyst,Construction,Affluent
+ID0611,09/05/1993,Female,Germany,Berlin,HR Specialist,Retail,Affluent
+ID0612,23/01/1987,Female,Vietnam,Ho Chi Minh,Software Engineer,Healthcare,Affluent
+ID0613,06/04/1967,Female,USA,New York,Sales Executive,Healthcare,High Net Worth
+ID0614,03/08/1977,Female,Vietnam,Ho Chi Minh,Marketing Manager,Finance,Mass Affluent
+ID0615,30/09/1964,Female,Canada,Toronto,Consultant,Hospitality,Affluent
+ID0616,05/02/2000,Male,UK,London,HR Specialist,Construction,Affluent
+ID0617,09/10/1972,Female,Australia,Melbourne,Software Engineer,Hospitality,High Net Worth
+ID0618,23/12/1985,Female,Canada,Vancouver,General Manager,Marketing,Mass Affluent
+ID0619,19/11/1960,Male,Australia,Sydney,Consultant,IT,Mass Affluent
+ID0620,31/01/1988,Male,USA,New York,Accountant,Construction,Mass Affluent
+ID0621,14/10/1991,Male,UK,London,HR Specialist,Construction,High Net Worth
+ID0622,15/11/1968,Male,USA,New York,Project Manager,Marketing,Affluent
+ID0623,05/01/1970,Female,Australia,Melbourne,Project Manager,Retail,Affluent
+ID0624,06/04/1992,Male,France,Paris,HR Specialist,Marketing,Mass Affluent
+ID0625,24/09/1986,Male,UK,Manchester,Sales Executive,Retail,Affluent
+ID0626,20/03/1961,Male,Australia,Melbourne,Software Engineer,Finance,High Net Worth
+ID0627,21/12/1995,Male,Germany,Berlin,Sales Executive,Hospitality,High Net Worth
+ID0628,05/06/1986,Male,UK,London,Accountant,Finance,Affluent
+ID0629,14/06/1990,Male,Australia,Sydney,HR Specialist,Education,Mass Affluent
+ID0630,12/07/1992,Male,Australia,Sydney,Consultant,IT,High Net Worth
+ID0631,03/03/1972,Male,Germany,Berlin,Data Scientist,Finance,High Net Worth
+ID0632,07/02/1980,Female,Vietnam,Hanoi,Financial Analyst,Construction,High Net Worth
+ID0633,12/07/1988,Female,Australia,Melbourne,Accountant,IT,Affluent
+ID0634,29/09/1986,Male,USA,New York,General Manager,Education,Affluent
+ID0635,27/09/1972,Male,Australia,Sydney,Software Engineer,IT,Mass Affluent
+ID0636,27/05/1964,Male,USA,New York,Accountant,Finance,Mass Affluent
+ID0637,23/06/1974,Male,Australia,Sydney,Consultant,Construction,Affluent
+ID0638,27/08/1978,Female,UK,London,Marketing Manager,Finance,High Net Worth
+ID0639,26/02/1997,Male,USA,New York,Accountant,Healthcare,Affluent
+ID0640,21/12/1999,Female,Vietnam,Hanoi,Project Manager,Finance,High Net Worth
+ID0641,09/03/1973,Male,Canada,Toronto,Sales Executive,Finance,Mass Affluent
+ID0642,03/11/1965,Female,UK,Manchester,Marketing Manager,Education,Mass Affluent
+ID0643,05/05/1979,Female,Australia,Melbourne,Sales Executive,Education,Affluent
+ID0644,11/08/1998,Male,Germany,Berlin,Sales Executive,Hospitality,Affluent
+ID0645,29/12/1968,Male,UK,London,Project Manager,IT,Affluent
+ID0646,16/10/1987,Male,USA,Los Angeles,Sales Executive,Construction,Mass Affluent
+ID0647,06/06/1997,Female,UK,Manchester,Financial Analyst,Education,High Net Worth
+ID0648,15/11/1990,Male,Germany,Berlin,Consultant,Healthcare,Mass Affluent
+ID0649,16/06/2000,Female,USA,Los Angeles,Accountant,Retail,High Net Worth
+ID0650,28/06/1977,Female,USA,Los Angeles,Software Engineer,Healthcare,Affluent
+ID0651,27/07/1962,Female,Canada,Vancouver,Sales Executive,Finance,Affluent
+ID0652,15/06/1975,Male,Australia,Sydney,Data Scientist,Retail,Affluent
+ID0653,13/12/1979,Female,Canada,Vancouver,Consultant,Hospitality,Affluent
+ID0654,22/07/1997,Male,France,Paris,General Manager,Finance,Affluent
+ID0655,19/01/1961,Female,Vietnam,Ho Chi Minh,General Manager,Education,High Net Worth
+ID0656,03/05/1972,Female,Canada,Vancouver,Sales Executive,Finance,Mass Affluent
+ID0657,16/06/1970,Female,Australia,Melbourne,General Manager,Education,High Net Worth
+ID0658,10/01/1999,Male,UK,London,Data Scientist,Finance,Mass Affluent
+ID0659,07/02/1975,Male,USA,New York,Marketing Manager,Finance,High Net Worth
+ID0660,03/02/1967,Female,USA,Los Angeles,Financial Analyst,Hospitality,Mass Affluent
+ID0661,05/02/1985,Female,USA,New York,Project Manager,IT,High Net Worth
+ID0662,15/03/1980,Male,USA,Los Angeles,Marketing Manager,Marketing,High Net Worth
+ID0663,27/08/1976,Male,Germany,Berlin,Sales Executive,Marketing,Mass Affluent
+ID0664,25/06/1966,Male,Vietnam,Ho Chi Minh,Marketing Manager,IT,High Net Worth
+ID0665,03/08/1967,Female,UK,London,Data Scientist,Retail,Affluent
+ID0666,30/03/1966,Male,Canada,Toronto,Software Engineer,Finance,High Net Worth
+ID0667,08/01/1992,Female,Australia,Sydney,General Manager,Education,Mass Affluent
+ID0668,21/01/1964,Male,Canada,Toronto,Marketing Manager,IT,Affluent
+ID0669,14/11/1988,Female,UK,Manchester,Consultant,Healthcare,Mass Affluent
+ID0670,14/06/1977,Female,Vietnam,Hanoi,HR Specialist,Marketing,Mass Affluent
+ID0671,20/12/1983,Male,Australia,Sydney,Project Manager,Hospitality,High Net Worth
+ID0672,27/09/1976,Male,UK,London,General Manager,IT,Affluent
+ID0673,22/02/1986,Female,UK,Manchester,Project Manager,Healthcare,Mass Affluent
+ID0674,13/11/1999,Female,Germany,Berlin,Sales Executive,Education,Affluent
+ID0675,25/11/1982,Female,UK,London,Project Manager,IT,Mass Affluent
+ID0676,02/03/1988,Female,Canada,Vancouver,Financial Analyst,Construction,High Net Worth
+ID0677,15/08/1966,Male,Vietnam,Hanoi,Data Scientist,Finance,High Net Worth
+ID0678,21/04/1990,Female,Australia,Sydney,Financial Analyst,Hospitality,Mass Affluent
+ID0679,14/09/1975,Male,UK,London,Sales Executive,Healthcare,High Net Worth
+ID0680,18/10/1998,Male,USA,New York,Software Engineer,Healthcare,High Net Worth
+ID0681,06/03/1990,Male,France,Paris,Financial Analyst,Education,Mass Affluent
+ID0682,21/08/1976,Female,Vietnam,Hanoi,Consultant,Retail,High Net Worth
+ID0683,23/08/1966,Female,UK,Manchester,Consultant,Education,Mass Affluent
+ID0684,18/10/1965,Male,UK,Manchester,General Manager,Construction,Mass Affluent
+ID0685,07/07/1991,Female,Canada,Vancouver,Software Engineer,Healthcare,Affluent
+ID0686,11/07/1977,Female,Australia,Sydney,Project Manager,Healthcare,High Net Worth
+ID0687,02/12/1971,Female,Australia,Melbourne,Consultant,Finance,High Net Worth
+ID0688,12/06/1992,Male,Australia,Sydney,Data Scientist,Hospitality,Affluent
+ID0689,23/03/1979,Female,Germany,Berlin,HR Specialist,Hospitality,Mass Affluent
+ID0690,05/10/1970,Female,Canada,Toronto,Accountant,Retail,Affluent
+ID0691,29/10/1986,Female,USA,New York,Accountant,Education,Mass Affluent
+ID0692,16/01/1970,Female,Canada,Vancouver,Software Engineer,Hospitality,High Net Worth
+ID0693,08/07/1992,Male,Canada,Vancouver,General Manager,Healthcare,Affluent
+ID0694,25/04/1995,Female,Vietnam,Hanoi,Accountant,Education,Mass Affluent
+ID0695,28/04/1985,Female,Australia,Sydney,Financial Analyst,Hospitality,Mass Affluent
+ID0696,17/03/1982,Female,Canada,Vancouver,HR Specialist,Hospitality,Mass Affluent
+ID0697,07/06/1976,Male,USA,New York,General Manager,Education,High Net Worth
+ID0698,29/06/1991,Male,Canada,Vancouver,Financial Analyst,Hospitality,Mass Affluent
+ID0699,23/08/1973,Male,Vietnam,Hanoi,Data Scientist,Construction,High Net Worth
+ID0700,06/04/1960,Female,Canada,Toronto,Data Scientist,Finance,High Net Worth
+ID0701,02/09/1982,Male,Canada,Toronto,Data Scientist,Healthcare,Affluent
+ID0702,29/03/1982,Male,Canada,Toronto,Accountant,Marketing,High Net Worth
+ID0703,12/07/1982,Male,USA,New York,General Manager,Hospitality,Mass Affluent
+ID0704,06/03/1974,Male,USA,Los Angeles,General Manager,Marketing,Affluent
+ID0705,05/01/1973,Female,Vietnam,Hanoi,Financial Analyst,Retail,High Net Worth
+ID0706,08/01/1984,Male,USA,Los Angeles,Data Scientist,IT,Affluent
+ID0707,01/04/1966,Female,Vietnam,Ho Chi Minh,Software Engineer,IT,Affluent
+ID0708,26/12/1996,Female,France,Paris,Marketing Manager,Hospitality,High Net Worth
+ID0709,13/01/1981,Male,France,Paris,Project Manager,Marketing,Mass Affluent
+ID0710,17/10/1995,Male,USA,New York,Consultant,Construction,High Net Worth
+ID0711,07/08/1969,Male,Australia,Melbourne,HR Specialist,Marketing,High Net Worth
+ID0712,26/03/2000,Male,USA,Los Angeles,Marketing Manager,Finance,High Net Worth
+ID0713,18/05/1983,Female,France,Paris,Marketing Manager,Education,Affluent
+ID0714,07/08/1967,Female,Australia,Melbourne,Project Manager,Education,Affluent
+ID0715,31/10/1968,Male,France,Paris,Project Manager,Marketing,Affluent
+ID0716,01/12/1970,Male,Germany,Berlin,Consultant,Retail,High Net Worth
+ID0717,01/10/1970,Male,UK,Manchester,Marketing Manager,Healthcare,Affluent
+ID0718,01/02/1989,Male,Canada,Vancouver,Marketing Manager,Marketing,High Net Worth
+ID0719,21/03/1977,Female,USA,New York,Accountant,Healthcare,High Net Worth
+ID0720,16/09/1972,Male,Canada,Vancouver,Data Scientist,Finance,High Net Worth
+ID0721,20/02/1978,Male,Germany,Berlin,Financial Analyst,Marketing,High Net Worth
+ID0722,29/08/1982,Male,UK,London,General Manager,Education,Mass Affluent
+ID0723,11/03/1995,Male,UK,Manchester,Accountant,Healthcare,Mass Affluent
+ID0724,16/11/1971,Female,Canada,Vancouver,Consultant,Retail,High Net Worth
+ID0725,14/09/1990,Male,Vietnam,Ho Chi Minh,Marketing Manager,Construction,High Net Worth
+ID0726,22/07/1993,Male,USA,Los Angeles,General Manager,IT,High Net Worth
+ID0727,06/08/1979,Female,France,Paris,Software Engineer,Retail,Affluent
+ID0728,10/02/1960,Female,UK,London,General Manager,Retail,High Net Worth
+ID0729,26/03/1963,Male,USA,Los Angeles,Data Scientist,Healthcare,Mass Affluent
+ID0730,04/12/1965,Female,Australia,Sydney,HR Specialist,Healthcare,Mass Affluent
+ID0731,23/02/1988,Female,Canada,Vancouver,Sales Executive,Construction,Affluent
+ID0732,30/05/1987,Female,Germany,Berlin,Financial Analyst,Education,Affluent
+ID0733,10/04/1970,Female,UK,Manchester,Financial Analyst,Finance,Affluent
+ID0734,08/03/1969,Male,USA,Los Angeles,General Manager,IT,High Net Worth
+ID0735,06/01/1969,Male,Vietnam,Ho Chi Minh,Consultant,IT,Affluent
+ID0736,07/03/1990,Female,Canada,Toronto,Sales Executive,IT,Affluent
+ID0737,06/11/1970,Female,Canada,Vancouver,Financial Analyst,Hospitality,Affluent
+ID0738,04/09/1977,Male,Germany,Berlin,Consultant,Healthcare,Mass Affluent
+ID0739,18/05/1967,Female,France,Paris,Software Engineer,Construction,High Net Worth
+ID0740,12/03/1984,Male,Vietnam,Hanoi,Consultant,IT,High Net Worth
+ID0741,06/08/1968,Female,UK,Manchester,Data Scientist,Hospitality,Affluent
+ID0742,25/10/1978,Male,Canada,Vancouver,Accountant,Retail,High Net Worth
+ID0743,23/05/1979,Female,Vietnam,Hanoi,Marketing Manager,Retail,Affluent
+ID0744,22/12/1963,Female,Germany,Berlin,General Manager,Marketing,High Net Worth
+ID0745,18/02/1997,Female,Australia,Sydney,Financial Analyst,Construction,High Net Worth
+ID0746,10/03/1961,Male,Vietnam,Hanoi,Accountant,Education,Mass Affluent
+ID0747,21/12/1963,Female,USA,Los Angeles,Sales Executive,Finance,Mass Affluent
+ID0748,17/04/1985,Male,France,Paris,Consultant,Education,Affluent
+ID0749,02/08/1980,Female,Vietnam,Hanoi,Consultant,Education,Affluent
+ID0750,11/12/1997,Male,Canada,Toronto,Financial Analyst,Finance,High Net Worth
+ID0751,08/09/1966,Male,UK,Manchester,General Manager,Healthcare,High Net Worth
+ID0752,14/07/1983,Male,USA,New York,HR Specialist,Education,Mass Affluent
+ID0753,19/10/1984,Female,Vietnam,Hanoi,HR Specialist,IT,High Net Worth
+ID0754,22/03/1968,Female,USA,New York,Project Manager,Marketing,High Net Worth
+ID0755,29/01/1970,Female,Germany,Berlin,Financial Analyst,Education,Mass Affluent
+ID0756,24/08/1977,Male,USA,New York,Marketing Manager,Hospitality,High Net Worth
+ID0757,04/02/1999,Male,Australia,Melbourne,Software Engineer,Marketing,Affluent
+ID0758,13/10/1995,Male,Vietnam,Ho Chi Minh,Financial Analyst,Retail,Mass Affluent
+ID0759,03/07/1985,Male,Vietnam,Ho Chi Minh,General Manager,Marketing,Affluent
+ID0760,04/03/1964,Male,Vietnam,Hanoi,Consultant,Retail,High Net Worth
+ID0761,01/11/1981,Female,Germany,Berlin,HR Specialist,Hospitality,Mass Affluent
+ID0762,30/05/1970,Male,Vietnam,Hanoi,Accountant,IT,Mass Affluent
+ID0763,07/07/1996,Male,Canada,Toronto,Data Scientist,Education,Mass Affluent
+ID0764,10/11/1973,Male,UK,Manchester,General Manager,IT,Affluent
+ID0765,29/03/1999,Male,USA,Los Angeles,Financial Analyst,Finance,Mass Affluent
+ID0766,30/04/1977,Male,USA,New York,Software Engineer,Hospitality,High Net Worth
+ID0767,09/01/1992,Female,France,Paris,Financial Analyst,IT,High Net Worth
+ID0768,17/10/1984,Male,Germany,Berlin,Software Engineer,Marketing,Mass Affluent
+ID0769,07/01/1968,Male,Germany,Berlin,HR Specialist,Hospitality,Mass Affluent
+ID0770,08/11/1981,Female,Australia,Sydney,Consultant,Finance,Affluent
+ID0771,12/08/1995,Female,France,Paris,Data Scientist,Healthcare,High Net Worth
+ID0772,08/12/1968,Female,Vietnam,Hanoi,Financial Analyst,Education,Affluent
+ID0773,11/05/2000,Female,UK,Manchester,Consultant,Construction,High Net Worth
+ID0774,20/08/1963,Male,Canada,Toronto,Sales Executive,Finance,High Net Worth
+ID0775,25/01/1972,Female,Germany,Berlin,Accountant,Healthcare,High Net Worth
+ID0776,12/02/1967,Male,Vietnam,Ho Chi Minh,Data Scientist,Finance,Affluent
+ID0777,09/08/1994,Female,UK,London,Marketing Manager,Marketing,Mass Affluent
+ID0778,13/11/1985,Female,USA,Los Angeles,Financial Analyst,Hospitality,Affluent
+ID0779,28/09/1986,Male,USA,Los Angeles,Data Scientist,Marketing,Mass Affluent
+ID0780,17/10/1965,Female,Australia,Melbourne,Data Scientist,Marketing,High Net Worth
+ID0781,05/03/1974,Female,Germany,Berlin,Software Engineer,Education,High Net Worth
+ID0782,27/02/1996,Female,USA,New York,General Manager,IT,Mass Affluent
+ID0783,31/08/1981,Male,UK,Manchester,Software Engineer,Education,Affluent
+ID0784,23/01/1984,Male,USA,New York,HR Specialist,Hospitality,High Net Worth
+ID0785,27/06/1964,Female,Australia,Sydney,Data Scientist,Construction,Affluent
+ID0786,05/08/1968,Male,Vietnam,Hanoi,Data Scientist,IT,Affluent
+ID0787,03/10/1982,Female,Vietnam,Ho Chi Minh,Project Manager,IT,High Net Worth
+ID0788,19/01/1966,Male,UK,Manchester,Project Manager,Retail,High Net Worth
+ID0789,11/12/1977,Male,Canada,Toronto,HR Specialist,Finance,Mass Affluent
+ID0790,28/12/1982,Male,Canada,Vancouver,Consultant,Retail,Mass Affluent
+ID0791,12/08/1972,Female,USA,New York,Marketing Manager,Finance,Affluent
+ID0792,16/05/1965,Female,Canada,Toronto,HR Specialist,Education,Mass Affluent
+ID0793,19/09/1973,Female,France,Paris,Data Scientist,IT,Mass Affluent
+ID0794,18/11/1969,Female,Canada,Toronto,Marketing Manager,Retail,High Net Worth
+ID0795,06/07/2000,Male,UK,London,Data Scientist,Retail,Mass Affluent
+ID0796,24/11/1970,Female,Germany,Berlin,Project Manager,IT,High Net Worth
+ID0797,07/12/1974,Female,Germany,Berlin,Financial Analyst,Education,Affluent
+ID0798,08/04/1965,Female,Vietnam,Ho Chi Minh,HR Specialist,Retail,Affluent
+ID0799,16/12/1960,Male,Vietnam,Ho Chi Minh,Data Scientist,Healthcare,Affluent
+ID0800,03/07/1961,Male,Canada,Vancouver,Consultant,IT,Affluent
+ID0801,17/09/1967,Male,UK,London,HR Specialist,Construction,High Net Worth
+ID0802,20/03/1981,Female,UK,London,Financial Analyst,Healthcare,High Net Worth
+ID0803,26/12/1964,Female,USA,New York,Data Scientist,Finance,Affluent
+ID0804,18/03/1965,Female,UK,Manchester,HR Specialist,Marketing,High Net Worth
+ID0805,18/03/1994,Female,USA,New York,General Manager,Construction,Affluent
+ID0806,20/03/1994,Male,USA,New York,General Manager,Retail,High Net Worth
+ID0807,08/11/1990,Male,Vietnam,Hanoi,General Manager,Hospitality,Mass Affluent
+ID0808,17/03/1996,Female,Canada,Vancouver,Financial Analyst,Construction,Affluent
+ID0809,12/12/1960,Female,France,Paris,Software Engineer,IT,Mass Affluent
+ID0810,01/02/1991,Male,USA,Los Angeles,Sales Executive,Construction,Mass Affluent
+ID0811,22/01/1987,Female,Canada,Toronto,Project Manager,IT,Mass Affluent
+ID0812,11/05/1989,Female,Canada,Vancouver,Project Manager,Healthcare,Affluent
+ID0813,05/08/1968,Male,Vietnam,Hanoi,General Manager,Retail,High Net Worth
+ID0814,06/05/1966,Female,Vietnam,Hanoi,Project Manager,Retail,Mass Affluent
+ID0815,14/02/1985,Female,Australia,Melbourne,HR Specialist,Retail,Mass Affluent
+ID0816,15/07/1981,Female,UK,Manchester,Project Manager,Retail,High Net Worth
+ID0817,02/03/1973,Female,Australia,Melbourne,HR Specialist,Construction,Affluent
+ID0818,24/12/1968,Female,USA,New York,General Manager,Retail,Mass Affluent
+ID0819,14/01/1962,Male,Australia,Melbourne,Financial Analyst,Retail,Mass Affluent
+ID0820,04/08/1986,Male,Australia,Sydney,Financial Analyst,Marketing,Affluent
+ID0821,26/03/1973,Male,UK,London,General Manager,Healthcare,High Net Worth
+ID0822,09/06/1984,Female,UK,Manchester,Software Engineer,Hospitality,Affluent
+ID0823,10/07/1964,Female,Canada,Toronto,Accountant,Construction,Affluent
+ID0824,20/06/1996,Male,USA,Los Angeles,General Manager,Hospitality,Affluent
+ID0825,17/06/1994,Male,USA,New York,Accountant,Construction,Mass Affluent
+ID0826,22/10/1981,Male,Canada,Toronto,Accountant,Finance,Affluent
+ID0827,21/01/1984,Male,Vietnam,Hanoi,Software Engineer,Retail,Affluent
+ID0828,08/02/1963,Female,Australia,Melbourne,General Manager,Healthcare,Mass Affluent
+ID0829,14/02/1995,Female,Canada,Toronto,Software Engineer,Healthcare,Affluent
+ID0830,09/07/2000,Male,UK,London,Sales Executive,Hospitality,High Net Worth
+ID0831,29/11/1978,Male,Canada,Toronto,Marketing Manager,Finance,High Net Worth
+ID0832,13/03/1974,Female,Canada,Vancouver,General Manager,Hospitality,Affluent
+ID0833,31/12/1966,Male,Australia,Sydney,Data Scientist,Retail,Mass Affluent
+ID0834,17/10/2000,Female,Canada,Toronto,Consultant,IT,High Net Worth
+ID0835,17/12/1992,Male,Canada,Vancouver,Sales Executive,IT,Mass Affluent
+ID0836,30/01/1966,Female,Vietnam,Hanoi,Data Scientist,Retail,Affluent
+ID0837,23/06/1961,Male,UK,Manchester,Financial Analyst,Education,Mass Affluent
+ID0838,12/09/1987,Female,UK,London,Marketing Manager,Healthcare,Mass Affluent
+ID0839,11/05/1992,Male,USA,Los Angeles,Financial Analyst,Finance,Affluent
+ID0840,03/01/1995,Male,France,Paris,HR Specialist,Education,Mass Affluent
+ID0841,06/04/1977,Female,Germany,Berlin,Project Manager,Retail,Mass Affluent
+ID0842,03/05/1997,Female,France,Paris,Data Scientist,Finance,High Net Worth
+ID0843,20/09/1993,Female,Australia,Melbourne,Project Manager,Education,Mass Affluent
+ID0844,14/05/1990,Female,Vietnam,Hanoi,General Manager,Construction,Affluent
+ID0845,03/05/1987,Female,Vietnam,Ho Chi Minh,Software Engineer,Marketing,Mass Affluent
+ID0846,14/10/1969,Female,Australia,Melbourne,Software Engineer,Finance,Affluent
+ID0847,26/01/1980,Female,Canada,Toronto,Software Engineer,Healthcare,Affluent
+ID0848,15/02/1982,Female,Canada,Toronto,Financial Analyst,Education,Mass Affluent
+ID0849,21/01/1993,Female,UK,London,Sales Executive,Education,High Net Worth
+ID0850,13/02/1980,Male,UK,London,Project Manager,Education,High Net Worth
+ID0851,15/09/1987,Female,Vietnam,Hanoi,Data Scientist,Construction,High Net Worth
+ID0852,04/03/1997,Male,Australia,Sydney,Consultant,Retail,Mass Affluent
+ID0853,16/07/1964,Male,Australia,Sydney,General Manager,Healthcare,High Net Worth
+ID0854,13/07/1974,Female,Germany,Berlin,Software Engineer,Retail,Affluent
+ID0855,19/03/1989,Female,Australia,Melbourne,Marketing Manager,Healthcare,Mass Affluent
+ID0856,04/08/1990,Female,UK,London,Consultant,Marketing,Affluent
+ID0857,19/10/1991,Female,Germany,Berlin,General Manager,Retail,Mass Affluent
+ID0858,16/10/1975,Female,Australia,Melbourne,Consultant,Construction,Mass Affluent
+ID0859,26/05/1980,Female,France,Paris,Marketing Manager,Finance,Mass Affluent
+ID0860,07/10/1972,Female,UK,Manchester,Software Engineer,Marketing,Mass Affluent
+ID0861,03/04/1993,Female,USA,New York,Marketing Manager,Retail,High Net Worth
+ID0862,08/01/1996,Female,Australia,Melbourne,HR Specialist,IT,High Net Worth
+ID0863,23/12/1981,Female,Australia,Melbourne,Accountant,Construction,Affluent
+ID0864,29/05/1990,Female,Canada,Toronto,Financial Analyst,Construction,Affluent
+ID0865,26/11/1981,Male,Vietnam,Hanoi,Project Manager,Finance,Affluent
+ID0866,24/01/1979,Female,Germany,Berlin,Data Scientist,IT,Affluent
+ID0867,04/04/1993,Female,Australia,Sydney,Consultant,Retail,Mass Affluent
+ID0868,09/05/1967,Female,USA,New York,Software Engineer,Healthcare,Affluent
+ID0869,14/03/1969,Male,USA,New York,HR Specialist,Hospitality,Mass Affluent
+ID0870,27/02/1989,Male,Australia,Melbourne,Data Scientist,Education,Affluent
+ID0871,01/06/1962,Female,USA,Los Angeles,Financial Analyst,Healthcare,Affluent
+ID0872,21/09/1994,Male,Canada,Toronto,Consultant,Finance,Affluent
+ID0873,12/08/1967,Female,Vietnam,Hanoi,Accountant,Retail,Mass Affluent
+ID0874,06/02/1974,Female,France,Paris,Sales Executive,IT,Mass Affluent
+ID0875,27/04/1997,Female,Vietnam,Hanoi,Software Engineer,Retail,Mass Affluent
+ID0876,02/10/1986,Female,Vietnam,Hanoi,Data Scientist,Retail,Mass Affluent
+ID0877,07/06/1987,Female,USA,Los Angeles,Financial Analyst,Finance,Affluent
+ID0878,10/06/1967,Female,UK,London,Marketing Manager,Healthcare,High Net Worth
+ID0879,27/09/1968,Male,France,Paris,Marketing Manager,Construction,Affluent
+ID0880,10/02/1968,Female,UK,Manchester,Consultant,IT,Affluent
+ID0881,09/11/1986,Male,Vietnam,Hanoi,Financial Analyst,Healthcare,Mass Affluent
+ID0882,13/09/1966,Female,Vietnam,Ho Chi Minh,Financial Analyst,Healthcare,High Net Worth
+ID0883,18/01/1984,Female,USA,Los Angeles,Marketing Manager,Marketing,High Net Worth
+ID0884,19/08/1966,Female,USA,New York,Data Scientist,Construction,Mass Affluent
+ID0885,04/03/1972,Male,Canada,Toronto,Data Scientist,Construction,Mass Affluent
+ID0886,17/06/1972,Male,Canada,Vancouver,Accountant,Marketing,Affluent
+ID0887,12/09/1975,Male,UK,Manchester,HR Specialist,Finance,Mass Affluent
+ID0888,18/03/1988,Female,Vietnam,Ho Chi Minh,General Manager,Hospitality,Mass Affluent
+ID0889,18/12/1973,Male,Vietnam,Ho Chi Minh,Accountant,Retail,High Net Worth
+ID0890,26/02/1978,Male,Vietnam,Hanoi,Data Scientist,Finance,High Net Worth
+ID0891,12/03/1971,Female,Germany,Berlin,Consultant,Construction,High Net Worth
+ID0892,29/12/1992,Female,USA,Los Angeles,Consultant,Hospitality,High Net Worth
+ID0893,11/04/1998,Female,France,Paris,General Manager,Healthcare,Affluent
+ID0894,18/05/1987,Female,USA,New York,Consultant,Education,High Net Worth
+ID0895,12/12/1991,Female,Australia,Melbourne,Consultant,Construction,High Net Worth
+ID0896,09/05/1965,Female,Australia,Melbourne,Project Manager,Marketing,High Net Worth
+ID0897,03/03/1992,Male,Vietnam,Hanoi,HR Specialist,Education,Mass Affluent
+ID0898,10/02/1982,Female,UK,Manchester,Financial Analyst,Marketing,Mass Affluent
+ID0899,18/06/1995,Male,UK,Manchester,Accountant,Education,High Net Worth
+ID0900,09/11/1964,Male,UK,Manchester,Data Scientist,Finance,High Net Worth
+ID0901,28/05/1978,Female,Canada,Toronto,Marketing Manager,Hospitality,Affluent
+ID0902,27/05/1991,Female,Canada,Vancouver,Financial Analyst,Education,Mass Affluent
+ID0903,12/07/1971,Male,Vietnam,Ho Chi Minh,Sales Executive,IT,Mass Affluent
+ID0904,13/05/1998,Male,Australia,Melbourne,Sales Executive,Construction,Affluent
+ID0905,08/12/1960,Female,Vietnam,Ho Chi Minh,Project Manager,Construction,Affluent
+ID0906,04/10/1996,Female,USA,Los Angeles,Data Scientist,Healthcare,Affluent
+ID0907,25/04/1995,Male,Vietnam,Hanoi,General Manager,Retail,Mass Affluent
+ID0908,29/08/1977,Female,UK,London,Consultant,Marketing,Mass Affluent
+ID0909,08/04/1991,Female,Vietnam,Hanoi,Financial Analyst,Education,Affluent
+ID0910,02/12/2000,Female,Australia,Melbourne,Accountant,IT,Affluent
+ID0911,02/11/1992,Male,USA,Los Angeles,Sales Executive,IT,Affluent
+ID0912,10/01/1971,Male,UK,Manchester,Sales Executive,Education,Affluent
+ID0913,04/02/1998,Male,UK,London,HR Specialist,IT,Affluent
+ID0914,02/09/1980,Female,Canada,Vancouver,Consultant,IT,Affluent
+ID0915,22/04/1998,Female,Germany,Berlin,Sales Executive,Education,Affluent
+ID0916,22/05/1974,Male,UK,Manchester,Marketing Manager,IT,Mass Affluent
+ID0917,09/07/1987,Female,Australia,Sydney,HR Specialist,Healthcare,High Net Worth
+ID0918,21/09/1987,Male,France,Paris,Sales Executive,Hospitality,Affluent
+ID0919,07/10/1962,Female,Canada,Vancouver,Project Manager,Retail,Affluent
+ID0920,11/08/1978,Female,Canada,Vancouver,HR Specialist,Marketing,Affluent
+ID0921,29/04/1981,Male,USA,Los Angeles,Consultant,IT,Mass Affluent
+ID0922,06/03/1997,Female,UK,Manchester,General Manager,IT,Mass Affluent
+ID0923,15/09/1997,Male,France,Paris,Consultant,Healthcare,High Net Worth
+ID0924,01/03/1974,Female,Canada,Toronto,Financial Analyst,Construction,High Net Worth
+ID0925,01/03/1983,Female,Canada,Vancouver,Marketing Manager,Finance,Mass Affluent
+ID0926,18/01/1992,Female,Canada,Toronto,HR Specialist,Education,Affluent
+ID0927,17/12/2000,Male,Australia,Sydney,Consultant,Retail,Mass Affluent
+ID0928,17/09/1969,Male,Australia,Sydney,Consultant,Construction,Affluent
+ID0929,13/07/1991,Male,France,Paris,General Manager,Marketing,Mass Affluent
+ID0930,21/06/1999,Female,USA,New York,General Manager,Finance,Mass Affluent
+ID0931,17/04/1990,Male,Canada,Vancouver,Financial Analyst,Healthcare,High Net Worth
+ID0932,16/10/1964,Male,Vietnam,Hanoi,Accountant,Marketing,High Net Worth
+ID0933,01/01/1965,Female,Germany,Berlin,HR Specialist,Healthcare,Affluent
+ID0934,03/09/1991,Male,Australia,Sydney,Project Manager,Retail,High Net Worth
+ID0935,26/08/1976,Female,France,Paris,Marketing Manager,Finance,Affluent
+ID0936,22/04/1963,Female,UK,London,Project Manager,Healthcare,High Net Worth
+ID0937,04/10/1972,Female,UK,Manchester,Consultant,Retail,High Net Worth
+ID0938,26/11/1962,Male,Australia,Sydney,Accountant,Education,Mass Affluent
+ID0939,22/01/1980,Female,USA,New York,Financial Analyst,Hospitality,Mass Affluent
+ID0940,11/11/1965,Female,USA,New York,Accountant,IT,Mass Affluent
+ID0941,19/02/1995,Male,Vietnam,Ho Chi Minh,General Manager,Education,High Net Worth
+ID0942,02/01/1978,Female,Australia,Sydney,Consultant,Construction,High Net Worth
+ID0943,02/03/1978,Female,USA,New York,Sales Executive,Retail,High Net Worth
+ID0944,19/01/1985,Male,Australia,Sydney,Software Engineer,Marketing,Affluent
+ID0945,01/11/1983,Female,Vietnam,Ho Chi Minh,General Manager,Education,High Net Worth
+ID0946,02/03/1998,Male,USA,New York,Consultant,IT,High Net Worth
+ID0947,11/04/1983,Male,USA,Los Angeles,Accountant,Finance,Affluent
+ID0948,30/06/1985,Male,USA,New York,Project Manager,IT,High Net Worth
+ID0949,26/03/1972,Male,Australia,Melbourne,Software Engineer,IT,Affluent
+ID0950,26/05/1993,Female,Australia,Melbourne,General Manager,Finance,High Net Worth
+ID0951,22/04/1994,Female,Vietnam,Hanoi,HR Specialist,IT,High Net Worth
+ID0952,03/08/1962,Female,Australia,Sydney,Data Scientist,Finance,Mass Affluent
+ID0953,17/03/1965,Male,USA,New York,Sales Executive,Education,Affluent
+ID0954,17/09/1990,Female,Canada,Vancouver,Marketing Manager,Construction,Affluent
+ID0955,25/12/1967,Male,Australia,Melbourne,Sales Executive,Retail,Mass Affluent
+ID0956,14/01/1972,Male,Australia,Sydney,Sales Executive,Retail,Mass Affluent
+ID0957,02/12/1998,Male,USA,Los Angeles,Project Manager,Hospitality,Affluent
+ID0958,08/10/1987,Male,USA,New York,Project Manager,Finance,Affluent
+ID0959,18/01/1977,Female,Vietnam,Hanoi,Accountant,Hospitality,Affluent
+ID0960,13/10/1977,Male,Vietnam,Ho Chi Minh,Project Manager,Retail,High Net Worth
+ID0961,19/10/1982,Female,USA,Los Angeles,Software Engineer,Construction,High Net Worth
+ID0962,16/10/1962,Female,USA,Los Angeles,Software Engineer,IT,Mass Affluent
+ID0963,10/01/1999,Male,UK,London,Marketing Manager,Retail,Mass Affluent
+ID0964,02/03/1985,Male,USA,New York,Data Scientist,Construction,High Net Worth
+ID0965,27/05/1965,Female,Canada,Vancouver,General Manager,IT,Affluent
+ID0966,12/07/1984,Female,UK,London,Sales Executive,Finance,High Net Worth
+ID0967,03/10/1993,Female,USA,Los Angeles,Consultant,IT,Affluent
+ID0968,23/06/1995,Female,UK,Manchester,Consultant,Construction,Affluent
+ID0969,23/05/1974,Male,Vietnam,Hanoi,Financial Analyst,IT,Mass Affluent
+ID0970,05/01/1982,Male,Germany,Berlin,Project Manager,Retail,Mass Affluent
+ID0971,22/06/1995,Male,Australia,Sydney,Data Scientist,Healthcare,Affluent
+ID0972,04/12/1967,Male,Germany,Berlin,Consultant,Education,Affluent
+ID0973,15/12/1968,Female,Canada,Toronto,Consultant,Retail,Mass Affluent
+ID0974,11/10/1971,Female,Germany,Berlin,Software Engineer,Finance,Mass Affluent
+ID0975,25/07/1960,Male,Australia,Melbourne,Sales Executive,Construction,High Net Worth
+ID0976,26/11/1963,Male,Vietnam,Hanoi,Consultant,Finance,Mass Affluent
+ID0977,10/06/1982,Female,Australia,Sydney,Sales Executive,Finance,Mass Affluent
+ID0978,18/03/1983,Male,Australia,Melbourne,General Manager,Marketing,Mass Affluent
+ID0979,24/11/1986,Male,UK,Manchester,Project Manager,Construction,Affluent
+ID0980,10/09/1993,Male,Australia,Melbourne,Consultant,Education,High Net Worth
+ID0981,19/07/1977,Female,Australia,Melbourne,General Manager,Healthcare,Affluent
+ID0982,07/04/1974,Male,Germany,Berlin,Data Scientist,Hospitality,Mass Affluent
+ID0983,08/06/1969,Female,USA,New York,Data Scientist,Healthcare,Affluent
+ID0984,07/09/1981,Male,USA,Los Angeles,Accountant,Finance,Mass Affluent
+ID0985,16/11/1983,Female,Australia,Melbourne,HR Specialist,Retail,High Net Worth
+ID0986,14/02/1980,Female,Canada,Vancouver,HR Specialist,Retail,Affluent
+ID0987,05/12/1996,Male,UK,London,Project Manager,Finance,High Net Worth
+ID0988,09/11/1989,Female,Vietnam,Hanoi,Data Scientist,Construction,High Net Worth
+ID0989,03/10/1991,Female,Vietnam,Ho Chi Minh,Software Engineer,Marketing,Affluent
+ID0990,29/01/2000,Male,UK,Manchester,Consultant,Construction,High Net Worth
+ID0991,19/08/1987,Female,Australia,Melbourne,Marketing Manager,IT,Mass Affluent
+ID0992,10/08/1994,Male,France,Paris,HR Specialist,Finance,High Net Worth
+ID0993,17/05/1978,Female,Australia,Melbourne,Consultant,Education,High Net Worth
+ID0994,11/01/1995,Male,USA,Los Angeles,Financial Analyst,Construction,High Net Worth
+ID0995,09/03/1962,Female,Australia,Melbourne,Accountant,Education,Affluent
+ID0996,08/06/1985,Female,USA,New York,Sales Executive,Finance,Affluent
+ID0997,10/05/1960,Male,USA,New York,Project Manager,Retail,Mass Affluent
+ID0998,06/11/1975,Male,USA,New York,Marketing Manager,Retail,High Net Worth
+ID0999,10/01/1964,Female,Vietnam,Hanoi,Accountant,Finance,High Net Worth
+ID1000,29/07/1961,Female,Canada,Toronto,Software Engineer,Construction,High Net Worth
+ID1001,15/04/1963,Female,Australia,Melbourne,Software Engineer,Retail,High Net Worth
+ID1002,12/01/1991,Female,Vietnam,Hanoi,HR Specialist,Hospitality,High Net Worth
+ID1003,22/09/1980,Male,USA,Los Angeles,Sales Executive,Hospitality,High Net Worth
+ID1004,22/01/1962,Female,Vietnam,Ho Chi Minh,Financial Analyst,Education,Affluent
+ID1005,13/04/1998,Male,Australia,Melbourne,Software Engineer,IT,High Net Worth
+ID1006,27/03/1985,Male,France,Paris,Project Manager,Healthcare,Mass Affluent
+ID1007,10/08/1995,Male,USA,New York,Software Engineer,Finance,High Net Worth
+ID1008,24/11/1960,Male,Vietnam,Ho Chi Minh,Sales Executive,Finance,Mass Affluent
+ID1009,23/12/1995,Male,UK,Manchester,General Manager,IT,High Net Worth
+ID1010,03/12/2000,Male,Vietnam,Ho Chi Minh,General Manager,Construction,Mass Affluent
+ID1011,04/12/1983,Male,Australia,Melbourne,Accountant,Retail,Affluent
+ID1012,25/05/1962,Female,UK,London,Financial Analyst,IT,Affluent
+ID1013,05/11/1984,Female,Australia,Melbourne,Accountant,Finance,Mass Affluent
+ID1014,07/07/1993,Female,USA,Los Angeles,Marketing Manager,Retail,Mass Affluent
+ID1015,09/10/1974,Female,Canada,Toronto,General Manager,Finance,Affluent
+ID1016,03/02/1980,Male,Canada,Toronto,Data Scientist,IT,Affluent
+ID1017,05/06/1971,Male,Australia,Melbourne,General Manager,IT,High Net Worth
+ID1018,22/04/1962,Male,USA,Los Angeles,Marketing Manager,Finance,Affluent
+ID1019,01/03/1979,Male,Canada,Vancouver,Financial Analyst,Construction,Mass Affluent
+ID1020,03/05/1973,Male,USA,Los Angeles,Accountant,Education,Mass Affluent
+ID1021,31/05/1984,Male,France,Paris,General Manager,Marketing,Affluent
+ID1022,10/08/1997,Male,Germany,Berlin,Accountant,Hospitality,Mass Affluent
+ID1023,26/03/1968,Female,USA,New York,Data Scientist,Finance,Affluent
+ID1024,03/03/1960,Male,UK,Manchester,Sales Executive,Construction,Affluent
+ID1025,24/12/1976,Male,Australia,Sydney,Data Scientist,Construction,Mass Affluent
+ID1026,09/04/1996,Male,Vietnam,Hanoi,Consultant,Hospitality,High Net Worth
+ID1027,01/06/1995,Male,Canada,Vancouver,Consultant,Hospitality,High Net Worth
+ID1028,12/07/1968,Female,USA,New York,HR Specialist,Healthcare,Affluent
+ID1029,06/05/1974,Female,UK,London,Consultant,Retail,Mass Affluent
+ID1030,08/01/1985,Male,USA,New York,Data Scientist,Healthcare,Affluent
+ID1031,07/01/1968,Male,Australia,Melbourne,Sales Executive,Education,Mass Affluent
+ID1032,08/06/1966,Female,Vietnam,Hanoi,Software Engineer,Hospitality,Affluent
+ID1033,20/07/1962,Male,Vietnam,Ho Chi Minh,Software Engineer,Finance,Mass Affluent
+ID1034,24/05/1999,Male,Australia,Sydney,Project Manager,Marketing,Mass Affluent
+ID1035,25/10/1993,Male,UK,London,Data Scientist,Finance,Mass Affluent
+ID1036,09/12/1990,Female,Vietnam,Ho Chi Minh,Financial Analyst,Construction,Affluent
+ID1037,21/07/1965,Female,UK,Manchester,Consultant,Construction,Affluent
+ID1038,08/02/1984,Female,UK,Manchester,Sales Executive,IT,High Net Worth
+ID1039,11/06/1977,Male,USA,New York,Consultant,Marketing,Affluent
+ID1040,28/12/1978,Male,France,Paris,Consultant,Retail,Mass Affluent
+ID1041,19/06/1970,Female,UK,Manchester,Project Manager,Construction,Mass Affluent
+ID1042,11/07/1994,Male,UK,Manchester,Consultant,Education,High Net Worth
+ID1043,08/12/1986,Male,UK,London,Project Manager,Marketing,Mass Affluent
+ID1044,12/05/1994,Female,USA,Los Angeles,Project Manager,Construction,Affluent
+ID1045,01/05/1993,Female,Vietnam,Hanoi,Sales Executive,Education,High Net Worth
+ID1046,03/05/1973,Female,Germany,Berlin,Accountant,Construction,Mass Affluent
+ID1047,23/11/1989,Female,Australia,Melbourne,Marketing Manager,Education,Affluent
+ID1048,26/06/1977,Female,Canada,Vancouver,Data Scientist,Construction,Mass Affluent
+ID1049,28/10/1998,Female,Germany,Berlin,Sales Executive,Education,High Net Worth
+ID1050,30/09/1963,Male,Australia,Melbourne,General Manager,Construction,High Net Worth
+ID1051,28/07/1979,Male,Vietnam,Hanoi,Financial Analyst,Hospitality,Affluent
+ID1052,18/06/1971,Female,Australia,Sydney,Marketing Manager,IT,Affluent
+ID1053,30/10/1990,Female,USA,Los Angeles,Accountant,Healthcare,Mass Affluent
+ID1054,21/12/1971,Female,Canada,Vancouver,Financial Analyst,Marketing,High Net Worth
+ID1055,04/08/1975,Male,Vietnam,Hanoi,Data Scientist,Construction,High Net Worth
+ID1056,22/02/1989,Female,France,Paris,Financial Analyst,Healthcare,High Net Worth
+ID1057,07/07/1960,Male,Canada,Vancouver,HR Specialist,Hospitality,High Net Worth
+ID1058,26/04/1993,Male,Canada,Vancouver,Marketing Manager,Hospitality,Affluent
+ID1059,02/01/1979,Male,France,Paris,Accountant,Finance,High Net Worth
+ID1060,25/10/1972,Male,Australia,Melbourne,Financial Analyst,Healthcare,High Net Worth
+ID1061,28/06/1988,Female,UK,London,Marketing Manager,IT,Mass Affluent
+ID1062,07/04/1994,Female,USA,New York,Software Engineer,Education,Mass Affluent
+ID1063,09/05/1989,Female,UK,Manchester,Software Engineer,Marketing,Mass Affluent
+ID1064,20/03/1977,Male,Australia,Sydney,Marketing Manager,Hospitality,Mass Affluent
+ID1065,26/09/1971,Female,Australia,Sydney,Financial Analyst,Finance,Affluent
+ID1066,02/07/1960,Male,USA,Los Angeles,Data Scientist,Education,Affluent
+ID1067,25/11/1996,Male,Germany,Berlin,Sales Executive,Education,Affluent
+ID1068,13/08/1991,Male,Australia,Melbourne,Project Manager,Education,Mass Affluent
+ID1069,15/08/1966,Male,USA,Los Angeles,General Manager,Finance,Affluent
+ID1070,06/08/1963,Male,Canada,Toronto,HR Specialist,Healthcare,Affluent
+ID1071,08/10/1976,Male,UK,Manchester,HR Specialist,Marketing,High Net Worth
+ID1072,03/07/1966,Male,UK,London,HR Specialist,Finance,High Net Worth
+ID1073,05/05/1974,Female,UK,London,Financial Analyst,Marketing,Mass Affluent
+ID1074,11/03/1984,Female,Germany,Berlin,Data Scientist,Education,High Net Worth
+ID1075,11/06/1970,Male,Canada,Toronto,Project Manager,Finance,Mass Affluent
+ID1076,16/05/1971,Male,USA,Los Angeles,Financial Analyst,Marketing,Mass Affluent
+ID1077,24/09/1964,Female,Canada,Toronto,Financial Analyst,Finance,Affluent
+ID1078,06/01/1985,Male,USA,New York,Data Scientist,Healthcare,High Net Worth
+ID1079,12/09/1977,Female,Australia,Sydney,HR Specialist,Marketing,Affluent
+ID1080,28/11/1990,Male,Vietnam,Hanoi,HR Specialist,Retail,High Net Worth
+ID1081,01/01/1964,Female,Australia,Melbourne,Sales Executive,Hospitality,Affluent
+ID1082,23/11/1982,Male,Canada,Toronto,Software Engineer,Marketing,Mass Affluent
+ID1083,04/04/1976,Male,Germany,Berlin,HR Specialist,Construction,Affluent
+ID1084,12/04/1994,Male,Vietnam,Hanoi,General Manager,Education,Mass Affluent
+ID1085,15/05/1978,Male,USA,New York,HR Specialist,Finance,High Net Worth
+ID1086,01/03/1978,Female,Vietnam,Ho Chi Minh,Software Engineer,Hospitality,High Net Worth
+ID1087,30/08/1961,Female,UK,Manchester,Financial Analyst,Finance,High Net Worth
+ID1088,06/05/1997,Male,UK,Manchester,Sales Executive,IT,Affluent
+ID1089,29/09/1973,Male,Vietnam,Hanoi,Financial Analyst,Retail,High Net Worth
+ID1090,01/12/1970,Female,Australia,Melbourne,Accountant,Marketing,Mass Affluent
+ID1091,10/03/1980,Female,Canada,Toronto,Software Engineer,Retail,Mass Affluent
+ID1092,22/12/1975,Male,Australia,Melbourne,Financial Analyst,IT,Affluent
+ID1093,01/03/1980,Female,Vietnam,Hanoi,HR Specialist,IT,High Net Worth
+ID1094,23/09/1988,Male,Australia,Melbourne,Data Scientist,Education,Mass Affluent
+ID1095,23/05/1968,Male,Vietnam,Hanoi,Consultant,Finance,Mass Affluent
+ID1096,21/12/1981,Female,UK,Manchester,Financial Analyst,Hospitality,High Net Worth
+ID1097,13/11/1994,Male,Australia,Sydney,Consultant,Education,High Net Worth
+ID1098,07/10/1998,Female,Germany,Berlin,General Manager,Healthcare,Affluent
+ID1099,13/08/1980,Female,UK,London,Project Manager,Healthcare,Affluent
+ID1100,19/06/1969,Female,Vietnam,Hanoi,Accountant,IT,High Net Worth
+ID1101,07/11/1979,Male,Vietnam,Ho Chi Minh,HR Specialist,IT,High Net Worth
+ID1102,27/02/1985,Male,Canada,Toronto,Data Scientist,Marketing,Mass Affluent
+ID1103,24/10/1964,Female,Australia,Melbourne,Consultant,Marketing,High Net Worth
+ID1104,18/02/1999,Female,UK,London,Marketing Manager,IT,Mass Affluent
+ID1105,23/04/1993,Male,USA,New York,Software Engineer,Healthcare,Affluent
+ID1106,29/01/1998,Male,France,Paris,Data Scientist,Education,Affluent
+ID1107,30/04/1998,Male,Canada,Toronto,Project Manager,Hospitality,Mass Affluent
+ID1108,25/01/1993,Male,France,Paris,Software Engineer,Education,Affluent
+ID1109,12/11/1991,Female,Australia,Sydney,Accountant,IT,Mass Affluent
+ID1110,02/12/1969,Male,Canada,Vancouver,Accountant,Healthcare,Affluent
+ID1111,09/02/1986,Female,UK,London,Sales Executive,IT,High Net Worth
+ID1112,10/10/1979,Male,UK,London,Accountant,Finance,Affluent
+ID1113,08/11/1982,Female,USA,New York,Marketing Manager,Marketing,Mass Affluent
+ID1114,06/03/1981,Female,Canada,Toronto,Marketing Manager,Marketing,Mass Affluent
+ID1115,03/06/1982,Female,Vietnam,Hanoi,Project Manager,Education,High Net Worth
+ID1116,11/12/1976,Female,Canada,Vancouver,Sales Executive,Construction,Mass Affluent
+ID1117,18/08/1986,Female,USA,New York,Accountant,Hospitality,Mass Affluent
+ID1118,24/01/1994,Female,Australia,Sydney,Data Scientist,Marketing,High Net Worth
+ID1119,03/06/1960,Female,Germany,Berlin,Data Scientist,Hospitality,Mass Affluent
+ID1120,07/01/1995,Female,Canada,Toronto,HR Specialist,Hospitality,Mass Affluent
+ID1121,22/10/1969,Male,France,Paris,Accountant,Retail,Mass Affluent
+ID1122,19/12/1975,Female,France,Paris,General Manager,Finance,Affluent
+ID1123,11/06/1969,Male,Vietnam,Hanoi,Sales Executive,Finance,Affluent
+ID1124,30/03/1984,Female,Canada,Vancouver,Software Engineer,Education,Affluent
+ID1125,25/04/1968,Female,Vietnam,Ho Chi Minh,Accountant,Healthcare,Mass Affluent
+ID1126,10/03/1999,Male,Canada,Toronto,HR Specialist,IT,Mass Affluent
+ID1127,12/10/1960,Female,Canada,Vancouver,Project Manager,Education,Mass Affluent
+ID1128,06/03/1995,Female,USA,Los Angeles,Accountant,Retail,High Net Worth
+ID1129,04/03/1994,Male,Canada,Toronto,Financial Analyst,Finance,Mass Affluent
+ID1130,03/06/1967,Female,Vietnam,Hanoi,Marketing Manager,Hospitality,High Net Worth
+ID1131,10/02/1979,Male,France,Paris,Accountant,Healthcare,Mass Affluent
+ID1132,26/06/1981,Male,UK,Manchester,Consultant,Construction,High Net Worth
+ID1133,10/06/1996,Male,UK,London,Sales Executive,IT,High Net Worth
+ID1134,11/12/1974,Female,Vietnam,Ho Chi Minh,Project Manager,Education,High Net Worth
+ID1135,14/11/1992,Male,Australia,Melbourne,General Manager,Hospitality,Affluent
+ID1136,16/12/1965,Female,France,Paris,Financial Analyst,Marketing,Mass Affluent
+ID1137,07/08/1972,Female,UK,London,Data Scientist,IT,High Net Worth
+ID1138,20/08/1978,Female,Australia,Melbourne,Project Manager,Hospitality,High Net Worth
+ID1139,13/12/1979,Male,Australia,Melbourne,HR Specialist,Healthcare,Mass Affluent
+ID1140,12/04/1996,Male,USA,New York,Accountant,Retail,Mass Affluent
+ID1141,26/02/1996,Male,Australia,Melbourne,Financial Analyst,Healthcare,Affluent
+ID1142,27/01/1978,Female,Vietnam,Hanoi,Financial Analyst,Education,High Net Worth
+ID1143,23/05/1976,Female,Australia,Melbourne,Data Scientist,Hospitality,Affluent
+ID1144,27/06/1965,Male,Canada,Vancouver,Accountant,Marketing,Mass Affluent
+ID1145,11/04/1960,Male,USA,Los Angeles,Consultant,Finance,Mass Affluent
+ID1146,12/01/1985,Male,Canada,Toronto,Project Manager,Finance,Mass Affluent
+ID1147,16/08/1994,Male,USA,New York,Financial Analyst,Hospitality,High Net Worth
+ID1148,01/08/1984,Male,Canada,Toronto,Accountant,Education,High Net Worth
+ID1149,31/08/1960,Male,Australia,Melbourne,Project Manager,Healthcare,Affluent
+ID1150,19/03/1998,Female,Canada,Toronto,General Manager,Healthcare,Affluent
+ID1151,30/04/1993,Male,Canada,Toronto,Accountant,Finance,Affluent
+ID1152,08/02/1962,Female,Canada,Toronto,Consultant,IT,Affluent
+ID1153,12/11/1970,Female,Australia,Sydney,Marketing Manager,Marketing,Affluent
+ID1154,25/01/1985,Male,Germany,Berlin,Accountant,Healthcare,Mass Affluent
+ID1155,06/06/1978,Male,France,Paris,Project Manager,IT,High Net Worth
+ID1156,13/06/1999,Female,Australia,Melbourne,Software Engineer,Education,Affluent
+ID1157,25/01/1985,Female,UK,London,Sales Executive,Construction,Affluent
+ID1158,04/04/1998,Female,Canada,Vancouver,Consultant,Healthcare,Affluent
+ID1159,22/11/1982,Female,Germany,Berlin,Data Scientist,Education,High Net Worth
+ID1160,20/07/1991,Female,Canada,Toronto,Software Engineer,Retail,Affluent
+ID1161,07/08/1985,Male,Australia,Melbourne,Project Manager,Construction,Mass Affluent
+ID1162,26/05/1996,Male,USA,New York,Project Manager,Hospitality,High Net Worth
+ID1163,14/03/1979,Male,Australia,Melbourne,Marketing Manager,Hospitality,Mass Affluent
+ID1164,05/08/1977,Male,USA,Los Angeles,Software Engineer,IT,Mass Affluent
+ID1165,24/05/1974,Male,Canada,Vancouver,General Manager,Marketing,High Net Worth
+ID1166,01/09/1966,Male,USA,New York,Sales Executive,IT,High Net Worth
+ID1167,22/10/1971,Female,UK,Manchester,Financial Analyst,IT,Affluent
+ID1168,19/02/1980,Male,Canada,Vancouver,HR Specialist,Education,High Net Worth
+ID1169,28/07/1976,Female,UK,Manchester,HR Specialist,Healthcare,Mass Affluent
+ID1170,24/03/1975,Male,Australia,Melbourne,Accountant,Healthcare,Affluent
+ID1171,17/02/1992,Male,USA,New York,Sales Executive,Retail,Affluent
+ID1172,10/05/1961,Female,Australia,Sydney,Marketing Manager,Education,High Net Worth
+ID1173,09/09/1964,Female,UK,Manchester,Software Engineer,Finance,High Net Worth
+ID1174,13/10/1994,Female,Australia,Sydney,Financial Analyst,Finance,Mass Affluent
+ID1175,04/09/1983,Male,Vietnam,Hanoi,Project Manager,Finance,High Net Worth
+ID1176,09/07/1998,Male,UK,Manchester,Project Manager,IT,Affluent
+ID1177,02/06/1993,Male,Australia,Sydney,Marketing Manager,Hospitality,Affluent
+ID1178,07/07/1982,Male,Canada,Vancouver,Accountant,Marketing,High Net Worth
+ID1179,09/08/1985,Female,USA,Los Angeles,Accountant,Construction,High Net Worth
+ID1180,03/12/1975,Female,Australia,Sydney,General Manager,IT,Mass Affluent
+ID1181,03/03/1992,Male,Australia,Melbourne,Consultant,IT,Mass Affluent
+ID1182,09/03/1961,Female,USA,Los Angeles,Accountant,IT,Mass Affluent
+ID1183,24/05/1992,Female,USA,Los Angeles,Data Scientist,Construction,Affluent
+ID1184,01/02/1987,Male,Australia,Sydney,Financial Analyst,Healthcare,Mass Affluent
+ID1185,03/06/1980,Female,USA,Los Angeles,Marketing Manager,Healthcare,High Net Worth
+ID1186,11/11/1974,Female,Australia,Melbourne,General Manager,IT,High Net Worth
+ID1187,13/01/1991,Male,Vietnam,Hanoi,General Manager,IT,Affluent
+ID1188,12/09/1996,Male,UK,Manchester,Consultant,Marketing,Mass Affluent
+ID1189,21/01/1986,Male,Canada,Toronto,Accountant,IT,High Net Worth
+ID1190,06/09/1961,Male,UK,Manchester,HR Specialist,Finance,Mass Affluent
+ID1191,26/03/1979,Female,Vietnam,Ho Chi Minh,Project Manager,Finance,Mass Affluent
+ID1192,05/07/1970,Female,UK,London,Financial Analyst,Construction,Mass Affluent
+ID1193,26/06/1968,Male,Germany,Berlin,Sales Executive,Construction,High Net Worth
+ID1194,07/06/1992,Male,Germany,Berlin,Accountant,IT,Affluent
+ID1195,03/10/1969,Male,Canada,Toronto,Financial Analyst,IT,Affluent
+ID1196,12/09/1980,Male,UK,London,Consultant,Marketing,Mass Affluent
+ID1197,01/02/1965,Female,Vietnam,Hanoi,Marketing Manager,IT,High Net Worth
+ID1198,04/12/1985,Male,UK,London,Financial Analyst,Retail,High Net Worth
+ID1199,17/05/1998,Male,Canada,Vancouver,Data Scientist,Construction,Mass Affluent
+ID1200,01/08/1982,Male,Germany,Berlin,HR Specialist,Marketing,Mass Affluent
+ID1201,12/03/1974,Male,Australia,Melbourne,HR Specialist,Marketing,High Net Worth
+ID1202,03/09/1968,Female,UK,Manchester,Data Scientist,Hospitality,High Net Worth
+ID1203,17/06/1991,Female,USA,Los Angeles,Project Manager,IT,Affluent
+ID1204,29/10/1989,Male,France,Paris,Marketing Manager,Retail,Affluent
+ID1205,31/03/1971,Male,USA,Los Angeles,Consultant,Healthcare,Affluent
+ID1206,19/02/1962,Female,UK,London,Data Scientist,Construction,High Net Worth
+ID1207,04/06/1999,Female,UK,London,Financial Analyst,Hospitality,High Net Worth
+ID1208,12/02/1966,Female,Canada,Vancouver,Data Scientist,Education,High Net Worth
+ID1209,22/09/1990,Male,Canada,Vancouver,Data Scientist,Finance,High Net Worth
+ID1210,25/05/1970,Female,Australia,Sydney,Project Manager,Retail,Affluent
+ID1211,21/06/1983,Male,Canada,Toronto,Software Engineer,Construction,High Net Worth
+ID1212,10/01/1992,Female,France,Paris,Financial Analyst,Marketing,High Net Worth
+ID1213,04/10/1975,Male,Australia,Melbourne,Data Scientist,Education,High Net Worth
+ID1214,26/06/1983,Female,UK,London,Project Manager,IT,High Net Worth
+ID1215,24/03/1968,Male,Australia,Sydney,General Manager,Marketing,Mass Affluent
+ID1216,22/10/1976,Female,USA,Los Angeles,Project Manager,Marketing,Affluent
+ID1217,12/08/1986,Female,UK,Manchester,Sales Executive,Finance,Mass Affluent
+ID1218,13/12/1997,Male,Germany,Berlin,Software Engineer,Finance,Affluent
+ID1219,02/12/1972,Female,Vietnam,Hanoi,Software Engineer,Marketing,Affluent
+ID1220,30/03/1977,Female,Australia,Sydney,Data Scientist,Marketing,Mass Affluent
+ID1221,19/11/1982,Female,Australia,Melbourne,Consultant,Hospitality,High Net Worth
+ID1222,21/12/1964,Male,Germany,Berlin,Marketing Manager,Finance,Affluent
+ID1223,01/03/1992,Female,Australia,Sydney,Software Engineer,Hospitality,Mass Affluent
+ID1224,27/04/1980,Male,Canada,Toronto,HR Specialist,Finance,High Net Worth
+ID1225,31/01/1965,Female,Vietnam,Ho Chi Minh,Software Engineer,Retail,Mass Affluent
+ID1226,31/07/1977,Female,Vietnam,Ho Chi Minh,General Manager,Retail,High Net Worth
+ID1227,05/06/1973,Female,UK,Manchester,Consultant,Healthcare,Affluent
+ID1228,26/03/1966,Male,Germany,Berlin,Consultant,Finance,Mass Affluent
+ID1229,03/08/1968,Male,Canada,Vancouver,HR Specialist,Finance,Mass Affluent
+ID1230,03/06/1996,Female,Canada,Vancouver,Project Manager,Construction,High Net Worth
+ID1231,17/11/1960,Female,France,Paris,General Manager,Hospitality,High Net Worth
+ID1232,12/06/1963,Female,USA,New York,Consultant,Marketing,High Net Worth
+ID1233,28/08/1964,Male,Germany,Berlin,Marketing Manager,Healthcare,Affluent
+ID1234,21/09/2000,Female,France,Paris,Consultant,Hospitality,High Net Worth
+ID1235,21/04/1996,Male,Germany,Berlin,Software Engineer,Finance,Mass Affluent
+ID1236,31/03/1990,Male,UK,Manchester,Project Manager,Marketing,Affluent
+ID1237,18/07/2000,Male,Canada,Toronto,HR Specialist,Retail,Affluent
+ID1238,07/07/1973,Female,Canada,Vancouver,General Manager,Retail,Affluent
+ID1239,23/11/1974,Male,Germany,Berlin,Accountant,Retail,High Net Worth
+ID1240,22/11/1983,Male,Canada,Toronto,Project Manager,Hospitality,Affluent
+ID1241,18/10/1974,Male,Australia,Sydney,Consultant,Healthcare,High Net Worth
+ID1242,06/12/1991,Female,Germany,Berlin,Consultant,Retail,Affluent
+ID1243,25/07/1997,Female,France,Paris,HR Specialist,Construction,High Net Worth
+ID1244,11/03/1966,Male,Canada,Vancouver,General Manager,Marketing,Mass Affluent
+ID1245,02/06/1998,Male,Germany,Berlin,Project Manager,Construction,High Net Worth
+ID1246,11/08/1964,Female,Canada,Vancouver,General Manager,Marketing,High Net Worth
+ID1247,02/07/1977,Male,Australia,Sydney,Project Manager,Finance,High Net Worth
+ID1248,06/08/1986,Male,Vietnam,Ho Chi Minh,Data Scientist,Retail,High Net Worth
+ID1249,14/03/1986,Female,Australia,Sydney,Project Manager,Retail,Mass Affluent
+ID1250,07/05/1980,Male,Australia,Melbourne,Data Scientist,IT,Mass Affluent
+ID1251,07/06/1990,Female,USA,Los Angeles,Project Manager,Retail,Affluent
+ID1252,23/10/1964,Male,Australia,Sydney,Financial Analyst,Hospitality,Affluent
+ID1253,09/10/1963,Male,Vietnam,Hanoi,Software Engineer,Education,Affluent
+ID1254,21/10/1988,Female,Vietnam,Hanoi,Accountant,Education,High Net Worth
+ID1255,11/04/1984,Male,Canada,Vancouver,Marketing Manager,Retail,Affluent
+ID1256,05/07/1990,Male,Vietnam,Ho Chi Minh,Sales Executive,Healthcare,Mass Affluent
+ID1257,13/11/1984,Female,Vietnam,Ho Chi Minh,HR Specialist,IT,Mass Affluent
+ID1258,23/05/1994,Male,UK,London,Sales Executive,Retail,Affluent
+ID1259,11/09/1979,Female,USA,New York,Consultant,Hospitality,Affluent
+ID1260,09/08/1993,Male,Australia,Melbourne,Project Manager,Finance,Mass Affluent
+ID1261,17/04/1973,Female,Canada,Vancouver,Sales Executive,Hospitality,Affluent
+ID1262,13/11/1990,Female,Australia,Sydney,HR Specialist,Education,Affluent
+ID1263,10/04/1971,Female,Canada,Toronto,Marketing Manager,Construction,Mass Affluent
+ID1264,17/02/1989,Female,UK,Manchester,Marketing Manager,Retail,Mass Affluent
+ID1265,25/05/1987,Male,USA,Los Angeles,Consultant,Construction,High Net Worth
+ID1266,19/04/1980,Female,France,Paris,Data Scientist,Marketing,Affluent
+ID1267,26/06/1978,Male,USA,New York,Project Manager,Hospitality,Affluent
+ID1268,30/10/1965,Female,Canada,Toronto,Sales Executive,Retail,Affluent
+ID1269,13/11/1984,Male,UK,Manchester,General Manager,Construction,Mass Affluent
+ID1270,24/03/1974,Female,Vietnam,Ho Chi Minh,Project Manager,IT,Mass Affluent
+ID1271,27/10/2000,Female,Germany,Berlin,Software Engineer,Healthcare,Affluent
+ID1272,27/07/1968,Female,Germany,Berlin,Data Scientist,IT,Mass Affluent
+ID1273,22/08/1996,Female,USA,Los Angeles,Accountant,Hospitality,Mass Affluent
+ID1274,03/08/1971,Male,Vietnam,Hanoi,Software Engineer,Retail,Mass Affluent
+ID1275,14/05/1967,Female,France,Paris,Accountant,Finance,Mass Affluent
+ID1276,17/01/1972,Male,Australia,Sydney,Data Scientist,Hospitality,Mass Affluent
+ID1277,11/02/1973,Male,Canada,Toronto,Consultant,Hospitality,Affluent
+ID1278,21/12/1963,Male,Australia,Melbourne,HR Specialist,Finance,Affluent
+ID1279,04/08/1991,Male,Germany,Berlin,Data Scientist,Healthcare,Affluent
+ID1280,18/04/1970,Male,Germany,Berlin,Financial Analyst,Hospitality,Mass Affluent
+ID1281,30/12/1998,Male,UK,Manchester,Financial Analyst,Construction,High Net Worth
+ID1282,14/02/2000,Female,Germany,Berlin,Marketing Manager,Finance,Affluent
+ID1283,27/11/1988,Male,France,Paris,Marketing Manager,IT,Mass Affluent
+ID1284,10/06/1989,Female,Germany,Berlin,Software Engineer,Healthcare,Mass Affluent
+ID1285,17/07/1991,Female,USA,Los Angeles,Marketing Manager,Marketing,High Net Worth
+ID1286,13/05/1998,Female,UK,Manchester,Accountant,Education,Mass Affluent
+ID1287,01/07/1988,Female,France,Paris,General Manager,Healthcare,Mass Affluent
+ID1288,03/09/1981,Male,USA,Los Angeles,Software Engineer,Marketing,Mass Affluent
+ID1289,05/10/1973,Male,USA,Los Angeles,Sales Executive,Hospitality,High Net Worth
+ID1290,17/10/1969,Male,France,Paris,HR Specialist,Healthcare,Affluent
+ID1291,22/01/1990,Male,Canada,Toronto,Financial Analyst,Construction,Mass Affluent
+ID1292,25/03/1986,Male,USA,New York,Sales Executive,Construction,Affluent
+ID1293,01/01/1993,Female,Vietnam,Ho Chi Minh,HR Specialist,Retail,Mass Affluent
+ID1294,11/05/1997,Female,France,Paris,Accountant,Retail,Mass Affluent
+ID1295,08/03/2000,Female,Canada,Toronto,Marketing Manager,Hospitality,Mass Affluent
+ID1296,22/02/1965,Female,Canada,Toronto,Accountant,Retail,Affluent
+ID1297,21/12/1989,Male,Canada,Toronto,Project Manager,Finance,High Net Worth
+ID1298,28/08/1991,Female,USA,Los Angeles,Financial Analyst,Healthcare,Mass Affluent
+ID1299,02/08/1965,Female,Canada,Vancouver,Marketing Manager,IT,Affluent
+ID1300,17/03/1976,Female,Canada,Toronto,Project Manager,Retail,High Net Worth
+ID1301,19/10/1962,Female,UK,London,General Manager,Construction,High Net Worth
+ID1302,03/12/1973,Male,Canada,Toronto,HR Specialist,IT,Mass Affluent
+ID1303,22/01/1969,Male,UK,London,Data Scientist,Finance,Affluent
+ID1304,14/04/1991,Male,Canada,Vancouver,Consultant,Hospitality,Mass Affluent
+ID1305,24/07/1975,Male,Canada,Vancouver,Consultant,Construction,High Net Worth
+ID1306,23/11/1969,Male,Australia,Sydney,Project Manager,Education,Affluent
+ID1307,14/08/1981,Female,France,Paris,Sales Executive,Retail,Affluent
+ID1308,06/02/1977,Male,Vietnam,Hanoi,Marketing Manager,Retail,Affluent
+ID1309,25/02/1961,Male,Australia,Melbourne,Accountant,IT,Affluent
+ID1310,07/08/1980,Female,Canada,Vancouver,Financial Analyst,Retail,High Net Worth
+ID1311,13/01/1989,Female,USA,New York,General Manager,Healthcare,High Net Worth
+ID1312,03/12/1975,Female,UK,Manchester,Financial Analyst,Retail,High Net Worth
+ID1313,05/05/1980,Male,USA,New York,Financial Analyst,Education,Mass Affluent
+ID1314,01/03/1960,Female,Germany,Berlin,Marketing Manager,Construction,Mass Affluent
+ID1315,01/07/1967,Female,Canada,Vancouver,HR Specialist,Healthcare,Mass Affluent
+ID1316,07/04/1998,Female,USA,Los Angeles,Software Engineer,Finance,High Net Worth
+ID1317,11/03/1979,Female,Canada,Toronto,Project Manager,Education,Affluent
+ID1318,06/05/1977,Male,France,Paris,Marketing Manager,Hospitality,High Net Worth
+ID1319,25/06/1991,Male,Australia,Sydney,General Manager,Healthcare,High Net Worth
+ID1320,22/01/1972,Male,France,Paris,Financial Analyst,Healthcare,Mass Affluent
+ID1321,06/06/1989,Male,Canada,Vancouver,Project Manager,Finance,Mass Affluent
+ID1322,08/02/1982,Female,Australia,Sydney,HR Specialist,IT,Affluent
+ID1323,03/09/1967,Male,Germany,Berlin,Software Engineer,Hospitality,High Net Worth
+ID1324,22/05/1986,Male,France,Paris,Financial Analyst,Hospitality,High Net Worth
+ID1325,26/08/1987,Male,USA,Los Angeles,Marketing Manager,Healthcare,Mass Affluent
+ID1326,08/06/1979,Female,UK,London,General Manager,Education,High Net Worth
+ID1327,08/10/1980,Male,USA,Los Angeles,General Manager,Construction,Affluent
+ID1328,05/02/1976,Female,UK,Manchester,Financial Analyst,Marketing,High Net Worth
+ID1329,21/07/1998,Female,USA,Los Angeles,Software Engineer,Retail,High Net Worth
+ID1330,31/07/1960,Male,Vietnam,Hanoi,Accountant,Finance,Mass Affluent
+ID1331,20/10/1976,Male,Australia,Melbourne,Financial Analyst,Finance,High Net Worth
+ID1332,19/02/1971,Male,Canada,Toronto,Marketing Manager,Healthcare,Affluent
+ID1333,09/08/1979,Male,USA,New York,Accountant,Finance,High Net Worth
+ID1334,28/01/1976,Male,Germany,Berlin,Accountant,Education,High Net Worth
+ID1335,18/10/1984,Female,Australia,Melbourne,Marketing Manager,IT,Mass Affluent
+ID1336,23/07/1961,Male,Australia,Melbourne,Data Scientist,Hospitality,High Net Worth
+ID1337,23/04/2000,Male,USA,New York,Software Engineer,Healthcare,Affluent
+ID1338,03/12/1989,Female,Germany,Berlin,Financial Analyst,IT,Affluent
+ID1339,06/06/1976,Male,France,Paris,Data Scientist,Education,Affluent
+ID1340,18/06/1996,Female,USA,New York,Financial Analyst,Education,Affluent
+ID1341,14/04/1963,Female,Vietnam,Hanoi,Data Scientist,IT,High Net Worth
+ID1342,18/03/1986,Female,USA,New York,Data Scientist,Healthcare,Mass Affluent
+ID1343,12/11/1963,Male,UK,London,Accountant,IT,Mass Affluent
+ID1344,13/07/1987,Male,Canada,Toronto,Project Manager,Hospitality,Mass Affluent
+ID1345,29/02/1996,Male,France,Paris,Financial Analyst,Healthcare,Affluent
+ID1346,03/03/1983,Female,Vietnam,Hanoi,General Manager,Construction,High Net Worth
+ID1347,08/03/1968,Female,UK,Manchester,Accountant,Marketing,High Net Worth
+ID1348,26/04/1995,Female,Canada,Toronto,Financial Analyst,Marketing,Mass Affluent
+ID1349,18/04/1969,Female,Canada,Toronto,Marketing Manager,Construction,Mass Affluent
+ID1350,07/08/1985,Female,UK,London,HR Specialist,IT,Mass Affluent
+ID1351,28/10/1995,Male,Canada,Toronto,Accountant,IT,Affluent
+ID1352,16/02/1984,Male,UK,Manchester,Project Manager,Finance,High Net Worth
+ID1353,25/01/1985,Female,UK,Manchester,Data Scientist,Retail,Affluent
+ID1354,11/07/1974,Female,France,Paris,HR Specialist,Hospitality,Affluent
+ID1355,18/02/1965,Male,Australia,Sydney,Project Manager,Retail,Mass Affluent
+ID1356,01/11/1993,Female,Canada,Vancouver,Data Scientist,Hospitality,Affluent
+ID1357,07/09/1968,Female,USA,New York,Data Scientist,Construction,High Net Worth
+ID1358,13/05/1976,Female,France,Paris,Consultant,Healthcare,Affluent
+ID1359,27/10/1965,Male,UK,Manchester,Project Manager,Hospitality,Affluent
+ID1360,21/02/1961,Female,Germany,Berlin,HR Specialist,Construction,Mass Affluent
+ID1361,18/05/1985,Male,Australia,Sydney,Accountant,Marketing,High Net Worth
+ID1362,06/03/1970,Male,UK,Manchester,Sales Executive,Marketing,High Net Worth
+ID1363,09/08/1974,Female,Vietnam,Hanoi,Software Engineer,Finance,Mass Affluent
+ID1364,28/02/1978,Female,Germany,Berlin,Marketing Manager,Finance,Mass Affluent
+ID1365,05/02/1970,Female,Australia,Melbourne,Project Manager,Finance,High Net Worth
+ID1366,04/12/1981,Female,Australia,Sydney,Data Scientist,Hospitality,Mass Affluent
+ID1367,25/05/1989,Male,UK,London,Accountant,Marketing,Affluent
+ID1368,29/08/1976,Male,Vietnam,Ho Chi Minh,Accountant,Construction,Affluent
+ID1369,30/12/1975,Female,Australia,Sydney,Sales Executive,Hospitality,Affluent
+ID1370,29/10/1985,Male,Vietnam,Hanoi,Marketing Manager,Education,Affluent
+ID1371,11/09/1968,Female,Vietnam,Hanoi,Project Manager,IT,High Net Worth
+ID1372,08/05/1973,Male,USA,New York,Project Manager,Marketing,High Net Worth
+ID1373,22/12/1973,Male,Vietnam,Ho Chi Minh,Software Engineer,Marketing,High Net Worth
+ID1374,29/12/1981,Female,Germany,Berlin,Financial Analyst,Retail,Affluent
+ID1375,20/03/1979,Male,Vietnam,Hanoi,Data Scientist,Healthcare,Mass Affluent
+ID1376,30/08/1994,Female,UK,Manchester,Project Manager,Hospitality,Mass Affluent
+ID1377,29/06/1983,Male,UK,London,Software Engineer,Hospitality,High Net Worth
+ID1378,07/05/1977,Female,USA,New York,Marketing Manager,Finance,Mass Affluent
+ID1379,05/09/1967,Female,Australia,Sydney,Sales Executive,Finance,High Net Worth
+ID1380,31/03/1985,Male,Canada,Toronto,Project Manager,Healthcare,Affluent
+ID1381,18/09/1998,Male,Australia,Sydney,Financial Analyst,Hospitality,Mass Affluent
+ID1382,21/12/1960,Male,UK,Manchester,Financial Analyst,IT,Affluent
+ID1383,21/10/1967,Female,Canada,Vancouver,HR Specialist,Finance,High Net Worth
+ID1384,16/06/1995,Female,Vietnam,Ho Chi Minh,Project Manager,IT,High Net Worth
+ID1385,19/08/1970,Female,Canada,Toronto,Financial Analyst,Construction,Mass Affluent
+ID1386,01/06/1978,Female,UK,Manchester,General Manager,Marketing,Affluent
+ID1387,04/04/1967,Female,Canada,Toronto,Sales Executive,Marketing,Affluent
+ID1388,28/04/1999,Male,Australia,Melbourne,Software Engineer,Hospitality,High Net Worth
+ID1389,02/03/1974,Male,Canada,Vancouver,Marketing Manager,Construction,Affluent
+ID1390,19/12/1961,Female,UK,London,General Manager,Finance,Affluent
+ID1391,21/07/1980,Female,Australia,Sydney,Software Engineer,Marketing,Mass Affluent
+ID1392,03/05/1960,Male,France,Paris,Financial Analyst,IT,Affluent
+ID1393,13/10/1995,Female,Australia,Melbourne,Sales Executive,Marketing,Affluent
+ID1394,08/07/1980,Male,France,Paris,Project Manager,Retail,Affluent
+ID1395,13/12/1992,Female,Canada,Toronto,Data Scientist,Hospitality,High Net Worth
+ID1396,03/10/1966,Male,Australia,Sydney,HR Specialist,Marketing,High Net Worth
+ID1397,18/08/1994,Female,UK,Manchester,General Manager,IT,Affluent
+ID1398,26/07/1996,Female,USA,New York,Accountant,IT,Mass Affluent
+ID1399,19/12/1966,Male,USA,New York,Sales Executive,Education,Mass Affluent
+ID1400,16/10/1989,Male,France,Paris,Project Manager,Finance,Affluent
+ID1401,20/09/1988,Female,UK,Manchester,Sales Executive,Retail,High Net Worth
+ID1402,06/01/1973,Female,Vietnam,Ho Chi Minh,HR Specialist,Finance,Affluent
+ID1403,28/11/1992,Male,Vietnam,Ho Chi Minh,HR Specialist,Healthcare,Affluent
+ID1404,01/04/1965,Female,Australia,Melbourne,Consultant,IT,High Net Worth
+ID1405,31/07/1984,Female,Canada,Toronto,Consultant,Finance,High Net Worth
+ID1406,27/04/1975,Male,USA,Los Angeles,Consultant,Hospitality,Affluent
+ID1407,23/11/1991,Male,UK,Manchester,Financial Analyst,IT,Affluent
+ID1408,25/05/1972,Female,France,Paris,Software Engineer,Marketing,Mass Affluent
+ID1409,11/03/1966,Male,Germany,Berlin,Financial Analyst,Finance,Affluent
+ID1410,02/11/1968,Male,UK,London,Project Manager,Retail,High Net Worth
+ID1411,11/09/1972,Female,UK,Manchester,Project Manager,Healthcare,High Net Worth
+ID1412,23/01/1989,Male,Vietnam,Ho Chi Minh,Financial Analyst,Construction,Affluent
+ID1413,26/11/1964,Female,UK,London,Marketing Manager,Construction,High Net Worth
+ID1414,15/06/1984,Female,Vietnam,Ho Chi Minh,Software Engineer,Construction,Mass Affluent
+ID1415,01/06/1985,Male,France,Paris,Consultant,Hospitality,Affluent
+ID1416,19/05/1988,Female,USA,New York,Consultant,IT,Mass Affluent
+ID1417,30/01/1986,Male,Canada,Vancouver,Software Engineer,Hospitality,High Net Worth
+ID1418,03/06/1967,Male,Germany,Berlin,General Manager,Retail,Mass Affluent
+ID1419,07/08/1988,Female,Australia,Sydney,Consultant,Finance,Affluent
+ID1420,05/06/1996,Female,Australia,Sydney,Sales Executive,Hospitality,Affluent
+ID1421,21/07/1965,Female,Australia,Sydney,Data Scientist,Marketing,Affluent
+ID1422,05/05/1999,Male,UK,Manchester,Project Manager,Healthcare,Mass Affluent
+ID1423,01/03/1982,Male,USA,Los Angeles,General Manager,IT,High Net Worth
+ID1424,27/08/1980,Female,UK,London,Data Scientist,Healthcare,High Net Worth
+ID1425,16/08/1968,Female,USA,New York,General Manager,Finance,High Net Worth
+ID1426,13/01/1989,Female,France,Paris,Project Manager,Finance,Mass Affluent
+ID1427,27/09/1965,Female,Australia,Melbourne,Sales Executive,Healthcare,High Net Worth
+ID1428,17/02/1994,Female,Vietnam,Hanoi,HR Specialist,Marketing,High Net Worth
+ID1429,22/10/1987,Male,UK,London,HR Specialist,Retail,Mass Affluent
+ID1430,26/06/1984,Male,Germany,Berlin,HR Specialist,IT,High Net Worth
+ID1431,04/05/1975,Male,Vietnam,Hanoi,Sales Executive,Construction,Affluent
+ID1432,12/10/1990,Female,USA,Los Angeles,HR Specialist,Healthcare,High Net Worth
+ID1433,09/05/1973,Male,Vietnam,Hanoi,Data Scientist,Construction,Mass Affluent
+ID1434,10/05/1991,Female,Australia,Sydney,Software Engineer,IT,High Net Worth
+ID1435,10/02/1973,Male,Vietnam,Hanoi,Project Manager,Hospitality,High Net Worth
+ID1436,04/11/1998,Male,UK,Manchester,Sales Executive,Construction,Mass Affluent
+ID1437,20/01/1976,Male,Australia,Melbourne,Data Scientist,Marketing,Affluent
+ID1438,02/03/1979,Male,France,Paris,Accountant,Education,Mass Affluent
+ID1439,06/08/1973,Female,Australia,Sydney,Marketing Manager,Healthcare,High Net Worth
+ID1440,26/04/1961,Male,Australia,Melbourne,Marketing Manager,Hospitality,Mass Affluent
+ID1441,07/08/1992,Male,Australia,Melbourne,General Manager,Construction,Affluent
+ID1442,04/01/1994,Male,Australia,Melbourne,Marketing Manager,Retail,Mass Affluent
+ID1443,25/10/1974,Male,UK,Manchester,HR Specialist,Finance,Affluent
+ID1444,28/07/1991,Female,Canada,Vancouver,Sales Executive,Healthcare,High Net Worth
+ID1445,08/05/1991,Male,France,Paris,Accountant,IT,Affluent
+ID1446,10/01/1995,Male,USA,New York,Sales Executive,Marketing,Mass Affluent
+ID1447,23/10/1982,Male,Vietnam,Hanoi,Project Manager,Retail,Mass Affluent
+ID1448,02/12/1964,Female,USA,New York,Marketing Manager,Marketing,Mass Affluent
+ID1449,06/03/1966,Female,USA,New York,Project Manager,Marketing,Affluent
+ID1450,06/06/1963,Male,USA,Los Angeles,Sales Executive,Hospitality,Affluent
+ID1451,13/08/1998,Female,Canada,Toronto,Data Scientist,Retail,High Net Worth
+ID1452,19/12/1981,Male,Australia,Sydney,Consultant,Finance,Affluent
+ID1453,02/03/1973,Female,France,Paris,Marketing Manager,Healthcare,Mass Affluent
+ID1454,03/05/1994,Male,Australia,Melbourne,HR Specialist,Marketing,High Net Worth
+ID1455,03/05/1971,Female,USA,Los Angeles,General Manager,Healthcare,Mass Affluent
+ID1456,02/07/1998,Female,Canada,Vancouver,Sales Executive,IT,Affluent
+ID1457,01/10/1960,Female,Germany,Berlin,Data Scientist,Education,Mass Affluent
+ID1458,05/01/1972,Female,Vietnam,Ho Chi Minh,Accountant,Construction,High Net Worth
+ID1459,15/01/1977,Male,UK,London,Consultant,Healthcare,Mass Affluent
+ID1460,31/01/1994,Male,Canada,Vancouver,HR Specialist,Education,Affluent
+ID1461,31/03/1981,Female,France,Paris,Data Scientist,Marketing,High Net Worth
+ID1462,06/05/1994,Female,France,Paris,HR Specialist,Finance,High Net Worth
+ID1463,11/11/1995,Male,Canada,Toronto,Software Engineer,Education,High Net Worth
+ID1464,05/02/1997,Male,Canada,Toronto,Marketing Manager,Education,Affluent
+ID1465,08/08/1970,Female,USA,Los Angeles,General Manager,IT,High Net Worth
+ID1466,31/05/1989,Female,UK,London,Consultant,Finance,Affluent
+ID1467,12/11/1973,Male,USA,New York,HR Specialist,Marketing,Mass Affluent
+ID1468,29/06/1997,Female,Canada,Toronto,Consultant,Hospitality,Affluent
+ID1469,24/04/1986,Female,Canada,Vancouver,Marketing Manager,Marketing,Affluent
+ID1470,19/02/1995,Male,France,Paris,HR Specialist,Healthcare,Affluent
+ID1471,16/04/1975,Male,Canada,Vancouver,Accountant,Construction,Affluent
+ID1472,06/04/1979,Female,Australia,Sydney,Software Engineer,Finance,Mass Affluent
+ID1473,08/07/1975,Male,Australia,Melbourne,Consultant,Healthcare,Mass Affluent
+ID1474,20/09/1979,Female,UK,London,HR Specialist,IT,Affluent
+ID1475,17/08/1964,Female,Vietnam,Hanoi,Software Engineer,Retail,Affluent
+ID1476,20/08/1982,Female,Vietnam,Hanoi,Financial Analyst,Healthcare,Mass Affluent
+ID1477,15/01/1985,Male,USA,Los Angeles,Consultant,IT,Affluent
+ID1478,27/04/1976,Female,USA,New York,Financial Analyst,Healthcare,Mass Affluent
+ID1479,25/07/1991,Male,UK,Manchester,General Manager,Finance,Mass Affluent
+ID1480,06/11/1982,Male,Germany,Berlin,Software Engineer,Education,Mass Affluent
+ID1481,13/07/1999,Male,Vietnam,Hanoi,Accountant,Finance,High Net Worth
+ID1482,26/05/1963,Female,France,Paris,Project Manager,IT,High Net Worth
+ID1483,17/06/1969,Male,Germany,Berlin,Consultant,Construction,Mass Affluent
+ID1484,30/10/1970,Female,Australia,Sydney,Financial Analyst,Marketing,High Net Worth
+ID1485,12/02/1998,Male,UK,Manchester,Consultant,Marketing,Mass Affluent
+ID1486,08/07/1982,Female,UK,London,Software Engineer,Healthcare,Affluent
+ID1487,01/02/1967,Female,Vietnam,Ho Chi Minh,Consultant,Hospitality,Mass Affluent
+ID1488,23/11/1960,Male,Vietnam,Ho Chi Minh,Marketing Manager,IT,Affluent
+ID1489,24/02/1962,Male,Vietnam,Hanoi,Accountant,Healthcare,High Net Worth
+ID1490,02/01/1993,Male,Canada,Toronto,Data Scientist,Education,Affluent
+ID1491,31/03/1988,Female,Vietnam,Ho Chi Minh,Financial Analyst,Marketing,Affluent
+ID1492,04/06/1978,Female,Canada,Toronto,Accountant,Retail,Mass Affluent
+ID1493,31/01/1980,Male,UK,London,Consultant,Construction,High Net Worth
+ID1494,12/03/1982,Male,Canada,Toronto,Data Scientist,Healthcare,High Net Worth
+ID1495,01/01/1999,Female,USA,New York,HR Specialist,Retail,Affluent
+ID1496,13/11/1980,Male,Canada,Vancouver,HR Specialist,Hospitality,High Net Worth
+ID1497,12/12/1960,Male,Vietnam,Hanoi,Software Engineer,IT,High Net Worth
+ID1498,16/07/1972,Male,Canada,Toronto,HR Specialist,Marketing,High Net Worth
+ID1499,01/08/1975,Male,Australia,Sydney,Accountant,Finance,Mass Affluent
+ID1500,04/08/1976,Female,Canada,Toronto,Financial Analyst,Retail,Affluent
+ID1501,29/07/1968,Male,Vietnam,Hanoi,Project Manager,Healthcare,Mass Affluent
+ID1502,28/10/1977,Male,UK,Manchester,Consultant,Construction,Mass Affluent
+ID1503,21/10/1962,Female,UK,London,Consultant,Education,Mass Affluent
+ID1504,11/11/1992,Male,Vietnam,Ho Chi Minh,Financial Analyst,Healthcare,Affluent
+ID1505,28/11/2000,Male,Canada,Toronto,Marketing Manager,IT,High Net Worth
+ID1506,26/02/1988,Female,Vietnam,Hanoi,Accountant,Hospitality,Affluent
+ID1507,14/05/1965,Male,Australia,Sydney,HR Specialist,IT,Mass Affluent
+ID1508,10/01/1960,Male,Canada,Vancouver,Sales Executive,IT,High Net Worth
+ID1509,09/11/1979,Female,USA,Los Angeles,Data Scientist,IT,High Net Worth
+ID1510,06/11/1979,Female,Canada,Toronto,Software Engineer,IT,Mass Affluent
+ID1511,01/06/1993,Male,Canada,Toronto,Sales Executive,Construction,Affluent
+ID1512,15/01/1981,Female,Vietnam,Ho Chi Minh,Accountant,Finance,High Net Worth
+ID1513,14/12/1977,Female,USA,New York,Accountant,Marketing,High Net Worth
+ID1514,28/04/1977,Female,Australia,Sydney,Consultant,Education,Mass Affluent
+ID1515,20/10/1998,Male,Vietnam,Hanoi,Sales Executive,Marketing,High Net Worth
+ID1516,11/04/1960,Female,Australia,Melbourne,Marketing Manager,Finance,Mass Affluent
+ID1517,25/09/1970,Female,Canada,Vancouver,Financial Analyst,Hospitality,Affluent
+ID1518,01/05/1970,Female,Canada,Vancouver,Project Manager,Retail,High Net Worth
+ID1519,30/04/1960,Female,Canada,Vancouver,Marketing Manager,Retail,High Net Worth
+ID1520,11/02/1983,Male,Germany,Berlin,Sales Executive,Retail,High Net Worth
+ID1521,25/08/2000,Female,Germany,Berlin,Software Engineer,Hospitality,High Net Worth
+ID1522,30/10/1963,Male,USA,Los Angeles,Consultant,Marketing,Mass Affluent
+ID1523,30/07/1994,Female,UK,London,Financial Analyst,Healthcare,Mass Affluent
+ID1524,26/07/1964,Female,UK,London,HR Specialist,Marketing,Mass Affluent
+ID1525,23/08/1964,Female,Canada,Vancouver,Financial Analyst,Marketing,Affluent
+ID1526,24/04/1986,Female,USA,Los Angeles,Consultant,Healthcare,Mass Affluent
+ID1527,30/09/1995,Male,Canada,Toronto,Project Manager,Finance,Affluent
+ID1528,30/12/1984,Male,UK,London,Software Engineer,Construction,Affluent
+ID1529,03/09/1996,Female,France,Paris,Marketing Manager,Education,Mass Affluent
+ID1530,27/08/1974,Male,Canada,Vancouver,Sales Executive,Education,High Net Worth
+ID1531,10/06/1974,Male,Canada,Toronto,General Manager,IT,High Net Worth
+ID1532,19/07/1996,Male,UK,London,Financial Analyst,IT,Affluent
+ID1533,24/03/1981,Male,Vietnam,Ho Chi Minh,Software Engineer,Hospitality,Mass Affluent
+ID1534,19/12/1997,Male,Canada,Toronto,HR Specialist,Construction,Affluent
+ID1535,08/06/1992,Female,USA,New York,Data Scientist,Marketing,High Net Worth
+ID1536,12/12/1975,Female,Australia,Sydney,Consultant,Hospitality,High Net Worth
+ID1537,13/10/1963,Male,UK,London,Sales Executive,Hospitality,High Net Worth
+ID1538,30/06/1972,Male,USA,New York,General Manager,Education,Affluent
+ID1539,16/02/1974,Male,USA,Los Angeles,General Manager,Retail,Mass Affluent
+ID1540,21/03/1999,Female,Australia,Sydney,Financial Analyst,Construction,Mass Affluent
+ID1541,09/09/1961,Male,Germany,Berlin,Consultant,Retail,Mass Affluent
+ID1542,21/09/1964,Male,Vietnam,Ho Chi Minh,Marketing Manager,Retail,High Net Worth
+ID1543,15/07/1994,Male,Vietnam,Ho Chi Minh,Consultant,Healthcare,High Net Worth
+ID1544,13/02/1987,Female,USA,Los Angeles,Sales Executive,IT,High Net Worth
+ID1545,10/11/1962,Female,Canada,Toronto,Marketing Manager,Hospitality,Mass Affluent
+ID1546,12/05/1985,Female,Vietnam,Hanoi,Sales Executive,Education,Affluent
+ID1547,14/07/1977,Male,Canada,Vancouver,Software Engineer,Education,High Net Worth
+ID1548,14/04/1960,Female,Germany,Berlin,Data Scientist,Retail,Affluent
+ID1549,02/04/1988,Male,Australia,Sydney,Sales Executive,Healthcare,Affluent
+ID1550,02/02/1981,Female,Australia,Sydney,Sales Executive,Finance,Affluent
+ID1551,07/06/1967,Male,USA,Los Angeles,Financial Analyst,Education,Mass Affluent
+ID1552,21/06/1999,Male,UK,Manchester,Consultant,Retail,Mass Affluent
+ID1553,01/12/1960,Female,Vietnam,Hanoi,Software Engineer,IT,Mass Affluent
+ID1554,11/04/1992,Male,USA,New York,Sales Executive,Hospitality,High Net Worth
+ID1555,02/06/1978,Male,France,Paris,Accountant,IT,High Net Worth
+ID1556,12/01/1989,Female,USA,Los Angeles,Financial Analyst,Retail,Mass Affluent
+ID1557,07/02/1999,Male,Vietnam,Hanoi,Data Scientist,Hospitality,High Net Worth
+ID1558,21/10/1993,Female,Canada,Toronto,Consultant,Marketing,Mass Affluent
+ID1559,01/06/1987,Female,USA,New York,Marketing Manager,Construction,Affluent
+ID1560,05/04/1987,Female,USA,New York,Accountant,Construction,Mass Affluent
+ID1561,05/05/1993,Male,USA,New York,Sales Executive,Hospitality,Affluent
+ID1562,26/03/1960,Female,Australia,Melbourne,Accountant,Construction,Affluent
+ID1563,31/03/1997,Male,USA,New York,Software Engineer,Construction,Affluent
+ID1564,21/03/1985,Male,Australia,Sydney,HR Specialist,Retail,Mass Affluent
+ID1565,08/11/1964,Female,UK,London,General Manager,IT,High Net Worth
+ID1566,19/02/1977,Female,France,Paris,Project Manager,Finance,Affluent
+ID1567,05/11/1982,Male,Canada,Vancouver,Consultant,Retail,High Net Worth
+ID1568,10/09/1986,Female,Canada,Vancouver,Marketing Manager,Finance,Mass Affluent
+ID1569,13/05/2000,Female,USA,Los Angeles,Accountant,Retail,High Net Worth
+ID1570,08/02/1999,Male,Australia,Sydney,Sales Executive,Finance,Mass Affluent
+ID1571,25/12/1972,Female,Germany,Berlin,HR Specialist,Healthcare,Affluent
+ID1572,09/06/1990,Female,Australia,Melbourne,Accountant,Hospitality,Mass Affluent
+ID1573,21/09/1962,Female,Vietnam,Hanoi,Project Manager,Hospitality,High Net Worth
+ID1574,11/09/1997,Male,Canada,Vancouver,Software Engineer,Education,Mass Affluent
+ID1575,19/04/1980,Male,UK,Manchester,Project Manager,Healthcare,Mass Affluent
+ID1576,19/12/1998,Female,Vietnam,Ho Chi Minh,General Manager,Hospitality,High Net Worth
+ID1577,17/07/1962,Female,Germany,Berlin,Data Scientist,Finance,Mass Affluent
+ID1578,07/02/1966,Male,Australia,Sydney,Marketing Manager,Construction,High Net Worth
+ID1579,17/08/1983,Female,Canada,Toronto,Financial Analyst,Retail,Mass Affluent
+ID1580,24/02/2000,Male,UK,London,General Manager,Construction,Affluent
+ID1581,16/01/1996,Male,Canada,Vancouver,Consultant,Education,Affluent
+ID1582,28/09/2000,Female,Canada,Vancouver,Sales Executive,Healthcare,Affluent
+ID1583,15/10/1966,Female,Canada,Vancouver,Marketing Manager,Retail,Mass Affluent
+ID1584,13/08/1996,Female,USA,Los Angeles,Sales Executive,Retail,Mass Affluent
+ID1585,05/12/1991,Male,Germany,Berlin,Consultant,Construction,Mass Affluent
+ID1586,21/03/1998,Female,UK,London,Software Engineer,Retail,High Net Worth
+ID1587,01/09/1990,Male,Australia,Melbourne,Financial Analyst,Hospitality,High Net Worth
+ID1588,02/04/1988,Male,Australia,Sydney,Software Engineer,Marketing,Mass Affluent
+ID1589,10/03/1984,Female,USA,Los Angeles,Accountant,Retail,Mass Affluent
+ID1590,22/06/1991,Female,Australia,Melbourne,Data Scientist,Education,Mass Affluent
+ID1591,07/10/1996,Female,USA,New York,HR Specialist,Marketing,Mass Affluent
+ID1592,16/07/1964,Female,UK,London,Financial Analyst,Finance,High Net Worth
+ID1593,08/05/1988,Male,Canada,Vancouver,Consultant,Finance,Mass Affluent
+ID1594,16/10/1961,Male,Australia,Sydney,Financial Analyst,Construction,High Net Worth
+ID1595,15/04/1971,Male,USA,Los Angeles,Project Manager,Construction,High Net Worth
+ID1596,25/02/1964,Female,France,Paris,Accountant,IT,Mass Affluent
+ID1597,16/06/1990,Male,UK,London,Project Manager,Finance,Mass Affluent
+ID1598,14/08/1974,Female,Germany,Berlin,HR Specialist,Marketing,Affluent
+ID1599,05/11/1984,Female,USA,New York,Data Scientist,Finance,Mass Affluent
+ID1600,10/01/1999,Male,Canada,Vancouver,Financial Analyst,Retail,Affluent
+ID1601,08/07/1986,Female,Canada,Toronto,Software Engineer,Hospitality,Mass Affluent
+ID1602,23/10/1980,Male,Canada,Toronto,Marketing Manager,Healthcare,High Net Worth
+ID1603,20/09/1981,Male,Canada,Toronto,HR Specialist,Hospitality,High Net Worth
+ID1604,03/02/1984,Male,UK,London,Financial Analyst,Finance,Mass Affluent
+ID1605,31/07/1970,Male,France,Paris,Software Engineer,Healthcare,Mass Affluent
+ID1606,31/08/1985,Female,France,Paris,Consultant,Healthcare,Affluent
+ID1607,05/06/1988,Male,Germany,Berlin,General Manager,Hospitality,Affluent
+ID1608,05/04/1961,Female,Canada,Toronto,Project Manager,Healthcare,Mass Affluent
+ID1609,21/09/1997,Male,UK,Manchester,Marketing Manager,IT,Affluent
+ID1610,16/09/1974,Female,UK,London,Accountant,Education,Mass Affluent
+ID1611,19/12/1967,Female,USA,New York,Consultant,Construction,Affluent
+ID1612,12/02/1997,Male,Germany,Berlin,HR Specialist,Hospitality,Affluent
+ID1613,24/01/1989,Male,Canada,Toronto,Data Scientist,Finance,High Net Worth
+ID1614,20/02/1999,Female,USA,Los Angeles,General Manager,Construction,Mass Affluent
+ID1615,26/02/1975,Female,Germany,Berlin,Sales Executive,Healthcare,High Net Worth
+ID1616,23/05/1960,Female,Canada,Toronto,Consultant,Healthcare,Mass Affluent
+ID1617,18/10/1968,Female,USA,Los Angeles,Accountant,Construction,Mass Affluent
+ID1618,09/05/1998,Male,USA,Los Angeles,HR Specialist,Construction,High Net Worth
+ID1619,30/06/1970,Male,Canada,Toronto,Consultant,Finance,Mass Affluent
+ID1620,06/05/1974,Male,Canada,Vancouver,Software Engineer,Retail,High Net Worth
+ID1621,21/09/1961,Female,Canada,Vancouver,Consultant,Construction,High Net Worth
+ID1622,30/01/1983,Male,Germany,Berlin,Project Manager,Marketing,High Net Worth
+ID1623,03/09/1971,Male,UK,London,Project Manager,Healthcare,High Net Worth
+ID1624,09/10/1972,Male,Vietnam,Ho Chi Minh,Software Engineer,IT,Affluent
+ID1625,26/12/1976,Female,Australia,Melbourne,Project Manager,Healthcare,Affluent
+ID1626,04/07/1981,Male,Australia,Sydney,Marketing Manager,Retail,Affluent
+ID1627,25/08/1961,Male,Australia,Melbourne,HR Specialist,Healthcare,Mass Affluent
+ID1628,19/02/1981,Male,Vietnam,Hanoi,HR Specialist,Marketing,Mass Affluent
+ID1629,12/03/1987,Female,Vietnam,Hanoi,HR Specialist,Education,High Net Worth
+ID1630,14/07/1975,Female,Vietnam,Ho Chi Minh,Financial Analyst,Healthcare,Mass Affluent
+ID1631,16/02/1987,Male,Canada,Vancouver,Project Manager,Education,Affluent
+ID1632,26/01/1979,Male,Germany,Berlin,Financial Analyst,Marketing,High Net Worth
+ID1633,06/11/1985,Male,Canada,Vancouver,Data Scientist,Finance,High Net Worth
+ID1634,15/10/1987,Male,France,Paris,Project Manager,Healthcare,Mass Affluent
+ID1635,06/02/1984,Female,Germany,Berlin,Marketing Manager,Finance,Mass Affluent
+ID1636,28/09/1962,Female,Australia,Melbourne,Sales Executive,Healthcare,High Net Worth
+ID1637,30/07/1975,Male,UK,Manchester,Accountant,IT,Mass Affluent
+ID1638,24/05/1995,Male,Vietnam,Ho Chi Minh,General Manager,Hospitality,Affluent
+ID1639,17/01/1961,Male,Canada,Vancouver,Sales Executive,Marketing,High Net Worth
+ID1640,25/12/1978,Male,Vietnam,Hanoi,Software Engineer,IT,Mass Affluent
+ID1641,16/12/1986,Male,Germany,Berlin,Project Manager,Hospitality,High Net Worth
+ID1642,10/12/1996,Male,Canada,Toronto,Accountant,Retail,High Net Worth
+ID1643,01/08/1998,Male,Canada,Vancouver,Software Engineer,Retail,Mass Affluent
+ID1644,07/10/1972,Male,USA,Los Angeles,HR Specialist,Healthcare,Affluent
+ID1645,27/12/1985,Male,Vietnam,Ho Chi Minh,Software Engineer,Finance,High Net Worth
+ID1646,18/09/1969,Female,Vietnam,Hanoi,Consultant,Finance,High Net Worth
+ID1647,10/01/1982,Female,USA,New York,Accountant,IT,High Net Worth
+ID1648,09/05/1999,Female,UK,Manchester,HR Specialist,Healthcare,Affluent
+ID1649,15/11/1965,Male,Vietnam,Hanoi,Consultant,Education,Mass Affluent
+ID1650,15/03/1968,Female,France,Paris,Marketing Manager,Hospitality,High Net Worth
+ID1651,11/08/1986,Male,Canada,Toronto,General Manager,Retail,Affluent
+ID1652,04/10/1984,Female,UK,Manchester,General Manager,Retail,High Net Worth
+ID1653,25/09/1997,Male,Vietnam,Ho Chi Minh,General Manager,Marketing,High Net Worth
+ID1654,24/08/1966,Female,Australia,Sydney,Accountant,Education,High Net Worth
+ID1655,22/12/1993,Female,Germany,Berlin,Financial Analyst,Hospitality,Affluent
+ID1656,07/07/1963,Male,Vietnam,Ho Chi Minh,Project Manager,Education,Affluent
+ID1657,21/04/1991,Female,France,Paris,Sales Executive,IT,Affluent
+ID1658,28/04/1991,Female,UK,London,General Manager,Finance,Affluent
+ID1659,23/06/1984,Female,Vietnam,Hanoi,Software Engineer,Hospitality,High Net Worth
+ID1660,27/07/1966,Male,Canada,Toronto,HR Specialist,Education,Mass Affluent
+ID1661,17/12/1975,Female,Vietnam,Ho Chi Minh,Financial Analyst,Hospitality,Mass Affluent
+ID1662,29/03/1966,Male,USA,Los Angeles,Data Scientist,Finance,High Net Worth
+ID1663,10/03/1992,Male,Australia,Melbourne,Accountant,IT,High Net Worth
+ID1664,13/02/1968,Male,Vietnam,Ho Chi Minh,Project Manager,Education,High Net Worth
+ID1665,20/11/1990,Male,USA,Los Angeles,Marketing Manager,IT,High Net Worth
+ID1666,30/09/1982,Female,Vietnam,Ho Chi Minh,Data Scientist,IT,High Net Worth
+ID1667,17/06/1980,Female,Australia,Sydney,Accountant,Education,Mass Affluent
+ID1668,21/06/1978,Female,France,Paris,Financial Analyst,Education,Affluent
+ID1669,30/06/1961,Male,France,Paris,HR Specialist,Construction,High Net Worth
+ID1670,16/06/1972,Female,France,Paris,HR Specialist,Healthcare,High Net Worth
+ID1671,31/05/1979,Female,UK,London,Software Engineer,Healthcare,Mass Affluent
+ID1672,25/05/1970,Female,UK,London,Consultant,Marketing,Affluent
+ID1673,29/03/1981,Male,UK,Manchester,General Manager,Education,Affluent
+ID1674,22/12/1978,Female,UK,Manchester,HR Specialist,Retail,Mass Affluent
+ID1675,09/09/1965,Female,Germany,Berlin,HR Specialist,IT,Mass Affluent
+ID1676,13/10/1983,Male,Canada,Toronto,Project Manager,Finance,Mass Affluent
+ID1677,11/10/1967,Male,UK,London,Marketing Manager,Finance,High Net Worth
+ID1678,27/05/1965,Female,USA,New York,Data Scientist,Healthcare,High Net Worth
+ID1679,19/01/1966,Male,Vietnam,Ho Chi Minh,Marketing Manager,Education,High Net Worth
+ID1680,04/07/1998,Female,Canada,Vancouver,Marketing Manager,Finance,Mass Affluent
+ID1681,03/05/1979,Male,Canada,Vancouver,General Manager,Marketing,Affluent
+ID1682,19/12/1970,Male,Australia,Melbourne,Financial Analyst,Healthcare,Mass Affluent
+ID1683,16/10/1984,Male,Vietnam,Hanoi,Project Manager,Hospitality,Mass Affluent
+ID1684,22/04/1997,Male,France,Paris,Consultant,Hospitality,Affluent
+ID1685,12/09/2000,Female,Australia,Melbourne,Data Scientist,Finance,Affluent
+ID1686,12/01/1983,Female,Vietnam,Hanoi,Accountant,Healthcare,High Net Worth
+ID1687,08/06/1973,Male,Canada,Toronto,Consultant,Marketing,Mass Affluent
+ID1688,19/02/1965,Male,Vietnam,Ho Chi Minh,Marketing Manager,IT,High Net Worth
+ID1689,17/07/1998,Female,USA,New York,HR Specialist,Construction,Mass Affluent
+ID1690,03/10/1971,Female,Vietnam,Ho Chi Minh,Data Scientist,Hospitality,Mass Affluent
+ID1691,19/03/1979,Male,Germany,Berlin,Marketing Manager,Finance,Affluent
+ID1692,04/05/1978,Male,Australia,Melbourne,Accountant,Retail,Mass Affluent
+ID1693,09/05/1985,Female,Germany,Berlin,Marketing Manager,Finance,High Net Worth
+ID1694,24/10/2000,Female,Vietnam,Ho Chi Minh,Software Engineer,Education,High Net Worth
+ID1695,06/04/1982,Male,Vietnam,Ho Chi Minh,Project Manager,Retail,High Net Worth
+ID1696,30/04/1972,Female,UK,Manchester,Software Engineer,Retail,Affluent
+ID1697,14/09/1961,Male,Vietnam,Ho Chi Minh,Marketing Manager,Education,Affluent
+ID1698,29/02/1980,Female,USA,Los Angeles,Financial Analyst,Healthcare,Mass Affluent
+ID1699,18/12/1998,Male,Australia,Sydney,Software Engineer,Hospitality,Affluent
+ID1700,19/05/1986,Female,Canada,Toronto,HR Specialist,IT,Mass Affluent
+ID1701,13/10/1996,Male,UK,Manchester,Marketing Manager,Healthcare,Mass Affluent
+ID1702,16/08/1972,Male,Vietnam,Hanoi,Project Manager,Healthcare,High Net Worth
+ID1703,02/05/1992,Male,Australia,Sydney,Accountant,Finance,High Net Worth
+ID1704,16/04/1981,Female,Australia,Sydney,Software Engineer,Education,Affluent
+ID1705,07/12/1995,Female,USA,Los Angeles,Sales Executive,Hospitality,Mass Affluent
+ID1706,11/02/1966,Female,Vietnam,Ho Chi Minh,HR Specialist,Construction,High Net Worth
+ID1707,23/08/1983,Male,Germany,Berlin,Project Manager,Healthcare,High Net Worth
+ID1708,30/07/1988,Male,Vietnam,Ho Chi Minh,Sales Executive,Retail,High Net Worth
+ID1709,15/02/1999,Male,Germany,Berlin,HR Specialist,Construction,High Net Worth
+ID1710,30/06/1962,Female,UK,London,HR Specialist,Education,Affluent
+ID1711,26/07/1966,Male,Australia,Sydney,Accountant,Retail,Affluent
+ID1712,06/12/1984,Male,UK,London,HR Specialist,Healthcare,Affluent
+ID1713,26/06/1998,Male,Australia,Melbourne,Consultant,Healthcare,Affluent
+ID1714,04/10/1977,Male,USA,Los Angeles,Sales Executive,Retail,Affluent
+ID1715,19/06/1997,Male,USA,New York,Accountant,Healthcare,Mass Affluent
+ID1716,01/05/1974,Male,USA,Los Angeles,General Manager,Healthcare,Affluent
+ID1717,07/03/1974,Female,USA,New York,HR Specialist,Retail,Affluent
+ID1718,05/10/1991,Male,Canada,Toronto,Software Engineer,Finance,Mass Affluent
+ID1719,08/07/1973,Female,UK,Manchester,Financial Analyst,Hospitality,High Net Worth
+ID1720,02/09/1997,Male,Vietnam,Hanoi,Software Engineer,Education,Mass Affluent
+ID1721,25/11/1972,Male,Vietnam,Hanoi,Marketing Manager,Marketing,Mass Affluent
+ID1722,23/11/1993,Female,USA,New York,Software Engineer,Marketing,Mass Affluent
+ID1723,06/06/1984,Female,Vietnam,Hanoi,Project Manager,Healthcare,Affluent
+ID1724,20/03/1990,Male,Germany,Berlin,Sales Executive,Healthcare,High Net Worth
+ID1725,07/03/1976,Female,Canada,Vancouver,HR Specialist,Construction,Affluent
+ID1726,06/06/1968,Female,Vietnam,Ho Chi Minh,Project Manager,Finance,Mass Affluent
+ID1727,17/07/1971,Male,Vietnam,Ho Chi Minh,Data Scientist,Education,Affluent
+ID1728,09/02/1970,Male,Germany,Berlin,General Manager,Healthcare,Mass Affluent
+ID1729,04/03/1999,Female,UK,London,Consultant,Finance,Mass Affluent
+ID1730,24/03/1980,Female,France,Paris,Sales Executive,Finance,Mass Affluent
+ID1731,12/08/1964,Male,USA,Los Angeles,Accountant,Hospitality,Mass Affluent
+ID1732,29/11/1996,Female,Australia,Sydney,Project Manager,Education,High Net Worth
+ID1733,27/07/1961,Male,Australia,Sydney,Consultant,Education,Affluent
+ID1734,24/10/1994,Female,USA,Los Angeles,Marketing Manager,IT,Mass Affluent
+ID1735,25/07/1973,Male,Canada,Toronto,Marketing Manager,Education,High Net Worth
+ID1736,30/10/1969,Female,France,Paris,Marketing Manager,Hospitality,Mass Affluent
+ID1737,15/06/1978,Female,Germany,Berlin,Consultant,Hospitality,High Net Worth
+ID1738,15/08/1993,Male,Canada,Vancouver,Data Scientist,Healthcare,Mass Affluent
+ID1739,17/08/1973,Female,France,Paris,HR Specialist,Hospitality,High Net Worth
+ID1740,16/07/1966,Male,USA,New York,Accountant,Education,Mass Affluent
+ID1741,13/05/1967,Male,France,Paris,Software Engineer,Education,Affluent
+ID1742,25/06/1968,Male,Canada,Toronto,General Manager,Retail,Mass Affluent
+ID1743,09/01/1965,Male,Canada,Vancouver,Marketing Manager,Construction,Affluent
+ID1744,04/09/1983,Female,Australia,Sydney,Financial Analyst,Healthcare,High Net Worth
+ID1745,23/11/1969,Male,Australia,Sydney,Project Manager,Finance,Affluent
+ID1746,31/08/1988,Female,Canada,Vancouver,Sales Executive,Construction,High Net Worth
+ID1747,25/11/1968,Female,Australia,Melbourne,Consultant,Marketing,High Net Worth
+ID1748,10/08/1960,Male,USA,Los Angeles,Financial Analyst,Retail,Affluent
+ID1749,17/09/1975,Female,Canada,Vancouver,Data Scientist,Marketing,Mass Affluent
+ID1750,06/02/1998,Female,France,Paris,Marketing Manager,IT,Mass Affluent
+ID1751,19/06/1967,Female,Vietnam,Ho Chi Minh,Software Engineer,Finance,High Net Worth
+ID1752,09/12/1980,Female,Australia,Sydney,Sales Executive,Healthcare,Affluent
+ID1753,05/05/1968,Female,Australia,Melbourne,Software Engineer,Healthcare,Mass Affluent
+ID1754,12/08/1970,Male,USA,New York,Marketing Manager,Hospitality,Affluent
+ID1755,03/04/1967,Male,Vietnam,Hanoi,Software Engineer,Construction,High Net Worth
+ID1756,13/05/1977,Male,Australia,Sydney,Accountant,Construction,Mass Affluent
+ID1757,19/01/1967,Female,France,Paris,Project Manager,Marketing,Affluent
+ID1758,07/10/1972,Male,Vietnam,Ho Chi Minh,Project Manager,Healthcare,Affluent
+ID1759,03/03/1983,Male,Australia,Sydney,Data Scientist,Healthcare,High Net Worth
+ID1760,17/11/1991,Male,Canada,Toronto,Data Scientist,Hospitality,Affluent
+ID1761,16/08/1993,Female,UK,London,Consultant,Construction,Mass Affluent
+ID1762,06/09/1992,Male,Canada,Toronto,Software Engineer,Retail,High Net Worth
+ID1763,20/01/1996,Female,Germany,Berlin,Accountant,Hospitality,Mass Affluent
+ID1764,12/05/1974,Female,UK,London,Marketing Manager,IT,Affluent
+ID1765,06/11/1974,Female,Germany,Berlin,General Manager,Hospitality,Mass Affluent
+ID1766,13/04/1992,Male,USA,New York,Consultant,IT,Affluent
+ID1767,08/11/1966,Male,UK,Manchester,Financial Analyst,Finance,Mass Affluent
+ID1768,20/12/1967,Male,Vietnam,Hanoi,HR Specialist,Education,Mass Affluent
+ID1769,15/05/1991,Male,Australia,Melbourne,Consultant,IT,High Net Worth
+ID1770,19/09/1965,Female,USA,Los Angeles,Financial Analyst,IT,Mass Affluent
+ID1771,09/03/1969,Female,Vietnam,Hanoi,Accountant,Healthcare,Affluent
+ID1772,01/01/1964,Male,Germany,Berlin,General Manager,Construction,High Net Worth
+ID1773,18/09/1968,Female,Germany,Berlin,HR Specialist,Healthcare,Mass Affluent
+ID1774,01/08/1971,Female,Germany,Berlin,Project Manager,Construction,Affluent
+ID1775,19/01/1986,Male,USA,New York,Data Scientist,Healthcare,Mass Affluent
+ID1776,18/01/1976,Male,France,Paris,Software Engineer,Hospitality,Affluent
+ID1777,25/05/1971,Female,Vietnam,Hanoi,Marketing Manager,Healthcare,Mass Affluent
+ID1778,01/02/1999,Male,Australia,Melbourne,General Manager,IT,Affluent
+ID1779,07/07/1984,Male,Australia,Sydney,Sales Executive,Construction,High Net Worth
+ID1780,21/05/1971,Male,Vietnam,Ho Chi Minh,Sales Executive,Healthcare,Affluent
+ID1781,24/01/1972,Female,Canada,Vancouver,Accountant,Finance,Mass Affluent
+ID1782,05/11/1968,Male,USA,Los Angeles,Project Manager,Finance,High Net Worth
+ID1783,29/03/1988,Female,Vietnam,Hanoi,Accountant,Finance,Affluent
+ID1784,20/12/1981,Female,Australia,Sydney,Marketing Manager,Education,Mass Affluent
+ID1785,30/05/1981,Male,Vietnam,Hanoi,Financial Analyst,IT,Affluent
+ID1786,20/11/1988,Female,Vietnam,Hanoi,HR Specialist,Education,Affluent
+ID1787,29/06/1968,Male,Australia,Melbourne,Software Engineer,Retail,High Net Worth
+ID1788,22/10/1995,Male,USA,Los Angeles,Financial Analyst,IT,Affluent
+ID1789,27/03/1986,Female,UK,Manchester,Financial Analyst,Retail,Affluent
+ID1790,22/11/1978,Female,UK,London,Data Scientist,Hospitality,High Net Worth
+ID1791,28/04/1983,Female,Australia,Melbourne,Project Manager,Hospitality,High Net Worth
+ID1792,08/12/1976,Female,UK,London,General Manager,Construction,Mass Affluent
+ID1793,29/10/1998,Male,USA,New York,Consultant,Construction,High Net Worth
+ID1794,28/07/1960,Male,Australia,Melbourne,Project Manager,Retail,High Net Worth
+ID1795,03/06/1964,Male,UK,London,Project Manager,IT,High Net Worth
+ID1796,20/08/1994,Male,UK,Manchester,Marketing Manager,Construction,High Net Worth
+ID1797,23/07/1984,Male,USA,New York,General Manager,Education,High Net Worth
+ID1798,26/03/1965,Male,USA,New York,Sales Executive,Finance,Affluent
+ID1799,11/01/1963,Male,USA,New York,Accountant,Education,Mass Affluent
+ID1800,30/08/1993,Female,USA,Los Angeles,Software Engineer,Retail,Mass Affluent
+ID1801,17/08/1971,Male,Canada,Toronto,HR Specialist,Education,High Net Worth
+ID1802,18/09/1998,Male,UK,Manchester,Accountant,Marketing,Affluent
+ID1803,08/01/1993,Female,USA,New York,General Manager,Healthcare,High Net Worth
+ID1804,06/04/1999,Male,France,Paris,Marketing Manager,Retail,Affluent
+ID1805,16/09/1981,Female,Vietnam,Ho Chi Minh,Accountant,Healthcare,Affluent
+ID1806,23/04/1981,Male,France,Paris,Project Manager,Marketing,Affluent
+ID1807,24/05/1963,Male,Canada,Vancouver,Accountant,Hospitality,Mass Affluent
+ID1808,13/12/1962,Male,Australia,Sydney,General Manager,IT,Affluent
+ID1809,15/12/1990,Female,Germany,Berlin,Marketing Manager,Construction,Mass Affluent
+ID1810,27/11/1994,Female,Vietnam,Hanoi,Project Manager,Retail,Mass Affluent
+ID1811,20/09/1963,Female,Canada,Vancouver,Financial Analyst,Hospitality,Mass Affluent
+ID1812,20/07/1961,Female,Vietnam,Hanoi,Sales Executive,Healthcare,High Net Worth
+ID1813,09/08/1976,Male,Canada,Toronto,Data Scientist,Retail,Mass Affluent
+ID1814,26/11/1976,Female,UK,London,Accountant,Education,High Net Worth
+ID1815,27/01/1970,Male,Vietnam,Ho Chi Minh,Data Scientist,IT,High Net Worth
