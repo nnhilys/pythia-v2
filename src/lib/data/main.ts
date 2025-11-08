@@ -41,12 +41,15 @@ export interface CustomerData {
   totalCustomers: number
   totalTransactions: number
   totalAvenue: number
+  dateRange: { from: Date, to: Date }
 }
 
 export function getReadonlyCustomerData(): CustomerData {
   let totalCustomers = 0
   let totalTransactions = 0
   let totalAvenue = 0
+  let fromDate: Date = new Date()
+  let toDate: Date = new Date()
 
   const demographic = new Map<string, Demographic>();
   (_demographic as unknown as RawDemographic[]).forEach((row) => {
@@ -75,6 +78,11 @@ export function getReadonlyCustomerData(): CustomerData {
     transactions.set(key, [...cur, next])
     totalTransactions++
     totalAvenue += next.transactionAmount
+    const transactionTime = next.transactionDate.getTime()
+    if (fromDate.getTime() > transactionTime)
+      fromDate = next.transactionDate
+    if (toDate.getTime() < transactionTime)
+      toDate = next.transactionDate
   })
 
   return {
@@ -83,5 +91,6 @@ export function getReadonlyCustomerData(): CustomerData {
     totalCustomers,
     totalTransactions,
     totalAvenue,
+    dateRange: { from: fromDate, to: toDate },
   }
 }
