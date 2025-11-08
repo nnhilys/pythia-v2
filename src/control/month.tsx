@@ -8,6 +8,7 @@ import {
 } from '@/components/ui/select'
 
 const MONTH = [
+  'All',
   'Jan',
   'Feb',
   'Mar',
@@ -37,7 +38,7 @@ export function ControlMonth(props: {
         <SelectValue placeholder="Select month" />
       </SelectTrigger>
       <SelectContent>
-        {Array.from({ length: 12 }).map((_, i) => {
+        {Array.from({ length: 13 }).map((_, i) => {
           return (
           // eslint-disable-next-line react/no-array-index-key
             <SelectItem key={i} value={i.toString()}>

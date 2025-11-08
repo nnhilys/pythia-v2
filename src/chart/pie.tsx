@@ -7,9 +7,8 @@ import {
   ChartContainer,
   ChartLegend,
   ChartLegendContent,
-  ChartTooltip,
-  ChartTooltipContent,
 } from '@/components/ui/chart'
+import { currencyFormatter, numberFormatter } from '@/lib/number'
 import { CHART_COLORS, checkAgeGroup } from './type'
 
 export function ChartPie(props: {
@@ -32,11 +31,13 @@ export function ChartPie(props: {
 
       const count = countCustomers.get(key) ?? 0
 
-      const filteredTransactions = customerTransactions.filter((transaction) => {
-        const transactionYear = transaction.transactionDate.getFullYear()
-        const transactionMonth = transaction.transactionDate.getMonth()
-        return transactionYear === year && transactionMonth === month
-      })
+      const filteredTransactions = month === 0
+        ? customerTransactions
+        : customerTransactions.filter((transaction) => {
+            const transactionYear = transaction.transactionDate.getFullYear()
+            const transactionMonth = transaction.transactionDate.getMonth()
+            return transactionYear === year && transactionMonth + 1 === month
+          })
 
       if (quantitative === 'avenue') {
         const totalAvenue = filteredTransactions.reduce((acc, cur) => {
@@ -74,15 +75,28 @@ export function ChartPie(props: {
       className="h-full"
     >
       <PieChart>
-        <ChartTooltip
-          cursor={false}
-          content={<ChartTooltipContent hideLabel />}
-        />
         <Pie
           data={chartData}
           dataKey="quantitative"
           nameKey="qualitative"
-          label
+          labelLine={false}
+          label={({ payload, ...props }) => {
+            return (
+              <text
+                cx={props.cx}
+                cy={props.cy}
+                x={props.x}
+                y={props.y}
+                textAnchor={props.textAnchor}
+                dominantBaseline={props.dominantBaseline}
+                fill="hsla(var(--foreground))"
+              >
+                {quantitative === 'avenue'
+                  ? currencyFormatter.format(payload.quantitative)
+                  : numberFormatter.format(payload.quantitative)}
+              </text>
+            )
+          }}
         />
         <ChartLegend
           content={<ChartLegendContent nameKey="qualitative" />}
