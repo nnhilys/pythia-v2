@@ -44,7 +44,7 @@ export interface CustomerData {
   dateRange: { from: Date, to: Date }
 }
 
-export function getReadonlyCustomerData(): CustomerData {
+export function getCustomerData(): CustomerData {
   let totalCustomers = 0
   let totalTransactions = 0
   let totalAvenue = 0

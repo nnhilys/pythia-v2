@@ -1,4 +1,5 @@
 import type { ReactElement } from 'react'
+import type { Quantitative } from './type'
 import {
   Select,
   SelectContent,
@@ -6,8 +7,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select'
-
-export type Quantitative = 'transactions' | 'avenue' | 'customers'
 
 export function ControlQuantitative(props: {
   value: Quantitative

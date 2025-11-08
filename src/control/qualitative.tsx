@@ -1,5 +1,5 @@
 import type { ReactElement } from 'react'
-import type { Demographic } from '@/lib/data/main'
+import type { Qualitative } from './type'
 import {
   Select,
   SelectContent,
@@ -7,8 +7,6 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select'
-
-export type Qualitative = keyof Demographic
 
 export function ControlQualitative(props: {
   value: Qualitative

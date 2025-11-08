@@ -5,6 +5,7 @@ import { useState } from 'react'
 import { Button } from '@/components/ui/button'
 import { Calendar } from '@/components/ui/calendar'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
+import { cn } from '@/lib/utils'
 
 export function ControlDateRange(props: {
   value: DateRange | undefined
@@ -20,10 +21,13 @@ export function ControlDateRange(props: {
         <Button
           variant="outline"
           id="date"
-          className="w-full justify-between font-normal"
+          className={cn(
+            'w-full justify-between font-normal',
+            value === undefined && 'text-muted-foreground hover:text-muted-foreground',
+          )}
         >
           {displayDateRange(value)}
-          <ChevronDownIcon className="size-4 opacity-50 text-muted-foreground" />
+          <ChevronDownIcon className="size-4 opacity-50" />
         </Button>
       </PopoverTrigger>
       <PopoverContent className="w-auto overflow-hidden p-0" align="start">
