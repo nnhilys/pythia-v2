@@ -35,9 +35,22 @@ export interface Transaction {
   transactionAmount: number
 }
 
-export function getReadonlyCustomerData() {
-  const demographic: Demographic[] = (_demographic as unknown as RawDemographic[]).map((row) => {
-    return {
+export interface CustomerData {
+  demographic: Map<string, Demographic>
+  transactions: Map<string, Transaction[]>
+  totalCustomers: number
+  totalTransactions: number
+  totalAvenue: number
+}
+
+export function getReadonlyCustomerData(): CustomerData {
+  let totalCustomers = 0
+  let totalTransactions = 0
+  let totalAvenue = 0
+
+  const demographic = new Map<string, Demographic>();
+  (_demographic as unknown as RawDemographic[]).forEach((row) => {
+    demographic.set(row.id, {
       id: row.id,
       dob: new Date(row.dob),
       gender: row.gender,
@@ -46,16 +59,29 @@ export function getReadonlyCustomerData() {
       jobTitle: row.job_title,
       jobIndustry: row.job_industry,
       wealthSegment: row.wealth_segment,
-    }
+    })
+    totalCustomers++
   })
 
-  const transactions: Transaction[] = (_transactions as unknown as RawTransaction[]).map((row) => {
-    return {
+  const transactions = new Map<string, Transaction[]>();
+  (_transactions as unknown as RawTransaction[]).forEach((row) => {
+    const key = row.customer_id
+    const cur = transactions.get(key) ?? []
+    const next = {
       customerId: row.customer_id,
       transactionDate: new Date(row.transaction_date),
       transactionAmount: Number(row.transaction_amount),
     }
+    transactions.set(key, [...cur, next])
+    totalTransactions++
+    totalAvenue += next.transactionAmount
   })
 
-  return { demographic, transactions } as const
+  return {
+    demographic,
+    transactions,
+    totalCustomers,
+    totalTransactions,
+    totalAvenue,
+  }
 }

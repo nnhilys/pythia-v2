@@ -1,19 +1,11 @@
 import type { ReactElement } from 'react'
-import type { Demographic, Transaction } from '@/lib/data/main'
+import type { CustomerData } from '@/lib/data/main'
 import { Card } from '@/components/ui/card'
+import { currencyFormatter, numberFormatter } from '@/lib/number'
 
-export function AppSummary(props: {
-  demographic: Demographic[]
-  transactions: Transaction[]
-}): ReactElement {
-  const { demographic, transactions } = props
+export function AppSummary(props: { customerData: CustomerData }): ReactElement {
+  const { totalCustomers, totalTransactions, totalAvenue } = props.customerData
 
-  const numberFormatter = new Intl.NumberFormat('en-EN', { maximumFractionDigits: 2 })
-  const currencyFormatter = new Intl.NumberFormat('en-EN', { style: 'currency', currency: 'USD' })
-
-  const totalCustomers = demographic.length
-  const totalTransactions = transactions.length
-  const totalAvenue = transactions.reduce((acc, cur) => acc + cur.transactionAmount, 0)
   const transactionsPerCustomer = totalTransactions / totalCustomers
   const avenuePerCustomer = totalAvenue / totalCustomers
 
