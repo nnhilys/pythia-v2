@@ -30,7 +30,7 @@ export function ChartBar(props: {
 
       customerTransactions.forEach((transaction) => {
         const transactionYear = transaction.transactionDate.getFullYear()
-        if (transactionYear !== year) {
+        if (year !== 0 && transactionYear !== year) {
           return
         }
 

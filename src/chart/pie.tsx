@@ -31,13 +31,15 @@ export function ChartPie(props: {
 
       const count = countCustomers.get(key) ?? 0
 
-      const filteredTransactions = month === 0
-        ? customerTransactions
-        : customerTransactions.filter((transaction) => {
-            const transactionYear = transaction.transactionDate.getFullYear()
-            const transactionMonth = transaction.transactionDate.getMonth()
-            return transactionYear === year && transactionMonth + 1 === month
-          })
+      const filteredTransactions = customerTransactions.filter((transaction) => {
+        if (year === 0)
+          return true
+        const transactionYear = transaction.transactionDate.getFullYear()
+        if (month === 0)
+          return transactionYear === year
+        const transactionMonth = transaction.transactionDate.getMonth()
+        return transactionYear === year && transactionMonth + 1 === month
+      })
 
       if (quantitative === 'avenue') {
         const totalAvenue = filteredTransactions.reduce((acc, cur) => {

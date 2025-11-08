@@ -22,6 +22,9 @@ export function ControlYear(props: {
         <SelectValue />
       </SelectTrigger>
       <SelectContent>
+        <SelectItem value="0">
+          All
+        </SelectItem>
         {years.map((year) => {
           return (
             <SelectItem key={year} value={year.toString()}>
