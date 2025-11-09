@@ -40,16 +40,16 @@ export function AppMain() {
               </Card>
             )
           : (
-              <Card className="flex flex-row w-full p-4">
-                <div className="w-3/4">
-                  <ChartMain customerData={customerData} control={control} />
-                </div>
-                <div className="w-1/4 flex flex-col gap-4">
+              <Card className="flex flex-col lg:flex-row-reverse w-full p-4">
+                <div className="w-full lg:w-1/4 flex lg:flex-col gap-4 overflow-x-auto lg:overflow-x-hidden">
                   <ControlMain
                     years={customerData.years}
                     control={control}
                     onChange={setControl}
                   />
+                </div>
+                <div className="w-full lg:w-3/4">
+                  <ChartMain customerData={customerData} control={control} />
                 </div>
               </Card>
             )}

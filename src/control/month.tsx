@@ -26,13 +26,14 @@ const MONTH = [
 export function ControlMonth(props: {
   value: number | undefined
   onValueChange: (value: number) => void
-}): ReactElement {
+}): ReactElement | null {
   const { value, onValueChange } = props
+  if (value === undefined)
+    return null
   return (
     <Select
       value={value !== undefined ? value.toString() : ''}
       onValueChange={value => onValueChange(Number(value))}
-      disabled={value === undefined}
     >
       <SelectTrigger className="w-full">
         <SelectValue placeholder="Select month" />
