@@ -9,7 +9,7 @@ import {
   ChartTooltip,
   ChartTooltipContent,
 } from '@/components/ui/chart'
-import { dateFormatter } from '@/lib/number'
+import { monthFormatter } from '@/lib/number'
 import { CHART_COLORS, checkAgeGroup } from './type'
 
 export function ChartBar(props: {
@@ -40,7 +40,7 @@ export function ChartBar(props: {
         // Calculate quantitative values from yAxis
 
         const value: Record<string, string> = countCustomers.get(key)
-          ?? { month: dateFormatter.format(transaction.transactionDate) }
+          ?? { month: monthFormatter.format(transaction.transactionDate) }
         const customerQualitative = qualitative === 'dob'
           ? checkAgeGroup(customer.dob)
           : customer[qualitative]

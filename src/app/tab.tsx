@@ -1,5 +1,5 @@
 import type { ReactElement } from 'react'
-import { ChartColumnBig, ChartPie } from 'lucide-react'
+import { ChartColumnBig, ChartPie, Table, User } from 'lucide-react'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 
 export type TabOption = 'bar' | 'pie' | 'scatter' | 'line' | 'table'
@@ -13,7 +13,7 @@ export function AppTab(props: {
 
   return (
     <Tabs
-      className="w-full"
+      className="w-full flex-1 min-h-0"
       value={value}
       onValueChange={value => onValueChange(value as TabOption)}
     >
@@ -30,9 +30,12 @@ export function AppTab(props: {
         {/* <TabsTrigger value="line" disabled>
           <ChartLine />
         </TabsTrigger> */}
-        {/* <TabsTrigger value="table" disabled>
+        <TabsTrigger value="table-demographic">
+          <User />
+        </TabsTrigger>
+        <TabsTrigger value="table-transactions">
           <Table />
-        </TabsTrigger> */}
+        </TabsTrigger>
       </TabsList>
       {children}
     </Tabs>
