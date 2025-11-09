@@ -35,7 +35,7 @@ export function AppMain() {
       >
         {tab.startsWith('table')
           ? (
-              <Card className="w-full p-4 flex-1 overflow-auto">
+              <Card className="w-full p-4 flex-1 flex flex-col min-h-0">
                 <TableMain customerData={customerData} />
               </Card>
             )

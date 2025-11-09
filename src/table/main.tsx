@@ -8,10 +8,10 @@ export function TableMain(props: { customerData: CustomerData }): ReactElement {
   const { customerData } = props
   return (
     <>
-      <TabsContent value="table-demographic">
+      <TabsContent value="table-demographic" className="flex-1 flex flex-col min-h-0">
         <TableDemographic customerData={customerData} />
       </TabsContent>
-      <TabsContent value="table-transactions">
+      <TabsContent value="table-transactions" className="flex-1 flex flex-col min-h-0">
         <TableTransactions customerData={customerData} />
       </TabsContent>
     </>

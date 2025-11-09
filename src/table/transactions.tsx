@@ -12,9 +12,10 @@ import { currencyFormatter, dateFormatter } from '@/lib/number'
 
 export function TableTransactions(props: { customerData: CustomerData }): ReactElement {
   const { transactions } = props.customerData
+
   return (
-    <Table>
-      <TableHeader>
+    <Table className="h-full overflow-auto">
+      <TableHeader className="sticky top-0 bg-white shadow">
         <TableRow>
           <TableHead className="w-[200px]">Customer ID</TableHead>
           <TableHead className="w-[200px]">Date</TableHead>

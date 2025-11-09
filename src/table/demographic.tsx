@@ -13,8 +13,8 @@ import { currencyFormatter, dateFormatter, numberFormatter } from '@/lib/number'
 export function TableDemographic(props: { customerData: CustomerData }): ReactElement {
   const { demographic, transactions } = props.customerData
   return (
-    <Table>
-      <TableHeader>
+    <Table className="h-full overflow-auto">
+      <TableHeader className="sticky top-0 bg-white shadow">
         <TableRow>
           <TableHead className="w-[100px]">ID</TableHead>
           <TableHead>Date Of Birth</TableHead>
