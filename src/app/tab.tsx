@@ -2,7 +2,7 @@ import type { ReactElement } from 'react'
 import { ChartColumnBig, ChartPie, Table, User } from 'lucide-react'
 import { Tabs, TabsList, TabsTrigger } from '@/components/ui/tabs'
 
-export type TabOption = 'bar' | 'pie' | 'scatter' | 'line' | 'table'
+export type TabOption = 'bar' | 'pie' | 'scatter' | 'line' | 'table-transactions' | 'table-demographic'
 
 export function AppTab(props: {
   children: ReactElement

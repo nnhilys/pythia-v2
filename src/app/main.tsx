@@ -12,7 +12,7 @@ import { AppTab } from './tab'
 export function AppMain() {
   const customerData = useMemo(() => getCustomerData(), [])
 
-  const [tab, setTab] = useState<TabOption>('bar')
+  const [tab, setTab] = useState<TabOption>('table-transactions')
   const [control, setControl] = useState<Control>({
     qualitative: 'dob',
     quantitative: 'transactions',
